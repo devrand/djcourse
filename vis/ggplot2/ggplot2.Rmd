@@ -1,0 +1,418 @@
+---
+title: "Gentle introduction to ggplot2"
+output: slidy_presentation
+date: '`r Sys.Date()`'
+---
+
+## Що це?
+
+Найпопулярніша бібліотека для візуалізації даних в R. Написана **Хедлі Вікхемом** у 2005 році. Є імплементацією **Grammar of Graphics** Ліленда Вілкінсона.
+
+
+## Що таке Grammar of Graphics?
+
+Спосіб опису візуалізації даних через її структурні елементи - дані, візуальні елементи, способи кодування інформації, шкали і масштаби, координати, статистики і т.д. 
+
+## Структура візуалізації
+
+- data
+- aestethics
+- geometry
+- statistics
+- scales
+- facets
+- coordinates
+- themes
+
+## Принади ggplot2
+
+- Хороші дефолтні налаштування
+- Доступ до всіх ключових налаштувань на нижчому рівні (шрифти, кольори, теми)
+- Наявність розширень і доповнень від спільноти
+- Чудова документація
+
+## Початок роботи
+
+```{r, eval=FALSE}
+install.packages("ggplot2") #встановлення бібліотеки
+```
+
+```{r, eval=TRUE}
+library(ggplot2) #завантаження бібліотеки
+data("iris") #завантаження датасету
+```
+
+##Дані
+
+```{r}
+head(iris)
+```
+
+## Простий графік
+
+```{r, eval=FALSE, echo=TRUE}
+ggplot(iris, aes(x=Sepal.Length, 
+                 y=Sepal.Width, 
+                 color = Species))+
+      geom_point()
+```
+
+## Простий графік
+
+```{r, eval=TRUE, echo=FALSE}
+ggplot(iris, aes(x=Sepal.Length, 
+                 y=Sepal.Width, 
+                 color = Species))+
+      geom_point()
+```
+
+## Розбираємо код
+
+**ggplot** - базова функція  
+**iris** - набір даних, з яким ми працюємо  
+**aes** -   
+**x, y, color** - виміри, з яких будується візуалізації
+
+## Трохи ускладнимо
+
+```{r, eval=FALSE, echo=TRUE}
+ggplot(iris, aes(x=Sepal.Length, 
+                 y=Sepal.Width, 
+                 color = Species))+
+      geom_point()+
+      geom_smooth(method = "lm", se = FALSE)+
+      facet_wrap(~Species)
+```
+
+## Результат
+
+```{r, eval=TRUE, echo=FALSE}
+ggplot(iris, aes(x=Sepal.Length, 
+                 y=Sepal.Width, 
+                 color = Species))+
+      geom_point()+
+      geom_smooth(method = "lm", se = FALSE)+
+      facet_wrap(~Species)
+```
+
+## Аргументи естетики
+
+- color
+- fill
+- size
+- group
+- alpha
+
+## Аргументи всередині aes (кодування інформації)
+```{r, eval=TRUE}
+head(mtcars)
+```
+```{r, eval=FALSE, echo=TRUE}
+ggplot(mtcars, aes(mpg, cyl, 
+                   color=as.factor(cyl),
+                   size=hp,
+                   alpha=hp))+
+      geom_point()
+```
+
+## Результат
+
+```{r, eval=TRUE, echo=FALSE}
+ggplot(mtcars, aes(mpg, cyl, 
+                   color=as.factor(cyl),
+                   size=hp,
+                   alpha=hp))+
+      geom_point()
+```
+
+## Аргументи за межами aes (декорації)
+
+```{r, eval=FALSE, echo=TRUE}
+ggplot(mtcars, aes(mpg, cyl))+
+      geom_point(color="red",
+                 size=2,
+                 alpha=0.5)
+```
+
+## Результат
+
+```{r, eval=TRUE, echo=FALSE}
+ggplot(mtcars, aes(mpg, cyl))+
+      geom_point(color="red",
+                 size=2,
+                 alpha=0.5)
+```
+
+## Геометрії
+- geom_bar
+- geom_line
+- geom_area
+- geom_point
+- geom_linerange
+- geom_histogram
+- geom_ribbon
+- geom_raster
+- geom_segment
+- geom_curve
+
+## Geom_bar
+
+```{r, eval=TRUE, echo=TRUE}
+library(datasets)
+data("precip")
+prcp <- data.frame(city = as.character(names(precip)), 
+                   precipitation = (unname(precip)))
+```
+```{r, eval=FALSE}
+ggplot(head(prcp, 10))+
+      geom_bar(aes(reorder(city, precipitation), 
+                   precipitation), 
+               stat="identity",
+               fill="darkred")+
+      coord_flip()
+```
+
+## Результат
+
+```{r, eval=TRUE, echo=FALSE}
+ggplot(head(prcp, 10))+
+      geom_bar(aes(reorder(city, precipitation), 
+                   precipitation), 
+               stat="identity",
+               fill="darkred")+
+      coord_flip()
+```
+
+## geom_line, geom_area
+```{r, eval=TRUE}
+data("economics")
+head(economics)
+```
+```{r, eval=FALSE}
+ggplot(economics)+
+      geom_area(aes(date, unemploy), 
+                stat="identity", 
+                fill="darkred", 
+                alpha=0.3)+
+      geom_line(aes(date, unemploy),
+                size=1,
+                color="darkred")
+```
+
+## Результат
+
+```{r, eval=TRUE, echo=FALSE}
+ggplot(economics)+
+      geom_area(aes(date, unemploy), 
+                stat="identity", 
+                fill="darkred", 
+                alpha=0.3)+
+      geom_line(aes(date, unemploy),
+                size=1,
+                color="darkred")
+```
+
+## geom_histogram
+
+```{r, eval=TRUE}
+data("mtcars")
+head(mtcars)
+```
+```{r, eval=FALSE}
+ggplot(mtcars)+
+      geom_histogram(aes(mpg),
+                     binwidth = 1,
+                     fill="darkred")
+
+```
+
+## Результат
+```{r, eval=TRUE, echo=FALSE}
+ggplot(mtcars)+
+      geom_histogram(aes(mpg),
+                     binwidth = 1,
+                     fill="darkred")
+```
+
+## geom_polygon
+```{r, eval=TRUE, echo=TRUE}
+require(raster)
+ukraine <- getData(name = "GADM", country = "UKR", level=1)
+ukraine <- fortify(ukraine)
+```
+```{r, eval=FALSE}
+ggplot(ukraine)+
+      geom_polygon(aes(long, lat, group=group),
+                   fill= "grey",
+                   color="white",
+                   alpha=0.6)+
+      coord_map()+
+      ggthemes::theme_map()
+```
+
+## Карта
+```{r, eval=TRUE, echo=FALSE}
+ggplot(ukraine)+
+      geom_polygon(aes(long, lat, group=group),
+                   fill= "grey",
+                   color="white",
+                   alpha=0.6)+
+      coord_map()+
+      ggthemes::theme_map()
+```
+
+## Stats
+- identity
+- fill
+
+## Scales
+
+- color
+- fill
+- size
+- alpha
+
+## Coordinates
+
+- coord_flip
+- coord_polar
+- coord_map
+
+## Ускладнимо ще трохи
+
+```{r}
+data("presidential")
+head(presidential)
+```
+
+```{r, eval=FALSE, echo=TRUE}
+ggplot(presidential) +
+      geom_linerange(aes(x=reorder(name, end), 
+                         ymin=start, 
+                         ymax=end, 
+                         color=party),
+                     size=4) +
+      coord_flip()+
+      scale_color_brewer(type="qual")+
+      scale_y_date(date_breaks = "5 years", date_labels = "%Y")+
+      xlab("Президент")+
+      ylab("Роки правління")+
+      guides(color=guide_legend(title="Партія"))+
+      theme_bw()+
+      theme(text = element_text(family = "Open Sans", size=10))
+```
+
+## Що з цього вийшло
+
+```{r, eval=TRUE, echo=FALSE}
+ggplot(presidential) +
+      geom_linerange(aes(x=reorder(name, end), 
+                         ymin=start, 
+                         ymax=end, 
+                         color=party),
+                     size=4) +
+      coord_flip()+
+      scale_color_brewer(type="qual")+
+      scale_y_date(date_breaks = "5 years", date_labels = "%Y")+
+      xlab("Президент")+
+      ylab("Роки правління")+
+      guides(color=guide_legend(title="Партія"))+
+      theme_bw()+
+      theme(text = element_text(family = "Open Sans", size=10))
+```
+
+## Або так
+
+```{r, eval=FALSE}
+ggplot(presidential) +
+      geom_linerange(aes(x="Президент", 
+                         ymin=start, 
+                         ymax=end, 
+                         color=party),
+                     size=10) +
+      geom_text(aes(x="Президент", y=start, label=name), size=2, hjust = 0)+
+      coord_flip()+
+      scale_color_brewer(type="qual")+
+      scale_y_date(date_breaks = "5 years", date_labels = "%Y")+
+      guides(color=guide_legend(title="Партія"))+
+      theme_bw()+
+      theme(axis.title = element_blank(),
+            text = element_text(family = "Open Sans", size=10))
+```
+
+## Вийде щось таке
+
+```{r, eval=TRUE, echo=FALSE}
+ggplot(presidential) +
+      geom_linerange(aes(x="Президент", 
+                         ymin=start, 
+                         ymax=end, 
+                         color=party),
+                     size=10) +
+      geom_text(aes(x="Президент", y=start, label=name), size=2, hjust = 0)+
+      coord_flip()+
+      scale_color_brewer(type="qual")+
+      scale_y_date(date_breaks = "5 years", date_labels = "%Y")+
+      guides(color=guide_legend(title="Партія"))+
+      theme_bw()+
+      theme(axis.title = element_blank(),
+            text = element_text(family = "Open Sans", size=10))
+```
+
+## Заголовки
+``` {r, eval = FALSE}
+xlab("\nЗаголовок осі")+
+ylab("Заголовок осі\n")+
+ggtitle("Написати тут заголовок графіку\n")+
+guides(color=guide_legend(title="Заголовок легенди"))+      
+```
+
+## Теми
+
+- theme_bw()
+- theme_minimal()
+- theme_classic()
+
+## Theme
+``` {r, eval = FALSE}
+theme(#basic elements
+            line = element_line(color="#EFF2F4"),
+            rect = element_rect(color="#CCD0D7"),
+            text = element_text(size=12, family="Open Sans Light", colour = "#5D646F"),
+            plot.title = element_text(size=22, family="Open Sans", face="bold", colour = "#3A3F4A", hjust=-0.125),
+            #panel
+            panel.border=element_blank(),
+            panel.background = element_rect(fill = "#EFF2F4"),
+            plot.background = element_rect(fill = "#EFF2F4"),
+            #axes
+            axis.title=element_text(size=12, family="Open Sans Light", colour = "#5D646F"),
+            axis.ticks=element_blank(),
+            axis.text=element_text(size=10, family="Open Sans Light", colour = "#5D646F"),
+            #grid
+            panel.grid.major = element_line(colour = "#CCD0D7", size=.25),
+            panel.grid.minor = element_blank(),
+            #legend
+            legend.margin = unit(0, "points"),
+            legend.key.height=unit(5, "points"),
+            legend.position = c(0.215, 1.05),
+            legend.direction = "horizontal", 
+            legend.box = "vertical",
+            legend.box.just = "left",
+            legend.key = element_blank(),
+            legend.background = element_rect(fill = "#EFF2F4"),
+            legend.text = element_text(family="Open Sans Light", colour = "#3A3F4A", hjust=0),
+            legend.title.align = 0,
+            legend.text.align = 0,
+            plot.margin = unit(c(60, 45, 60, 45), "points"))     
+```
+
+## Додаткові пакети
+``` {r, eval = FALSE}
+require(ggthemes) #готові теми для оформлення графіків
+require(scales) #якщо ви хочете редагувати 
+require(viridis) #якщо вам потрібні кольори
+require(raster) #якщо ви хочете отримати карту
+require(ggiraph) #якщо вам потрібна інтерактивність
+require(ggrepel) #якщо вам потрібні красиві підписи
+devtools::install_github("dgrtwo/gganimate") #якщо вам потрібна анімація
+```
