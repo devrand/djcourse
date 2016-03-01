@@ -1,0 +1,8 @@
+# Where to look: https://www.twilio.com/user/account/messaging/dev-tools/api-explorer/message-create
+
+curl -X POST 'https://api.twilio.com/2010-04-01/Accounts/AC4c8e4ce4337162d6c1ea0c3309933a22/Messages.json' \
+--data-urlencode 'To=+380506196939'  \
+--data-urlencode 'From=+12018028050'  \
+--data-urlencode 'Body=Pryvit, syogodni vzhe zyma' \
+-u AC4c8e4ce4337162d6c1ea0c3309933a22:08a085586fa86701172eacec773fad2e
+
