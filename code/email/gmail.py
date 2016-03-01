@@ -7,8 +7,8 @@ import sys
 sys.path.append("..")
 from course_config import *
 
-fromaddr = 'dnavred1h2@gmail.com'
-toaddrs  = 'devrand@gmail.com'
+fromaddr = 'from@gmail.com'
+toaddrs  = 'to@gmail.com'
 msg = 'There was a terrible error that occured and I wanted you to know! Nevermind, rejoice!'
 
 
