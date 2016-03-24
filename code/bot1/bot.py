@@ -9,7 +9,9 @@ from course_config import *
 argfile = str(sys.argv[1])
 
 
-# need CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET    
+# go to https://dev.twitter.com/ and register application
+# you need CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET    
+
    
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
