@@ -12,7 +12,8 @@ toaddrs  = 'to@gmail.com'
 msg = 'There was a terrible error that occured and I wanted you to know! Nevermind, rejoice!'
 
 
-# need gusername annd gpassword from gmail account
+# of course, you need gusername and gpassword from gmail account - Anatoly
+# but use your own account with care - it's better to register new google account for this
 
 # The actual mail send
 server = smtplib.SMTP('smtp.gmail.com:587')
