@@ -9,6 +9,9 @@
 
 З одного боку може здатися, що це ускладнює задачу інформаційного дизайнера. Насправді, якщо знати мову візуалізації та правила, у який спосіб краще представляти ті чи інші дані, це сильно полегшує роботу - тому що обмежує кількість  варіантів візуального кодування, яке можуть бути використане у кожному конкретному випадку. 
 
+
+# Показати візуально 2 та 4, різними способами
+
 Отже, саме цим ми зараз і займемося: подивимося, які типи даних існують, і як їх кодувати за домомогою цієї мови у найбільш ефективний спосіб.
 
 ## Типи даних
@@ -90,21 +93,23 @@
 
 1. Канали для відповіді на питання "Що?" (категорійні дані)
 
-- Форма
-- Місце розташування
-- Колір (відтінок)
+* Форма
+* Місце розташування
+* Колір (відтінок)
 
 2. Канали для відповіді "Наскільки багато?" (кількісні), або наскільки сильно? (впорядковані)  
-– Довжина (1D)
-– Площа (2D)
-– Об'єм (3D)
-– Нахил
-– Позиція
-– Колір (Яскравість)
+* Довжина (1D)
+* Площа (2D)
+* Об'єм (3D)
+* Нахил
+* Позиція
+* Колір (Яскравість)
   
 Наступного разу ми поговоримо, як ще можна обмежити кількість комбінацій для візуального кодування, виходячи з нашої головної мети: зробити інформаційний дизайн, тобто наші візуалізації, найбільш ефективними для представлення наших даних.    
-Частина 2
+
+# Частина 2
 Виразність + Ефективність
+
 ## Виразність (принцип):
 - візуальне кодування повинно показувати всю інформацію, яка присутня в змінних, і лише її (приклад?)
 - фактор брехні ???
@@ -120,42 +125,24 @@
 ((Тут має бути графік Stevens psychology power law))
 
 
- 
-Continuum
-	Measured exponent 	Stimulus condition
-Loudness 	0.67 	Sound pressure of 3000-Hz tone
-Vibration 	0.95 	Amplitude of 60 Hz on finger
-Vibration 	0.6 	Amplitude of 250 Hz on finger
-Brightness 	0.33 	5° target in dark
-Brightness 	0.5 	Point source
-Brightness 	5 	Brief flash
-Brightness 	1 	Point source briefly flashed
-Lightness 	1.2 	Reflectance of gray papers
-Visual length 	1 	Projected line
-Visual area 	0.7 	Projected square
-Redness (saturation) 	1.7 	Red-gray mixture
-Taste 	1.3 	Sucrose
-Taste 	1.4 	Salt
-Taste 	0.8 	Sacchrine
-Smell 	0.6 	Heptane
-Cold 	1 	Metal contact on arm
-Warmth 	1.6 	Metal contact on arm
-Warmth 	1.3 	Irradiation of skin, small area
-Warmth 	0.7 	Irradiation of skin, large area
-Discomfort, cold 	1.7 	Whole body irradiation
-Discomfort, warm 	0.7 	Whole body irradiaton
-Thermal pain 	1 	Radiant heat on skin
-Tactual roughness 	1.5 	Rubbing emery cloths
-Tactual hardness 	0.8 	Squeezing rubber
-Finger span 	1.3 	Thickness of blocks
-Pressure on palm 	1.1 	Static force on skin
-Muscle force 	1.7 	Static contractions
-Heaviness 	1.45 	Lifed weights
-Viscosity 	0.42 	Stirring silicone fluids
-Electric shock 	3.5 	Current through fingers
-Vocal effort 	1.1 	Vocal sound pressure
-Angular acceleration 	1.4 	5-sec rotation
-Duration 	1.1 	White noise stimuli
+
+Стимул|Експонента|Умови
+---|---|---
+Звук| 	0.67 | Тиск від 3000-Hz сигналу
+Вібрація|0.95| частота 60 Hz на палець
+Вібрація|0.6|частота 250 Hz на палець
+Яскравість|0.33|5° мішень в темряві
+Яскравість|0.5|Точкове джерело
+Яскравість|5|Короткий спалах
+Яскравість|1|Точкове джерело, короткий спалах
+Освітленість|1.2|Альбедо сірого паперу 
+Довжина| 1| Лінія
+Площа|0.7|Квадрат
+Насиченість|1.7|Перехід червоне-сіре
+Смак|1.3|Сахароза
+Електрошок|3.5|Ток через палець
+
+
 
 Ефективність - роздільна здатність
 - як багато кольорів ви можете розпізнати
