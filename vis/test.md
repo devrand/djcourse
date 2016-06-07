@@ -65,8 +65,10 @@
 1. Форма + Значення (намалювати, виглядає, як головоломка)
 ![](https://www.targetprocess.com/content/uploads/2012/09/example1_shape_value.jpg)
 2. Колір + Розмір кола(трохи краще, нагадати про площу, а не радіус) 
+![](https://www.targetprocess.com/content/uploads/2012/09/example1_color_size.jpg)
 3. Колір + Y (ще краще, але що робити з легендою?)
 4. Y + X (майже ідеально, бо немає легенди. підписи на графіку значно краще легенди)
+![](https://www.targetprocess.com/content/uploads/2015/07/example1_y.jpg)
 5. Y + X (чупачупс, - ідеально)
 
 
