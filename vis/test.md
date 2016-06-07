@@ -60,6 +60,7 @@
 
  
 1. Форма + Значення (намалювати, виглядає, як головоломка)
+
 ![](https://www.targetprocess.com/content/uploads/2012/09/example1_shape_value.jpg)
 
 
