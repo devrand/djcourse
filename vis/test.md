@@ -123,15 +123,20 @@
   
 ## Приклади
 1. Усайн Болд
-
 ![](https://www.targetprocess.com/content/uploads/2015/07/ex_100m.jpg)
-2. Графік типу "чупа-чупс"
 
+
+2. Графік типу "чупа-чупс"
 ![](http://texty.org.ua/action/file/download?file_guid=67996)
+
 3. Результати олімпіади
 
-!()[https://www.targetprocess.com/content/uploads/2015/07/ex_medals.png]
-4. 
+![](https://www.targetprocess.com/content/uploads/2015/07/ex_medals.png)
+
+
+4. New York, stop and frisk
+
+![](https://static01.nyt.com/packages/images/newsgraphics/2012/0816-force/0815-force.png)
 
 
 Сьогодні ми познайомилися з елементами мови візуалізації, про те що таке мітки(позначки), та візуальні канали.  Також ми поговорили про те, які типи даних існують, і які візуальні канали більше пасують для різних типів даних.
