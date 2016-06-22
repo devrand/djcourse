@@ -18,6 +18,7 @@
 * Пам/ятайте про ефективні графіки - слоуп, лоллі, скаттер, гістограма
 * Інколи краще показати транформовані, ніж початкові дані
 
+
 Тамара:
 * No 3D
 ** Power of plane
@@ -26,7 +27,7 @@
 ** Perspective distorts
 ** Titled text - isn't legible
 * Get it right in black and white
-*Function first. Form next
+* Function first. Form next
 * Resolution over immertion
 * Overview -> zoom -> filter. Details on demand
 * Responsiveness is a must
