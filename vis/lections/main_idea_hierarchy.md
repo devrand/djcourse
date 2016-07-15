@@ -49,14 +49,19 @@ required to please readers’ eyes:
 a well-balanced image where negative space and light elements
 play their role aesthetically.
 
+### 5 кроків
+* Брейнсторм
+* 3 кроки Дизайну: The Content of the three design sheets should be similar. They should contain: 
+
+    the Layout of the design. This is the vision of what the final visualization would look like. Commonly this would appear as a sketched screen‐shot of the typical visualization application.
+    Focus. There may be a few key visualization techniques, or in particular, novel visualizations that are being created for this tool. These should be described in the Focus section.
+    Sketches and some brief descriptions of how the user operates the visualization, or controls the user interface should also be included.
+    A discussion of the advantages and disadvantages of this technique should be included somewhere on the design sheet.
+    Finally meta‐information should be included: including title, authors, date, sheet number and task.
+*  The differences with Sheet 5 and sheets 2,3,4 is that the Discussion is exchanged for some Detail.
 
 
 
-
-
-
-
-###
 
 
 
