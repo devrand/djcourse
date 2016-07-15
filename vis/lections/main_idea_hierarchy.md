@@ -22,6 +22,28 @@
 
 ![Жоржія Лупі, Акурат](https://d262ilb51hltx0.cloudfront.net/max/2000/1*MXSvw4G8z9qE0kPAxhSqhg.jpeg)
 
+1. Composing the main architecture of the visualization
+base through which the main story will be mapped and displayed, upon this, one will see the most relevant patterns emerging from the story: the essential “map” that conceptually identifies where we are
+
+2. Positioning singular elements within the main framework.
+the placement of elements reveals or confirms weaknesses and strengths, which may lead to modification of the main architecture.
+
+3. Constructing shaped elements of dimensionality and form
+...  with quantitative and qualitative parameters and positioning these within the main architecture
+
+4. Elucidating internal relationships between elements (if any)
+These ... serve to give the story a comprehensive texture
+
+5. Labeling and identifying
+Through the addition of explanatory labels and short texts we provide requisite last mile clarity throughout the presentation.
+
+До речі, це обов"язковий елемент - таке має бути завжди. Не розраховуйте, що ваша візуалізація буде в якомусь контексті, з якого читач отримає додаткову інформацію. Все повинно бути в одному місці - особливо в наші часи поширення по соц. мережам. Зрозумілий заголовок, дата, підписи під вісями, одиниці виміру, джерела даних (за необхідністю), ваш логотип
+
+
+
+
+
+
 
 
 
