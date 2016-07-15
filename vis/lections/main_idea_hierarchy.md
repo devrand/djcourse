@@ -40,6 +40,15 @@ Through the addition of explanatory labels and short texts we provide requisite 
 До речі, це обов"язковий елемент - таке має бути завжди. Не розраховуйте, що ваша візуалізація буде в якомусь контексті, з якого читач отримає додаткову інформацію. Все повинно бути в одному місці - особливо в наші часи поширення по соц. мережам. Зрозумілий заголовок, дата, підписи під вісями, одиниці виміру, джерела даних (за необхідністю), ваш логотип
 
 
+- Supplementing the greater story through the addition of minor or tangential tales elements.
+- Providing small visual explanations such as a legend or key that assists readers and the general public who may not be familiar with norms of data visualization.
+- Fine-tuning and stylizing of elements’ shapes, colors, and weights to make hierarchies pop out
+
+The final fine-tuning of the piece is the necessary effort
+required to please readers’ eyes:
+a well-balanced image where negative space and light elements
+play their role aesthetically.
+
 
 
 
