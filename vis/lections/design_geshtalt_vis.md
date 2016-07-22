@@ -32,7 +32,7 @@ Most of the principles are relatively easy to understand. There’s a common the
 
 Many of the principles below will follow this pattern. The principles either define X or the higher order that’s perceived.
 
-## Схожість (Зв"язок)
+## Групування. Схожість (Зв"язок)
 
 ### Common Regions Link
 
@@ -46,7 +46,6 @@ Many of the principles below will follow this pattern. The principles either def
     “Elements that are visually connected are perceived as more related than elements with no connection.”
     
 ![друге по силі](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/05-uniform-connectedness.png)
-
 
 
 ### Proximity Link
