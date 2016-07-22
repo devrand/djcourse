@@ -17,10 +17,16 @@
 все одразу)
 - інваріантність (ми впізнаєм базові об№єкти не залежно від розміру, зміщення, повороту)
 
-### Гештальт-принципи
+## Гештальт-принципи
 Most of the principles are relatively easy to understand. There’s a common theme running through many of them.
 
     “All else being equal, elements that are related by X tend to be grouped perceptually into higher-order units.”
     — Stephen Palmer
 
 Many of the principles below will follow this pattern. The principles either define X or the higher order that’s perceived.
+
+### Принцип простоти (хороша фігура, Pragnanz)
+Для Складних, багатоваріантних зображеннь ми будем сприймати у найпростіший спосіб
+Це базовий принцип - ми надаємо перевагу простим, зрозумилим і впорядуованим об"єктам - інстинктивно для нас це безпечні речі, вимагають менше часу на обробку і не містять неприємних сюрпризів.
+
+!(хороша фігура)[https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/01-pragnanz.png]
