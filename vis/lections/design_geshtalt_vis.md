@@ -139,7 +139,7 @@ Secondly, and perhaps more importantly, make an effort to spend time observing h
 
 * Showing that some things are the same and some are different is the first step in visual communication. It’s the primary way that viewers derive meaning.
 
-Contrast and similarity are clues to design elements. Differences draw our attention, and similarity transfers what we know about one element to another.
+Contrast and similarity are clues to design elements. Differences draw our attention, and similarity transfers what we know about one element to another. До того ж, всі елементи існують в контексті, а не у вакуумі
 
 Similarity and Gestalt Link
 
