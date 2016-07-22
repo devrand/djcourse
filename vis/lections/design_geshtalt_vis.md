@@ -10,18 +10,18 @@
 дизайну.
 
 Основні ідеї:
-- проява (загальне раніше ніж деталі, бачимо спочатку загальну картину)
-- добудова (мозок створює картинку, не око - і добудовує неповну знайому форму до повноти)
+- проява (загальне раніше ніж деталі, бачимо спочатку загальну картину) (1)
+- добудова (мозок створює картинку, не око - і добудовує неповну знайому форму до повноти) (2)
 - мозок не любить невизначеності. завжди є один варіант картини(тому відбувається переключення між альтернативами, 
 наслідки: тому ми шукаємо закономірності навіть там, де їх немає (допомагає модульна сітка), тому не можна міняти
-все одразу)
-- інваріантність (ми впізнаєм базові об№єкти не залежно від розміру, зміщення, повороту)
+все одразу) (3)
+- інваріантність (ми впізнаєм базові об№єкти не залежно від розміру, зміщення, повороту) (4)
 
 ## Гештальт-принципи
 Most of the principles are relatively easy to understand. There’s a common theme running through many of them.
 
     “All else being equal, elements that are related by X tend to be grouped perceptually into higher-order units.”
-    — Stephen Palmer
+    — Stephen Palmer (5)
 
 Many of the principles below will follow this pattern. The principles either define X or the higher order that’s perceived.
 
@@ -30,15 +30,87 @@ Many of the principles below will follow this pattern. The principles either def
 Це базовий принцип - ми надаємо перевагу простим, зрозумілим і впорядкованим об"єктам - інстинктивно для нас це безпечні речі, вимагають менше часу на обробку і не містять неприємних сюрпризів (сітка, віз. ієрархія).
 
 (окремі частини - простіше ніж сукупна фігура)
+
 ![хороша фігура](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/01-pragnanz.png)
 
-### Замкнення
+### Замкнення (see (2))
 У випадку, коли загальна картинка простіше, ніж частини, ми в першу чергу бачимо загальну картину
+
+
 ![closure](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/02-closure.png)
+
+
 Як і в попередньому випадку, ми шукаємо простоти. Однак тут простіше добудувати патерн, ніж дивитися на частини
 
 
 ### Симетрія та порядок
     “People tend to perceive objects as symmetrical shapes that form around their center.”
 Симетрія дає нам відчуття стабільності і порядку, які ми шукаємо. В нашій природі впроваджувати порядок в хаос (щоб зрозуміти). Це принцип змушує нас прагнути балансу в композиції, хоча для цього вона не повинна бути ідеально симетричною, щоб бути збалансованою. Здатність швидко знаходити симетрію та порядок варто використовувати щоб ефективно передавати інформацію
+
 ![симетрія - ми бачимо 3 пари симетричних дужок](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/03-symmetry.png)
+
+### Figure/Ground Link (see (3) )
+
+    “Elements are perceived as either figure (the element in focus) or ground (the background on which the figure rests).”
+
+![фігура](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/04-figure-ground.png)
+
+The more stable the relationship, the better we can lead our audience to focus on what we want them to see. Two related principles can help us:
+
+    * Area
+    The smaller of two overlapping objects is seen as figure. The larger is seen as ground. You can see this in the right image above. The smaller shape is the figure regardless of color.
+    * Convexity
+    Convex rather than concave patterns tend to be perceived as figures.
+
+
+### Uniform Connectedness Link
+
+    “Elements that are visually connected are perceived as more related than elements with no connection.”
+    
+![](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/05-uniform-connectedness.png)
+
+
+### Common Regions Link
+
+    “Elements are perceived as part of a group if they are located within the same closed region.”
+
+![найсильніше відчуття групи](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/06-common-regions.png)
+
+### Proximity Link
+
+    “Objects that are closer together are perceived as more related than objects that are further apart.”
+
+![друге по силі групування](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/07-proximity.png)
+
+
+### продовження
+
+    “Elements arranged on a line or curve are perceived as more related than elements not on the line or curve.”
+
+It’s instinct to follow a river, a path or a fence line. Once you look or move in a particular direction, you continue to look or move in that direction until you see something significant or you determine there’s nothing significant to see.
+
+![](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/08-continuation.png)
+
+
+### Common Fate (Synchrony) Link
+
+    “Elements that move in the same direction are perceived as more related than elements that are stationary or that move in different directions.”
+    
+![](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/09-common-fate.png)
+
+
+### Similarity Link (see (5))
+
+    “Elements that share similar characteristics are perceived as more related than elements that don’t share those characteristics.”
+![](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/11-similarity.png)
+
+### Focal Points Link
+
+    “Elements with a point of interest, emphasis or difference will capture and hold the viewer’s attention.”
+
+This principle suggests that our attention will be drawn toward contrast, toward the element that is unlike the others in some way. 
+![](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/12-focal-point.png)
+
+The principles of similarity and focal points are connected, and focal points can’t be seen without the presence of similarity among other elements.
+
+
