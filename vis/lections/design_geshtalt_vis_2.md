@@ -11,32 +11,24 @@
 елементів
 - Ви маєте простір лище тоді, коли у ньому щось є
 - Простір корелює з якістю, довершеністю, вишуканістю, (порівняйте хай-енд та прості магазини)
+- Ще одна важлива функція - підвищити розбірливість та читабельність тексту - мікроспейс робить більш розбірливим, макроспейс - більш читабельним
 
-та взаємодія фігура-тло (бачимо або фігуру, або тло)
-I hope you take away two main things from this post. First is the connection between the use of space in design and the gestalt principle of figure-ground. Gestalt principles underly much of what we do as designers.
+Не бійтеся викорситоувати простір! Дивіться як це роблять інші
 
+I hope you take away two main things from this post. First is the connection between the use of space in design and the gestalt principle of figure-ground. 
 Secondly, and perhaps more importantly, make an effort to spend time observing how space is used in design
 
 ## Схожість та відмінність
 
-* Showing that some things are the same and some are different is the first step in visual communication. It’s the primary way that viewers derive meaning.
+- Показати, що якісь елементи - схожі, а якісь - відмінні, це перший крок у візуальних комунікаціяї. Це первинний шлях,
+з якого глядач розуміє зміст
+- Відмінність привертає нашу увагу, а схожість переносить наші знання про один елемент, на інший. Всі елементи існують в контексті, а не у вакуумі
+- Люди заточені на те, щоб одразу бачити відмінність - саме це робить контраст таким сильним візуальним методом  
+- Схожість допомагає нам розрізняти патерни, які дозволяють нам розуміти світ.
 
-Contrast and similarity are clues to design elements. Differences draw our attention, and similarity transfers what we know about one element to another. До того ж, всі елементи існують в контексті, а не у вакуумі
 
-Similarity and Gestalt Link
 
-Again, every gestalt principle is about how we perceive the similarity or difference between objects. Many of them can be read as tips to show similarity.
-
-    closure (different elements that may be part of a similar whole)
-    symmetry and order(mirrored elements that appear to belong together)
-    uniform connectedness(similarity through visually connecting elements)
-    common regions(similar items enclosed together)
-    proximity(similarity through enclosures in space)
-    continuation(similarity through rhythms in space)
-    common fate(similarity through movement)
-    
-    
-    ### Як визначити візуальну вагу? 
+### Як визначити візуальну вагу? 
     Size(Large elements have more visual weight than small elements.)
     Color(Warm colors advance into the foreground and tend to weigh more than cool colors, which recede into the background. Red is considered the heaviest color and yellow the lightest)
     Value(Dark elements have more visual weight than light elements)
