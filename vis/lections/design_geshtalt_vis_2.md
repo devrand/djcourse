@@ -48,3 +48,6 @@ You don’t have to limit yourself to the primitive features above. You can use 
     Насиченість кольору(Saturated colors appear heavier than desaturated colors.)
     Perceived physical weight(We know that a house weighs more than a shoe. An image of a house will weigh more visually than an image of a shoe, because we expect the house to weigh more.)
 
+Загальний віз. напрямок композиції 
+Один з: вертикальний(формальність та увага), горизлнтальний (спокійна та стабільна), діагонпльна - рух, дія.
+Вага та візуальний напрямок - основні методи створення ієрархії та зрештою, балансу
