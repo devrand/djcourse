@@ -14,7 +14,7 @@
 
 ### 1. акуратність представлення
 (Візуальні судження після візуального стимулу )
-![Стевенса закон](http://images.slideplayer.com/26/8805850/slides/slide_46.jpg)
+http://images.slideplayer.com/26/8805850/slides/slide_46.jpg
 
 0.7 -  коеффіцієнт для площі
 
