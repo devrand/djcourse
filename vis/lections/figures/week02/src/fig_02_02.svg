@@ -18,7 +18,7 @@
    sodipodi:docname="fig_02_02.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath16"><path
@@ -62,7 +62,7 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.7090195"
+     inkscape:zoom="0.85450975"
      inkscape:cx="288.31"
      inkscape:cy="195.28999"
      inkscape:window-x="0"
@@ -134,7 +134,7 @@
          sodipodi:role="line"
          id="tspan86"
          x="288.15356"
-         y="-245.05641"></tspan><tspan
+         y="-245.05641" /><tspan
          style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:140.99999666%;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
          sodipodi:role="line"
          x="288.15356"
@@ -144,7 +144,7 @@
          sodipodi:role="line"
          id="tspan88"
          x="288.15356"
-         y="-217.98441"></tspan><tspan
+         y="-217.98441" /><tspan
          style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:140.99999666%;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
          sodipodi:role="line"
          x="288.15356"
@@ -154,7 +154,7 @@
          sodipodi:role="line"
          id="tspan90"
          x="288.15356"
-         y="-190.9124"></tspan><tspan
+         y="-190.9124" /><tspan
          style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:140.99999666%;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
          sodipodi:role="line"
          x="288.15356"
@@ -514,8 +514,8 @@
        id="text304"
        x="110.45322"
        y="-326.65094"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto Bold"><tspan
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"><tspan
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#393536;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
          sodipodi:role="line"
          id="tspan306"
          x="110.45322"
