@@ -148,18 +148,6 @@
 
 
 
-### Посилання
-
-Візуальне кодування 
-* https://www.targetprocess.com/
-* http://www.scribblelive.com/blog/2012/07/27/45-ways-to-communicate-two-quantities/
-
-
-
-
-
-
-
 
 
 
