@@ -1,0 +1,2806 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="renderer-svg "
+   width="640"
+   height="360"
+   data-reactid=".0.0.0.0.$xy"
+   id="chartbuilder-export"
+   version="1.1"
+   viewBox="0 0 640 360"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fig_01_03.svg">
+  <metadata
+     id="metadata164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1151"
+     id="namedview162"
+     showgrid="false"
+     inkscape:zoom="1.284375"
+     inkscape:cx="323.11436"
+     inkscape:cy="180"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="chartbuilder-export" />
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="style5">
+[data-color-index=&quot;1&quot;] path { stroke: rgb(253, 174, 97); }
+.color-index-1 { fill: rgb(253, 174, 97); }
+[data-color-index=&quot;5&quot;] path { stroke: rgb(116, 173, 209); }
+.color-index-5 { fill: rgb(116, 173, 209); }
+@font-face {
+  font-family: &quot;Khula-Light&quot;;
+  font-style: normal;
+  font-weight: 300;
+  src: local(&quot;Khula Light&quot;), local(&quot;Khula-Light&quot;), url(&quot;data:application/font-woff2;base64,d09GMgABAAAAAAKsAA4AAAAABQQAAAJaAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbDBwMBmAANBEICoEMgRIBNgIkAxQLDAAEIAWDZAc+GwsEyJ6aPAmKggIJbMMrFAQc8QA/7t9zH4A22glSKE6rS3+rcyhiieIv+7V3bvE2F8Sl2ReRioTOOqVdKuChaSX/v6dhAw5DDngA2mGwL07lJ8xYFsAAxnhtzuZcKGltDvONc1vPC1SgYt+mmZDPBoqMiI4Ysg2PEJ+VC8jhcxFBREwQkJFR83I0thL68RAfGnuGW92IKMwdwvyzwcGZCw82AOS7P2P4bwm4olgH2BR9Ey8BnXi9r4yixiV0plsnIFYe6HQfDA93LwjrpiKIw5bV6A6MwnYsnATfH2Lu7MpYOmqny6kTIe+4+ZAJOhLC79/Lyrx7t2x7Jrhj5dPHlY92jqCW52rH395/pQ/03v1PHH324NKdee3d+6OhyCPyat7H5sXu3q6ceUlcXPyMLN8LPr/SPgDFCvqxWYPs1avYuB+yySG82t/Cq6e+/vl/au5Tch9IbRYG8lmcfvXPHxtzn6R4DvHon22ASA1fiY33ICBuJ3/IjYMs0oCn2b3gWtIaLiEWgKABphdRIAmIqH5KwzGbiPtsEZHQCJPeLRgWVthBM/AQObsYFJruGDGku1JVX0dPkBkbDvSN2vSJ24bzX1UahkSUo+TQyVI5gybRYU9ck9KOCQMqFSA4hL2M1MFjoAbFHFN7yi/I0c0UYdAPj8Y00IMaE9f31eW08XImB6jBmB7BhjnwEU7T3sEcRVjNcAQzl6yNlAtq6pHG02bJ2UhA0LxONq0r5zQYFUOm03SS+Z/XIVFRug6s2/19HSsrjiASXnG595fv7oYP7WYGvSlTnW2EiQAA&quot;) format(&quot;woff2&quot;);
+  unicode-range: U+100-24F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: &quot;Khula-Light&quot;;
+  font-style: normal;
+  font-weight: 300;
+  src: local(&quot;Khula Light&quot;), local(&quot;Khula-Light&quot;), url(&quot;data:application/font-woff2;base64,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&quot;) format(&quot;woff2&quot;);
+  unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+  font-family: &quot;Khula-Regular&quot;;
+  font-style: normal;
+  font-weight: 400;
+  src: local(&quot;Khula&quot;), local(&quot;Khula-Regular&quot;), url(&quot;data:application/font-woff2;base64,d09GMgABAAAAAAKUAA4AAAAABPQAAAJBAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbDBwMBmAANBEICoEEgQoBNgIkAxQLDAAEIAWDYAc5G/oDyJ6aPAmKAkYslr61UAoAowiKNXTvIYBgkwKQI1IMwoCrrO1EyAKpThUgjUccuJYf0RQRiy66iBYbj+gJBlI24PX/F2VfUMbVXGe2OvH//5vP1wLp+JhmGc+hbX4nfFn9NY0/yNykX6i3aSLMZ4IiERGjQ9rokPBZXaCM4IkQsppSoqvG4zQj45CcfGR2C4ebkxjMXyLy/eHi3PlXR7Zt4f5bhYt/i9hqnh0Hh9IXeZVNF4/3zRR1nKJJXbrYZPWg6yyYvdX2OMR8qBLkELKNHjYjiZ8dp8H/RuYqlBbHi3ZWFkesKP98UhKwx4UeLy1V8ujRkg3pko3Lv5av/5/n3EY2juTvbdj7qYQ+832nmi4+Wnhk6GYPmnb+yNt3Xir6OPiG29WpMXcUL+y3B3nqQJWTfigtXMC913+HtGfvi/7+vvuflv0WvrEpCpQFuUQlOx3ix/ZV6T1AnsXAbCR19iTb4l0gt53vuIPDbJPYXC/lybFCqzhF5rdFLsrgEhVKuNQwueXM53KfzeMKtMS4ixVGxSJncAoaAEgEhotG+oZKrTlyZR/1ocV1Per6CCGSEDis4tfy2t1kr3HFkUEroUqob8mYcAaAgvjbUH00Amhc3Jn5K/vSItlFAIV8xzjiAjltUnH/SEtRD61ouYOYzgwJjtzxHoVdPYI7RdjHYQgV8AS0ogHkkzbboyk6SsHFQyHeqoEiCURk4FNJP53utD6OCDNw5dD5j5uIP+cIiTQcIWUnMR42Y/zA+g0qAAAA&quot;) format(&quot;woff2&quot;);
+  unicode-range: U+100-24F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: &quot;Khula-Regular&quot;;
+  font-style: normal;
+  font-weight: 400;
+  src: local(&quot;Khula&quot;), local(&quot;Khula-Regular&quot;), url(&quot;data:application/font-woff2;base64,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&quot;) format(&quot;woff2&quot;);
+  unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+  font-family: &quot;Khula-Bold&quot;;
+  font-style: normal;
+  font-weight: 700;
+  src: local(&quot;Khula Bold&quot;), local(&quot;Khula-Bold&quot;), url(&quot;data:application/font-woff2;base64,d09GMgABAAAAAAKQAA4AAAAABQAAAAI8AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbDBwMBmAANBEICoEMgRMBNgIkAxQLDAAEIAWDYgc5GwUEEZWLW7KfhbHjI1IZdKfzc80t6xPxR6LviyDix/HNPnzSDVCGj0hEVLoOIiEU6mKbHBVK+AgTTNtENCFi+e+9FAB/fy1+tMLpS7jG1bzNfz5tWFyF8dFhth4n4b5NE2E+ExQZER0d0cCxZl0rIoAbckohKAyCAC46TT2vzTl1EQs21zwEjmRDGQxMIPwNwt7G5uZGonCPf+h4/n8bXJE5C6zTn2wcEIUD98sa8EMjmWOIAgxFgahzYPg+3D1B2nWeAFiAKatALFCK2CacBP8QY0LH3R3dlld7D8Pi/vp1l4t44/aq0xWXly87Jv3xqe43b7p7Hp9cOenZ0YR13mHvZNuX8xcD6ha7mx3enT9xPrpyHfC/f/5OYHnm5JbMwcMeqftWnUcdr4zFXZ6Q4LmDGy60DnuW/QRzPA/w9O2/Q+RLH5w+/sv/v9Oj2HEXgtPbQoEFzXfd+y//R5tHMWs8A1jTwgSA8rML5gnbEcAyidM312ZQwRxw3XUa2eRIHxoxzsiChMoqnHBhNSn4sAY/yljLlwvrgJ9UveZBnnSIyN5vYmOWxTZLMUrq67O+Lh0j7pQ6WgKavpyyCrIUnJLL/dR1xlltjbgtIUrmKJ8YkdNf5FJxYHLJFM1W/QKou2mjqTP2gpQ8IEA4VrMkTGNQCpSByBCsTc5HYLOfwRQQFth22mh46kJMs440+7SD9U5Mfx6Ua7SiyioZ8qCi9tI8prLSo8+rw9/ri09bQFBoQfEmDThmplK20xoAAAA=&quot;) format(&quot;woff2&quot;);
+  unicode-range: U+100-24F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: &quot;Khula-Bold&quot;;
+  font-style: normal;
+  font-weight: 700;
+  src: local(&quot;Khula Bold&quot;), local(&quot;Khula-Bold&quot;), url(&quot;data:application/font-woff2;base64,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&quot;) format(&quot;woff2&quot;);
+  unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+* {  }
+svg.renderer-svg .svg-background { fill: rgb(255, 255, 255); }
+svg.renderer-svg tspan { height: 1em; line-height: 1em; }
+.d4 { font-size: 20px; }
+.d4 .leftAxis path.domain { display: none; }
+.d4 .xAxis path.domain { display: none; }
+.d4 .axis .tick { font-family: &quot;Khula-Light&quot;; }
+.d4 .axis .tick text { fill: rgb(102, 102, 102); shape-rendering: crispedges; text-anchor: middle; }
+.d4 .axis .tick:first-child text { text-anchor: middle; }
+.d4 .axis .tick line { fill: none; stroke: rgb(221, 221, 221); stroke-width: 1px; shape-rendering: crispedges; }
+.d4 .axis .tick rect { fill: rgb(255, 255, 255); shape-rendering: crispedges; }
+.d4 .axis.leftAxis text { text-anchor: start; }
+.d4 .axis[data-scale=&quot;time&quot;] .tick:not([data-anchor=&quot;middle&quot;]) text { text-anchor: start; }
+.d4 .axis[data-scale=&quot;time&quot;] .tick:first-child text { text-anchor: start; }
+.d4 .xAxislabel { fill: rgb(102, 102, 102); }
+.d4 .margins .line path, .d4 .margins .other-line path { fill: none; stroke-width: 3px; stroke-linecap: round; stroke-linejoin: round; }
+.svg-text { font-family: &quot;Khula-Light&quot;; font-size: 20px; }
+.svg-text.svg-text-credit { font-size: 12px; fill: rgb(204, 204, 204); text-anchor: start; }
+.svg-text.svg-text-source { font-size: 12px; fill: rgb(204, 204, 204); }
+.svg-label-text { font-size: 20px; font-family: &quot;Khula-Light&quot;; }
+.svg-label-text.draggable { cursor: move; }
+.hidden-svg { visibility: hidden; }
+.medium .d4 { font-size: 20px; }
+.medium .d4 .margins .line path, .medium .d4 .margins .other-line path { stroke-width: 3px; }
+.medium .svg-text { font-size: 20px; }
+.medium .svg-text.svg-text-credit { font-size: 12px; }
+.medium .svg-text.svg-text-source { font-size: 12px; }
+
+</style>
+  </defs>
+  <g
+     class="svg-background-wrap"
+     data-reactid=".0.0.0.0.$xy.0"
+     id="svg-background-wrap"
+     style="fill:#ffffff"
+     inkscape:export-filename="/home/dvrnd/tmp/djcourse/vis/lections/figures/week02/fig_01_03.png"
+     inkscape:export-xdpi="200"
+     inkscape:export-ydpi="200">
+    <rect
+       class="svg-background"
+       width="640"
+       height="360"
+       x="0"
+       y="0"
+       data-reactid=".0.0.0.0.$xy.0.0"
+       id="rect8"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     data-reactid=".0.0.0.0.$xy.1"
+     id="g10">
+    <g
+       class="renderer-chart d4 chart"
+       data-reactid=".0.0.0.0.$xy.1.$xy-chart"
+       id="renderer-chart::d4::chart">
+      <defs
+         class=""
+         id="defs13" />
+      <g
+         class="margins"
+         transform="translate(5,16)"
+         id="margins">
+        <g
+           class="chartArea"
+           id="chartArea">
+          <g
+             class="x axis xAxis"
+             data-scale="time"
+             transform="translate(0,271)"
+             id="x::axis::xAxis">
+            <g
+               class="tick"
+               style="font-family:Khula-Light"
+               transform="translate(105.00048,0)"
+               data-anchor="start"
+               id="tick::’01">
+              <line
+                 y2="10"
+                 x2="0"
+                 id="line19"
+                 x1="0"
+                 y1="0"
+                 style="fill:none;stroke:#dddddd;stroke-width:1px" />
+              <text
+                 dy="20"
+                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                 y="0"
+                 x="0"
+                 id="text21">’01</text>
+            </g>
+            <g
+               id="g3842"
+               transform="translate(0,-20)">
+              <g
+                 id="tick::’02"
+                 data-anchor="start"
+                 transform="translate(150.88571,0)"
+                 style="font-family:Khula-Light"
+                 class="tick">
+                <text
+                   id="text26"
+                   x="0"
+                   y="20"
+                   style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                   dy="20">’02</text>
+              </g>
+              <g
+                 id="tick::’03"
+                 data-anchor="start"
+                 transform="translate(196.77095,0)"
+                 style="font-family:Khula-Light"
+                 class="tick">
+                <text
+                   id="text31"
+                   x="0"
+                   y="20"
+                   style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                   dy="20">’03</text>
+              </g>
+              <g
+                 id="tick::’04"
+                 data-anchor="start"
+                 transform="translate(242.65619,0)"
+                 style="font-family:Khula-Light"
+                 class="tick">
+                <text
+                   id="text36"
+                   x="0"
+                   y="20"
+                   style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                   dy="20">’04</text>
+              </g>
+              <g
+                 id="tick::’05"
+                 data-anchor="start"
+                 transform="translate(288.66714,0)"
+                 style="font-family:Khula-Light"
+                 class="tick">
+                <text
+                   id="text41"
+                   x="0"
+                   y="20"
+                   style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                   dy="20">’05</text>
+              </g>
+              <g
+                 id="tick::’06"
+                 data-anchor="start"
+                 transform="translate(334.55238,0)"
+                 style="font-family:Khula-Light"
+                 class="tick">
+                <text
+                   id="text46"
+                   x="0"
+                   y="20"
+                   style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                   dy="20">’06</text>
+              </g>
+              <g
+                 id="tick::’07"
+                 data-anchor="start"
+                 transform="translate(380.43762,0)"
+                 style="font-family:Khula-Light"
+                 class="tick">
+                <text
+                   id="text51"
+                   x="0"
+                   y="20"
+                   style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                   dy="20">’07</text>
+              </g>
+              <g
+                 id="tick::’08"
+                 data-anchor="start"
+                 transform="translate(426.32286,0)"
+                 style="font-family:Khula-Light"
+                 class="tick">
+                <text
+                   id="text56"
+                   x="0"
+                   y="20"
+                   style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                   dy="20">’08</text>
+              </g>
+              <g
+                 id="tick::’09"
+                 data-anchor="start"
+                 transform="translate(472.33381,0)"
+                 style="font-family:Khula-Light"
+                 class="tick">
+                <text
+                   id="text61"
+                   x="0"
+                   y="20"
+                   style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                   dy="20">’09</text>
+              </g>
+              <g
+                 id="tick::’10"
+                 data-anchor="start"
+                 transform="translate(518.21905,0)"
+                 style="font-family:Khula-Light"
+                 class="tick">
+                <text
+                   id="text66"
+                   x="0"
+                   y="20"
+                   style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                   dy="20">’10</text>
+              </g>
+            </g>
+            <g
+               class="tick"
+               style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Khula-Light"
+               transform="translate(552.10429,0)"
+               data-anchor="start"
+               id="tick::’11">
+              <line
+                 y2="10"
+                 x2="0"
+                 id="line69"
+                 style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+                 x1="0"
+                 y1="0" />
+              <text
+                 dy="0"
+                 style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                 y="20"
+                 x="0"
+                 id="text71">’11</text>
+            </g>
+            <g
+               class="tick"
+               style="font-family:Khula-Light"
+               transform="translate(591.98952,0)"
+               data-anchor="start"
+               id="tick::’12">
+              <line
+                 y2="10"
+                 x2="0"
+                 id="line74"
+                 x1="0"
+                 y1="0"
+                 style="fill:none;stroke:#dddddd;stroke-width:1px" />
+              <text
+                 dy="0"
+                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                 y="20"
+                 x="-6.9895239"
+                 id="text76">’12</text>
+            </g>
+            <path
+               class="domain"
+               d="M59,0V0H610V0"
+               id="path78" />
+          </g>
+          <g
+             class="left axis leftAxis"
+             data-scale="linear"
+             transform="translate(615,0)"
+             id="left::axis::leftAxis">
+            <g
+               class="tick"
+               style="opacity: 1;"
+               transform="translate(0,261)"
+               id="tick::30">
+              <line
+                 x2="-571"
+                 y2="0"
+                 id="line82" />
+              <text
+                 dy=".32em"
+                 style="text-anchor:end;font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                 x="-581"
+                 y="0"
+                 id="text84">30</text>
+            </g>
+            <g
+               class="tick"
+               style="opacity: 1;"
+               transform="translate(0,203.75)"
+               id="tick::60">
+              <line
+                 x2="-571"
+                 y2="0"
+                 id="line87" />
+              <text
+                 dy=".32em"
+                 style="text-anchor:end;font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                 x="-581"
+                 y="0"
+                 id="text89">60</text>
+            </g>
+            <g
+               class="tick"
+               style="opacity: 1;"
+               transform="translate(0,146.5)"
+               id="tick::90">
+              <line
+                 x2="-571"
+                 y2="0"
+                 id="line92" />
+              <text
+                 dy=".32em"
+                 style="text-anchor:end;font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                 x="-581"
+                 y="0"
+                 id="text94">90</text>
+            </g>
+            <g
+               class="tick"
+               style="opacity: 1;"
+               transform="translate(0,89.25)"
+               id="tick::120">
+              <line
+                 x2="-571"
+                 y2="0"
+                 id="line97" />
+              <text
+                 dy=".32em"
+                 style="text-anchor:end;font-size:20px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                 x="-581"
+                 y="0"
+                 id="text99">120</text>
+            </g>
+            <g
+               class="tick"
+               style="opacity: 1;"
+               transform="translate(0,32)"
+               id="tick::150">
+              <line
+                 x2="-571"
+                 y2="0"
+                 id="line102" />
+              <rect
+                 x="-616"
+                 y="-17.508331298828125"
+                 width="41"
+                 height="35.01666259765625"
+                 id="rect104" />
+              <text
+                 dy=".32em"
+                 style="text-anchor:end;-inkscape-font-specification:Roboto Light;font-family:Roboto;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000"
+                 x="-581"
+                 y="0"
+                 id="text106">150</text>
+            </g>
+            <path
+               class="domain"
+               d="M0,32H0V261H0"
+               id="path108" />
+          </g>
+          <g
+             class="bars"
+             id="bars" />
+          <g
+             class="circles"
+             id="circles" />
+          <g
+             class="other-bars"
+             id="other-bars" />
+          <g
+             class="other-lines"
+             id="other-lines" />
+          <g
+             class="other-circles"
+             id="other-circles" />
+          <text
+             class="xAxislabel"
+             y="0"
+             x="59"
+             dy="1.6em"
+             dx="-14.508331298828125"
+             id="text122" />
+          <g
+             style="font-size:20px"
+             class="bars"
+             id="bars-4"
+             transform="translate(-8.3138674,0.0742269)">
+            <g
+               class="series0 entry"
+               transform="translate(75.303448,0)"
+               id="series0::entry">
+              <rect
+                 class="bar fill item0 positive 106.3"
+                 x="-1.5194106"
+                 y="98.715332"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="162.28467"
+                 data-color-index="3"
+                 id="rect112"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series1 entry"
+               transform="translate(79.076021,0)"
+               id="series1::entry">
+              <rect
+                 class="bar fill item0 positive 106"
+                 x="-1.5194106"
+                 y="99.173332"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="161.82666"
+                 data-color-index="3"
+                 id="rect115"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series2 entry"
+               transform="translate(82.605202,0)"
+               id="series2::entry">
+              <rect
+                 class="bar fill item0 positive 105.4"
+                 x="-1.5194106"
+                 y="100.08933"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="160.91066"
+                 data-color-index="3"
+                 id="rect118"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series3 entry"
+               transform="translate(86.372704,0)"
+               id="series3::entry">
+              <rect
+                 class="bar fill item0 positive 101.8"
+                 x="-1.5194106"
+                 y="105.58533"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="155.41467"
+                 data-color-index="3"
+                 id="rect121"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series4 entry"
+               transform="translate(90.023581,0)"
+               id="series4::entry">
+              <rect
+                 class="bar fill item0 positive 95.9"
+                 x="-1.5194106"
+                 y="114.59267"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="146.40733"
+                 data-color-index="3"
+                 id="rect124"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series5 entry"
+               transform="translate(93.796154,0)"
+               id="series5::entry">
+              <rect
+                 class="bar fill item0 positive 94.1"
+                 x="-1.5194106"
+                 y="117.34067"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="143.65933"
+                 data-color-index="3"
+                 id="rect127"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series6 entry"
+               transform="translate(97.44703,0)"
+               id="series6::entry">
+              <rect
+                 class="bar fill item0 positive 102"
+                 x="-1.5194106"
+                 y="105.28"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="155.72"
+                 data-color-index="3"
+                 id="rect130"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series7 entry"
+               transform="translate(101.2196,0)"
+               id="series7::entry">
+              <rect
+                 class="bar fill item0 positive 98.5"
+                 x="-1.5194106"
+                 y="110.62334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="150.37666"
+                 data-color-index="3"
+                 id="rect133"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series8 entry"
+               transform="translate(104.99218,0)"
+               id="series8::entry">
+              <rect
+                 class="bar fill item0 positive 105.1"
+                 x="-1.5194106"
+                 y="100.54733"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="160.45267"
+                 data-color-index="3"
+                 id="rect136"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series9 entry"
+               transform="translate(108.64305,0)"
+               id="series9::entry">
+              <rect
+                 class="bar fill item0 positive 99"
+                 x="-1.5194106"
+                 y="109.86"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="151.14"
+                 data-color-index="3"
+                 id="rect139"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series10 entry"
+               transform="translate(112.4207,0)"
+               id="series10::entry">
+              <rect
+                 class="bar fill item0 positive 97.7"
+                 x="-1.5194106"
+                 y="111.84467"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="149.15533"
+                 data-color-index="3"
+                 id="rect142"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series11 entry"
+               transform="translate(116.07157,0)"
+               id="series11::entry">
+              <rect
+                 class="bar fill item0 positive 88.2"
+                 x="-1.5194106"
+                 y="126.348"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="134.65199"
+                 data-color-index="3"
+                 id="rect145"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series12 entry"
+               transform="translate(119.84415,0)"
+               id="series12::entry">
+              <rect
+                 class="bar fill item0 positive 89.1"
+                 x="-1.5194106"
+                 y="124.974"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="136.026"
+                 data-color-index="3"
+                 id="rect148"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series13 entry"
+               transform="translate(123.61672,0)"
+               id="series13::entry">
+              <rect
+                 class="bar fill item0 positive 87.8"
+                 x="-1.5194106"
+                 y="126.95866"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="134.04134"
+                 data-color-index="3"
+                 id="rect151"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series14 entry"
+               transform="translate(127.0242,0)"
+               id="series14::entry">
+              <rect
+                 class="bar fill item0 positive 89.1"
+                 x="-1.5194106"
+                 y="124.974"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="136.026"
+                 data-color-index="3"
+                 id="rect154"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series15 entry"
+               transform="translate(130.79171,0)"
+               id="series15::entry">
+              <rect
+                 class="bar fill item0 positive 97.5"
+                 x="-1.5194106"
+                 y="112.15"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="148.85001"
+                 data-color-index="3"
+                 id="rect157"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series16 entry"
+               transform="translate(134.44258,0)"
+               id="series16::entry">
+              <rect
+                 class="bar fill item0 positive 97.7"
+                 x="-1.5194106"
+                 y="111.84467"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="149.15533"
+                 data-color-index="3"
+                 id="rect160"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series17 entry"
+               transform="translate(138.21515,0)"
+               id="series17::entry">
+              <rect
+                 class="bar fill item0 positive 97.7"
+                 x="-1.5194106"
+                 y="111.84467"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="149.15533"
+                 data-color-index="3"
+                 id="rect163"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series18 entry"
+               transform="translate(141.86603,0)"
+               id="series18::entry">
+              <rect
+                 class="bar fill item0 positive 104.8"
+                 x="-1.5194106"
+                 y="101.00533"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="159.99466"
+                 data-color-index="3"
+                 id="rect166"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series19 entry"
+               transform="translate(145.6386,0)"
+               id="series19::entry">
+              <rect
+                 class="bar fill item0 positive 103.8"
+                 x="-1.5194106"
+                 y="102.532"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="158.468"
+                 data-color-index="3"
+                 id="rect169"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series20 entry"
+               transform="translate(149.41118,0)"
+               id="series20::entry">
+              <rect
+                 class="bar fill item0 positive 99.4"
+                 x="-1.5194106"
+                 y="109.24934"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="151.75067"
+                 data-color-index="3"
+                 id="rect172"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series21 entry"
+               transform="translate(153.06205,0)"
+               id="series21::entry">
+              <rect
+                 class="bar fill item0 positive 105.3"
+                 x="-1.5194106"
+                 y="100.242"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="160.758"
+                 data-color-index="3"
+                 id="rect175"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series22 entry"
+               transform="translate(156.8397,0)"
+               id="series22::entry">
+              <rect
+                 class="bar fill item0 positive 103.8"
+                 x="-1.5194106"
+                 y="102.532"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="158.468"
+                 data-color-index="3"
+                 id="rect178"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series23 entry"
+               transform="translate(160.49057,0)"
+               id="series23::entry">
+              <rect
+                 class="bar fill item0 positive 104.2"
+                 x="-1.5194106"
+                 y="101.92133"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="159.07866"
+                 data-color-index="3"
+                 id="rect181"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series24 entry"
+               transform="translate(164.26315,0)"
+               id="series24::entry">
+              <rect
+                 class="bar fill item0 positive 98.9"
+                 x="-1.5194106"
+                 y="110.01266"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="150.98734"
+                 data-color-index="3"
+                 id="rect184"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series25 entry"
+               transform="translate(168.03572,0)"
+               id="series25::entry">
+              <rect
+                 class="bar fill item0 positive 91.6"
+                 x="-1.5194106"
+                 y="121.15733"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="139.84267"
+                 data-color-index="3"
+                 id="rect187"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series26 entry"
+               transform="translate(171.4432,0)"
+               id="series26::entry">
+              <rect
+                 class="bar fill item0 positive 91.4"
+                 x="-1.5194106"
+                 y="121.46267"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="139.53734"
+                 data-color-index="3"
+                 id="rect190"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series27 entry"
+               transform="translate(175.21071,0)"
+               id="series27::entry">
+              <rect
+                 class="bar fill item0 positive 90.2"
+                 x="-1.5194106"
+                 y="123.29467"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="137.70534"
+                 data-color-index="3"
+                 id="rect193"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series28 entry"
+               transform="translate(178.86158,0)"
+               id="series28::entry">
+              <rect
+                 class="bar fill item0 positive 103.7"
+                 x="-1.5194106"
+                 y="102.68467"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="158.31534"
+                 data-color-index="3"
+                 id="rect196"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series29 entry"
+               transform="translate(182.63416,0)"
+               id="series29::entry">
+              <rect
+                 class="bar fill item0 positive 99.1"
+                 x="-1.5194106"
+                 y="109.70734"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="151.29266"
+                 data-color-index="3"
+                 id="rect199"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series30 entry"
+               transform="translate(186.28503,0)"
+               id="series30::entry">
+              <rect
+                 class="bar fill item0 positive 96.1"
+                 x="-1.5194106"
+                 y="114.28733"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="146.71266"
+                 data-color-index="3"
+                 id="rect202"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series31 entry"
+               transform="translate(190.05761,0)"
+               id="series31::entry">
+              <rect
+                 class="bar fill item0 positive 102"
+                 x="-1.5194106"
+                 y="105.28"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="155.72"
+                 data-color-index="3"
+                 id="rect205"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series32 entry"
+               transform="translate(193.83018,0)"
+               id="series32::entry">
+              <rect
+                 class="bar fill item0 positive 102.9"
+                 x="-1.5194106"
+                 y="103.906"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="157.09399"
+                 data-color-index="3"
+                 id="rect208"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series33 entry"
+               transform="translate(197.48106,0)"
+               id="series33::entry">
+              <rect
+                 class="bar fill item0 positive 101.9"
+                 x="-1.5194106"
+                 y="105.43266"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="155.56734"
+                 data-color-index="3"
+                 id="rect211"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series34 entry"
+               transform="translate(201.2587,0)"
+               id="series34::entry">
+              <rect
+                 class="bar fill item0 positive 98.9"
+                 x="-1.5194106"
+                 y="110.01266"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="150.98734"
+                 data-color-index="3"
+                 id="rect214"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series35 entry"
+               transform="translate(204.90958,0)"
+               id="series35::entry">
+              <rect
+                 class="bar fill item0 positive 97.3"
+                 x="-1.5194106"
+                 y="112.45533"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="148.54466"
+                 data-color-index="3"
+                 id="rect217"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series36 entry"
+               transform="translate(208.68215,0)"
+               id="series36::entry">
+              <rect
+                 class="bar fill item0 positive 90.8"
+                 x="-1.5194106"
+                 y="122.37867"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="138.62134"
+                 data-color-index="3"
+                 id="rect220"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series37 entry"
+               transform="translate(212.45472,0)"
+               id="series37::entry">
+              <rect
+                 class="bar fill item0 positive 89.6"
+                 x="-1.5194106"
+                 y="124.21067"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="136.78934"
+                 data-color-index="3"
+                 id="rect223"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series38 entry"
+               transform="translate(215.86221,0)"
+               id="series38::entry">
+              <rect
+                 class="bar fill item0 positive 82.8"
+                 x="-1.5194106"
+                 y="134.592"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="126.408"
+                 data-color-index="3"
+                 id="rect226"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series39 entry"
+               transform="translate(219.62971,0)"
+               id="series39::entry">
+              <rect
+                 class="bar fill item0 positive 88.6"
+                 x="-1.5194106"
+                 y="125.73734"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="135.26266"
+                 data-color-index="3"
+                 id="rect229"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series40 entry"
+               transform="translate(223.28058,0)"
+               id="series40::entry">
+              <rect
+                 class="bar fill item0 positive 93.9"
+                 x="-1.5194106"
+                 y="117.646"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="143.354"
+                 data-color-index="3"
+                 id="rect232"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series41 entry"
+               transform="translate(227.05316,0)"
+               id="series41::entry">
+              <rect
+                 class="bar fill item0 positive 98.9"
+                 x="-1.5194106"
+                 y="110.01266"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="150.98734"
+                 data-color-index="3"
+                 id="rect235"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series42 entry"
+               transform="translate(230.70403,0)"
+               id="series42::entry">
+              <rect
+                 class="bar fill item0 positive 94.5"
+                 x="-1.5194106"
+                 y="116.73"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="144.27"
+                 data-color-index="3"
+                 id="rect238"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series43 entry"
+               transform="translate(234.47661,0)"
+               id="series43::entry">
+              <rect
+                 class="bar fill item0 positive 93.6"
+                 x="-1.5194106"
+                 y="118.104"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="142.896"
+                 data-color-index="3"
+                 id="rect241"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series44 entry"
+               transform="translate(238.24918,0)"
+               id="series44::entry">
+              <rect
+                 class="bar fill item0 positive 95"
+                 x="-1.5194106"
+                 y="115.96667"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="145.03334"
+                 data-color-index="3"
+                 id="rect244"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series45 entry"
+               transform="translate(241.90006,0)"
+               id="series45::entry">
+              <rect
+                 class="bar fill item0 positive 94.9"
+                 x="-1.5194106"
+                 y="116.11933"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="144.88066"
+                 data-color-index="3"
+                 id="rect247"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series46 entry"
+               transform="translate(245.6777,0)"
+               id="series46::entry">
+              <rect
+                 class="bar fill item0 positive 92.8"
+                 x="-1.5194106"
+                 y="119.32533"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="141.67467"
+                 data-color-index="3"
+                 id="rect250"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series47 entry"
+               transform="translate(249.32858,0)"
+               id="series47::entry">
+              <rect
+                 class="bar fill item0 positive 93"
+                 x="-1.5194106"
+                 y="119.02"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="141.98"
+                 data-color-index="3"
+                 id="rect253"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series48 entry"
+               transform="translate(253.10115,0)"
+               id="series48::entry">
+              <rect
+                 class="bar fill item0 positive 90.6"
+                 x="-1.5194106"
+                 y="122.684"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="138.31599"
+                 data-color-index="3"
+                 id="rect256"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series49 entry"
+               transform="translate(256.87372,0)"
+               id="series49::entry">
+              <rect
+                 class="bar fill item0 positive 92"
+                 x="-1.5194106"
+                 y="120.54667"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="140.45334"
+                 data-color-index="3"
+                 id="rect259"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series50 entry"
+               transform="translate(260.4029,0)"
+               id="series50::entry">
+              <rect
+                 class="bar fill item0 positive 91.8"
+                 x="-1.5194106"
+                 y="120.852"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="140.14799"
+                 data-color-index="3"
+                 id="rect262"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series51 entry"
+               transform="translate(264.17041,0)"
+               id="series51::entry">
+              <rect
+                 class="bar fill item0 positive 95.7"
+                 x="-1.5194106"
+                 y="114.898"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="146.10201"
+                 data-color-index="3"
+                 id="rect265"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series52 entry"
+               transform="translate(267.82128,0)"
+               id="series52::entry">
+              <rect
+                 class="bar fill item0 positive 97.6"
+                 x="-1.5194106"
+                 y="111.99733"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="149.00267"
+                 data-color-index="3"
+                 id="rect268"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series53 entry"
+               transform="translate(271.59385,0)"
+               id="series53::entry">
+              <rect
+                 class="bar fill item0 positive 105.9"
+                 x="-1.5194106"
+                 y="99.325996"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="161.674"
+                 data-color-index="3"
+                 id="rect271"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series54 entry"
+               transform="translate(275.24473,0)"
+               id="series54::entry">
+              <rect
+                 class="bar fill item0 positive 102.6"
+                 x="-1.5194106"
+                 y="104.364"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="156.636"
+                 data-color-index="3"
+                 id="rect274"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series55 entry"
+               transform="translate(279.0173,0)"
+               id="series55::entry">
+              <rect
+                 class="bar fill item0 positive 102.6"
+                 x="-1.5194106"
+                 y="104.364"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="156.636"
+                 data-color-index="3"
+                 id="rect277"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series56 entry"
+               transform="translate(282.78988,0)"
+               id="series56::entry">
+              <rect
+                 class="bar fill item0 positive 102"
+                 x="-1.5194106"
+                 y="105.28"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="155.72"
+                 data-color-index="3"
+                 id="rect280"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series57 entry"
+               transform="translate(286.44075,0)"
+               id="series57::entry">
+              <rect
+                 class="bar fill item0 positive 110.1"
+                 x="-1.5194106"
+                 y="92.914001"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="168.086"
+                 data-color-index="3"
+                 id="rect283"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series58 entry"
+               transform="translate(290.2184,0)"
+               id="series58::entry">
+              <rect
+                 class="bar fill item0 positive 116.2"
+                 x="-1.5194106"
+                 y="83.601334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="177.39867"
+                 data-color-index="3"
+                 id="rect286"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series59 entry"
+               transform="translate(293.86927,0)"
+               id="series59::entry">
+              <rect
+                 class="bar fill item0 positive 108.3"
+                 x="-1.5194106"
+                 y="95.662003"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="165.338"
+                 data-color-index="3"
+                 id="rect289"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series60 entry"
+               transform="translate(297.64185,0)"
+               id="series60::entry">
+              <rect
+                 class="bar fill item0 positive 102.3"
+                 x="-1.5194106"
+                 y="104.822"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="156.17799"
+                 data-color-index="3"
+                 id="rect292"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series61 entry"
+               transform="translate(301.41442,0)"
+               id="series61::entry">
+              <rect
+                 class="bar fill item0 positive 98.5"
+                 x="-1.5194106"
+                 y="110.62334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="150.37666"
+                 data-color-index="3"
+                 id="rect295"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series62 entry"
+               transform="translate(304.8219,0)"
+               id="series62::entry">
+              <rect
+                 class="bar fill item0 positive 91.8"
+                 x="-1.5194106"
+                 y="120.852"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="140.14799"
+                 data-color-index="3"
+                 id="rect298"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series63 entry"
+               transform="translate(308.58941,0)"
+               id="series63::entry">
+              <rect
+                 class="bar fill item0 positive 92.9"
+                 x="-1.5194106"
+                 y="119.17267"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="141.82733"
+                 data-color-index="3"
+                 id="rect301"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series64 entry"
+               transform="translate(312.24028,0)"
+               id="series64::entry">
+              <rect
+                 class="bar fill item0 positive 95.4"
+                 x="-1.5194106"
+                 y="115.356"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="145.644"
+                 data-color-index="3"
+                 id="rect304"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series65 entry"
+               transform="translate(316.01286,0)"
+               id="series65::entry">
+              <rect
+                 class="bar fill item0 positive 96.3"
+                 x="-1.5194106"
+                 y="113.982"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="147.01801"
+                 data-color-index="3"
+                 id="rect307"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series66 entry"
+               transform="translate(319.66373,0)"
+               id="series66::entry">
+              <rect
+                 class="bar fill item0 positive 95.6"
+                 x="-1.5194106"
+                 y="115.05067"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="145.94934"
+                 data-color-index="3"
+                 id="rect310"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series67 entry"
+               transform="translate(323.43631,0)"
+               id="series67::entry">
+              <rect
+                 class="bar fill item0 positive 94.5"
+                 x="-1.5194106"
+                 y="116.73"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="144.27"
+                 data-color-index="3"
+                 id="rect313"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series68 entry"
+               transform="translate(327.20888,0)"
+               id="series68::entry">
+              <rect
+                 class="bar fill item0 positive 94.1"
+                 x="-1.5194106"
+                 y="117.34067"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="143.65933"
+                 data-color-index="3"
+                 id="rect316"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series69 entry"
+               transform="translate(330.85976,0)"
+               id="series69::entry">
+              <rect
+                 class="bar fill item0 positive 94.9"
+                 x="-1.5194106"
+                 y="116.11933"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="144.88066"
+                 data-color-index="3"
+                 id="rect319"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series70 entry"
+               transform="translate(334.6374,0)"
+               id="series70::entry">
+              <rect
+                 class="bar fill item0 positive 95.1"
+                 x="-1.5194106"
+                 y="115.814"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="145.186"
+                 data-color-index="3"
+                 id="rect322"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series71 entry"
+               transform="translate(338.28828,0)"
+               id="series71::entry">
+              <rect
+                 class="bar fill item0 positive 95.1"
+                 x="-1.5194106"
+                 y="115.814"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="145.186"
+                 data-color-index="3"
+                 id="rect325"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series72 entry"
+               transform="translate(342.06085,0)"
+               id="series72::entry">
+              <rect
+                 class="bar fill item0 positive 93.5"
+                 x="-1.5194106"
+                 y="118.25667"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="142.74333"
+                 data-color-index="3"
+                 id="rect328"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series73 entry"
+               transform="translate(345.83342,0)"
+               id="series73::entry">
+              <rect
+                 class="bar fill item0 positive 93.2"
+                 x="-1.5194106"
+                 y="118.71467"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="142.28534"
+                 data-color-index="3"
+                 id="rect331"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series74 entry"
+               transform="translate(349.24091,0)"
+               id="series74::entry">
+              <rect
+                 class="bar fill item0 positive 94.8"
+                 x="-1.5194106"
+                 y="116.272"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="144.728"
+                 data-color-index="3"
+                 id="rect334"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series75 entry"
+               transform="translate(353.00841,0)"
+               id="series75::entry">
+              <rect
+                 class="bar fill item0 positive 99.6"
+                 x="-1.5194106"
+                 y="108.944"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="152.056"
+                 data-color-index="3"
+                 id="rect337"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series76 entry"
+               transform="translate(356.65928,0)"
+               id="series76::entry">
+              <rect
+                 class="bar fill item0 positive 97.3"
+                 x="-1.5194106"
+                 y="112.45533"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="148.54466"
+                 data-color-index="3"
+                 id="rect340"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series77 entry"
+               transform="translate(360.43186,0)"
+               id="series77::entry">
+              <rect
+                 class="bar fill item0 positive 100.9"
+                 x="-1.5194106"
+                 y="106.95934"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="154.04066"
+                 data-color-index="3"
+                 id="rect343"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series78 entry"
+               transform="translate(364.08273,0)"
+               id="series78::entry">
+              <rect
+                 class="bar fill item0 positive 109"
+                 x="-1.5194106"
+                 y="94.59333"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="166.40666"
+                 data-color-index="3"
+                 id="rect346"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series79 entry"
+               transform="translate(367.85531,0)"
+               id="series79::entry">
+              <rect
+                 class="bar fill item0 positive 111.2"
+                 x="-1.5194106"
+                 y="91.234665"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="169.76534"
+                 data-color-index="3"
+                 id="rect349"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series80 entry"
+               transform="translate(371.62788,0)"
+               id="series80::entry">
+              <rect
+                 class="bar fill item0 positive 115.9"
+                 x="-1.5194106"
+                 y="84.059334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="176.94067"
+                 data-color-index="3"
+                 id="rect352"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series81 entry"
+               transform="translate(375.27876,0)"
+               id="series81::entry">
+              <rect
+                 class="bar fill item0 positive 110.6"
+                 x="-1.5194106"
+                 y="92.150665"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="168.84933"
+                 data-color-index="3"
+                 id="rect355"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series82 entry"
+               transform="translate(379.0564,0)"
+               id="series82::entry">
+              <rect
+                 class="bar fill item0 positive 105.9"
+                 x="-1.5194106"
+                 y="99.325996"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="161.674"
+                 data-color-index="3"
+                 id="rect358"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series83 entry"
+               transform="translate(382.70728,0)"
+               id="series83::entry">
+              <rect
+                 class="bar fill item0 positive 110.9"
+                 x="-1.5194106"
+                 y="91.692665"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="169.30733"
+                 data-color-index="3"
+                 id="rect361"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series84 entry"
+               transform="translate(386.47985,0)"
+               id="series84::entry">
+              <rect
+                 class="bar fill item0 positive 110.3"
+                 x="-1.5194106"
+                 y="92.608665"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="168.39133"
+                 data-color-index="3"
+                 id="rect364"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series85 entry"
+               transform="translate(390.25242,0)"
+               id="series85::entry">
+              <rect
+                 class="bar fill item0 positive 114"
+                 x="-1.5194106"
+                 y="86.959999"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="174.03999"
+                 data-color-index="3"
+                 id="rect367"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series86 entry"
+               transform="translate(393.65991,0)"
+               id="series86::entry">
+              <rect
+                 class="bar fill item0 positive 115"
+                 x="-1.5194106"
+                 y="85.433334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="175.56667"
+                 data-color-index="3"
+                 id="rect370"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series87 entry"
+               transform="translate(397.42741,0)"
+               id="series87::entry">
+              <rect
+                 class="bar fill item0 positive 128.3"
+                 x="-1.5194106"
+                 y="65.12867"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="195.87134"
+                 data-color-index="3"
+                 id="rect373"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series88 entry"
+               transform="translate(401.07829,0)"
+               id="series88::entry">
+              <rect
+                 class="bar fill item0 positive 123.4"
+                 x="-1.5194106"
+                 y="72.609337"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="188.39067"
+                 data-color-index="3"
+                 id="rect376"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series89 entry"
+               transform="translate(404.85086,0)"
+               id="series89::entry">
+              <rect
+                 class="bar fill item0 positive 127.3"
+                 x="-1.5194106"
+                 y="66.655334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="194.34467"
+                 data-color-index="3"
+                 id="rect379"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series90 entry"
+               transform="translate(408.50174,0)"
+               id="series90::entry">
+              <rect
+                 class="bar fill item0 positive 127"
+                 x="-1.5194106"
+                 y="67.113335"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="193.88667"
+                 data-color-index="3"
+                 id="rect382"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series91 entry"
+               transform="translate(412.27431,0)"
+               id="series91::entry">
+              <rect
+                 class="bar fill item0 positive 130.5"
+                 x="-1.5194106"
+                 y="61.77"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="199.23"
+                 data-color-index="3"
+                 id="rect385"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series92 entry"
+               transform="translate(416.04688,0)"
+               id="series92::entry">
+              <rect
+                 class="bar fill item0 positive 132.5"
+                 x="-1.5194106"
+                 y="58.716667"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="202.28334"
+                 data-color-index="3"
+                 id="rect388"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series93 entry"
+               transform="translate(419.69776,0)"
+               id="series93::entry">
+              <rect
+                 class="bar fill item0 positive 131.8"
+                 x="-1.5194106"
+                 y="59.785332"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="201.21466"
+                 data-color-index="3"
+                 id="rect391"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series94 entry"
+               transform="translate(423.4754,0)"
+               id="series94::entry">
+              <rect
+                 class="bar fill item0 positive 130.7"
+                 x="-1.5194106"
+                 y="61.464668"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="199.53534"
+                 data-color-index="3"
+                 id="rect394"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series95 entry"
+               transform="translate(427.12628,0)"
+               id="series95::entry">
+              <rect
+                 class="bar fill item0 positive 126.1"
+                 x="-1.5194106"
+                 y="68.487335"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="192.51266"
+                 data-color-index="3"
+                 id="rect397"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series96 entry"
+               transform="translate(430.89885,0)"
+               id="series96::entry">
+              <rect
+                 class="bar fill item0 positive 130.2"
+                 x="-1.5194106"
+                 y="62.228001"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="198.772"
+                 data-color-index="3"
+                 id="rect400"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series97 entry"
+               transform="translate(434.67142,0)"
+               id="series97::entry">
+              <rect
+                 class="bar fill item0 positive 130.9"
+                 x="-1.5194106"
+                 y="61.159332"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="199.84067"
+                 data-color-index="3"
+                 id="rect403"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series98 entry"
+               transform="translate(438.2006,0)"
+               id="series98::entry">
+              <rect
+                 class="bar fill item0 positive 130.9"
+                 x="-1.5194106"
+                 y="61.159332"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="199.84067"
+                 data-color-index="3"
+                 id="rect406"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series99 entry"
+               transform="translate(441.96811,0)"
+               id="series99::entry">
+              <rect
+                 class="bar fill item0 positive 134.4"
+                 x="-1.5194106"
+                 y="55.816002"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="205.18401"
+                 data-color-index="3"
+                 id="rect409"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series100 entry"
+               transform="translate(445.61898,0)"
+               id="series100::entry">
+              <rect
+                 class="bar fill item0 positive 135.5"
+                 x="-1.5194106"
+                 y="54.136665"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="206.86333"
+                 data-color-index="3"
+                 id="rect412"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series101 entry"
+               transform="translate(449.39156,0)"
+               id="series101::entry">
+              <rect
+                 class="bar fill item0 positive 140.1"
+                 x="-1.5194106"
+                 y="47.113998"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="213.886"
+                 data-color-index="3"
+                 id="rect415"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series102 entry"
+               transform="translate(453.04243,0)"
+               id="series102::entry">
+              <rect
+                 class="bar fill item0 positive 137.6"
+                 x="-1.5194106"
+                 y="50.930668"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="210.06934"
+                 data-color-index="3"
+                 id="rect418"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series103 entry"
+               transform="translate(456.81501,0)"
+               id="series103::entry">
+              <rect
+                 class="bar fill item0 positive 143.3"
+                 x="-1.5194106"
+                 y="42.228668"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="218.77133"
+                 data-color-index="3"
+                 id="rect421"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series104 entry"
+               transform="translate(460.58758,0)"
+               id="series104::entry">
+              <rect
+                 class="bar fill item0 positive 135.5"
+                 x="-1.5194106"
+                 y="54.136665"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="206.86333"
+                 data-color-index="3"
+                 id="rect424"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series105 entry"
+               transform="translate(464.23845,0)"
+               id="series105::entry">
+              <rect
+                 class="bar fill item0 positive 124.5"
+                 x="-1.5194106"
+                 y="70.93"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="190.07001"
+                 data-color-index="3"
+                 id="rect427"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series106 entry"
+               transform="translate(468.0161,0)"
+               id="series106::entry">
+              <rect
+                 class="bar fill item0 positive 120.7"
+                 x="-1.5194106"
+                 y="76.731331"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="184.26866"
+                 data-color-index="3"
+                 id="rect430"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series107 entry"
+               transform="translate(471.66698,0)"
+               id="series107::entry">
+              <rect
+                 class="bar fill item0 positive 124.9"
+                 x="-1.5194106"
+                 y="70.319336"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="190.68066"
+                 data-color-index="3"
+                 id="rect433"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series108 entry"
+               transform="translate(475.43955,0)"
+               id="series108::entry">
+              <rect
+                 class="bar fill item0 positive 120.9"
+                 x="-1.5194106"
+                 y="76.426003"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="184.57401"
+                 data-color-index="3"
+                 id="rect436"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series109 entry"
+               transform="translate(479.21212,0)"
+               id="series109::entry">
+              <rect
+                 class="bar fill item0 positive 119.3"
+                 x="-1.5194106"
+                 y="78.868668"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="182.13133"
+                 data-color-index="3"
+                 id="rect439"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series110 entry"
+               transform="translate(482.61961,0)"
+               id="series110::entry">
+              <rect
+                 class="bar fill item0 positive 118.9"
+                 x="-1.5194106"
+                 y="79.479332"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="181.52066"
+                 data-color-index="3"
+                 id="rect442"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series111 entry"
+               transform="translate(486.38711,0)"
+               id="series111::entry">
+              <rect
+                 class="bar fill item0 positive 116.7"
+                 x="-1.5194106"
+                 y="82.837997"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="178.162"
+                 data-color-index="3"
+                 id="rect445"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series112 entry"
+               transform="translate(490.03798,0)"
+               id="series112::entry">
+              <rect
+                 class="bar fill item0 positive 114.5"
+                 x="-1.5194106"
+                 y="86.196663"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="174.80333"
+                 data-color-index="3"
+                 id="rect448"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series113 entry"
+               transform="translate(493.81056,0)"
+               id="series113::entry">
+              <rect
+                 class="bar fill item0 positive 115.2"
+                 x="-1.5194106"
+                 y="85.127998"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="175.87199"
+                 data-color-index="3"
+                 id="rect451"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series114 entry"
+               transform="translate(497.46143,0)"
+               id="series114::entry">
+              <rect
+                 class="bar fill item0 positive 114.8"
+                 x="-1.5194106"
+                 y="85.73867"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="175.26134"
+                 data-color-index="3"
+                 id="rect454"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series115 entry"
+               transform="translate(501.23401,0)"
+               id="series115::entry">
+              <rect
+                 class="bar fill item0 positive 119.4"
+                 x="-1.5194106"
+                 y="78.716003"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="182.284"
+                 data-color-index="3"
+                 id="rect457"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series116 entry"
+               transform="translate(505.00658,0)"
+               id="series116::entry">
+              <rect
+                 class="bar fill item0 positive 123.7"
+                 x="-1.5194106"
+                 y="72.151337"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="188.84866"
+                 data-color-index="3"
+                 id="rect460"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series117 entry"
+               transform="translate(508.65746,0)"
+               id="series117::entry">
+              <rect
+                 class="bar fill item0 positive 124.3"
+                 x="-1.5194106"
+                 y="71.235336"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="189.76466"
+                 data-color-index="3"
+                 id="rect463"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series118 entry"
+               transform="translate(512.4351,0)"
+               id="series118::entry">
+              <rect
+                 class="bar fill item0 positive 120.6"
+                 x="-1.5194106"
+                 y="76.884003"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="184.116"
+                 data-color-index="3"
+                 id="rect466"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series119 entry"
+               transform="translate(516.08598,0)"
+               id="series119::entry">
+              <rect
+                 class="bar fill item0 positive 122.3"
+                 x="-1.5194106"
+                 y="74.288666"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="186.71133"
+                 data-color-index="3"
+                 id="rect469"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series120 entry"
+               transform="translate(519.85855,0)"
+               id="series120::entry">
+              <rect
+                 class="bar fill item0 positive 128.2"
+                 x="-1.5194106"
+                 y="65.281334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="195.71867"
+                 data-color-index="3"
+                 id="rect472"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series121 entry"
+               transform="translate(523.63112,0)"
+               id="series121::entry">
+              <rect
+                 class="bar fill item0 positive 127.3"
+                 x="-1.5194106"
+                 y="66.655334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="194.34467"
+                 data-color-index="3"
+                 id="rect475"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series122 entry"
+               transform="translate(527.03861,0)"
+               id="series122::entry">
+              <rect
+                 class="bar fill item0 positive 125.4"
+                 x="-1.5194106"
+                 y="69.556"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="191.444"
+                 data-color-index="3"
+                 id="rect478"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series123 entry"
+               transform="translate(530.80611,0)"
+               id="series123::entry">
+              <rect
+                 class="bar fill item0 positive 133.9"
+                 x="-1.5194106"
+                 y="56.579334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="204.42067"
+                 data-color-index="3"
+                 id="rect481"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series124 entry"
+               transform="translate(534.45699,0)"
+               id="series124::entry">
+              <rect
+                 class="bar fill item0 positive 131.9"
+                 x="-1.5194106"
+                 y="59.632668"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="201.36734"
+                 data-color-index="3"
+                 id="rect484"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series125 entry"
+               transform="translate(538.22956,0)"
+               id="series125::entry">
+              <rect
+                 class="bar fill item0 positive 132.2"
+                 x="-1.5194106"
+                 y="59.174667"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="201.82533"
+                 data-color-index="3"
+                 id="rect487"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series126 entry"
+               transform="translate(541.88044,0)"
+               id="series126::entry">
+              <rect
+                 class="bar fill item0 positive 128.9"
+                 x="-1.5194106"
+                 y="64.212669"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="196.78734"
+                 data-color-index="3"
+                 id="rect490"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series127 entry"
+               transform="translate(545.65301,0)"
+               id="series127::entry">
+              <rect
+                 class="bar fill item0 positive 126.5"
+                 x="-1.5194106"
+                 y="67.876663"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="193.12334"
+                 data-color-index="3"
+                 id="rect493"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series128 entry"
+               transform="translate(549.42558,0)"
+               id="series128::entry">
+              <rect
+                 class="bar fill item0 positive 124"
+                 x="-1.5194106"
+                 y="71.693336"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="189.30667"
+                 data-color-index="3"
+                 id="rect496"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series129 entry"
+               transform="translate(553.07646,0)"
+               id="series129::entry">
+              <rect
+                 class="bar fill item0 positive 128.5"
+                 x="-1.5194106"
+                 y="64.823334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="196.17667"
+                 data-color-index="3"
+                 id="rect499"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series130 entry"
+               transform="translate(556.8541,0)"
+               id="series130::entry">
+              <rect
+                 class="bar fill item0 positive 132.1"
+                 x="-1.5194106"
+                 y="59.327332"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="201.67267"
+                 data-color-index="3"
+                 id="rect502"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series131 entry"
+               transform="translate(560.50498,0)"
+               id="series131::entry">
+              <rect
+                 class="bar fill item0 positive 131.5"
+                 x="-1.5194106"
+                 y="60.243332"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="200.75667"
+                 data-color-index="3"
+                 id="rect505"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series132 entry"
+               transform="translate(564.27755,0)"
+               id="series132::entry">
+              <rect
+                 class="bar fill item0 positive 133.9"
+                 x="-1.5194106"
+                 y="56.579334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="204.42067"
+                 data-color-index="3"
+                 id="rect508"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series133 entry"
+               transform="translate(568.05012,0)"
+               id="series133::entry">
+              <rect
+                 class="bar fill item0 positive 131.4"
+                 x="-1.5194106"
+                 y="60.396"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="200.604"
+                 data-color-index="3"
+                 id="rect511"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series134 entry"
+               transform="translate(571.45761,0)"
+               id="series134::entry">
+              <rect
+                 class="bar fill item0 positive 131.8"
+                 x="-1.5194106"
+                 y="59.785332"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="201.21466"
+                 data-color-index="3"
+                 id="rect514"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series135 entry"
+               transform="translate(575.22511,0)"
+               id="series135::entry">
+              <rect
+                 class="bar fill item0 positive 131.8"
+                 x="-1.5194106"
+                 y="59.785332"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="201.21466"
+                 data-color-index="3"
+                 id="rect517"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series136 entry"
+               transform="translate(578.87599,0)"
+               id="series136::entry">
+              <rect
+                 class="bar fill item0 positive 129.9"
+                 x="-1.5194106"
+                 y="62.686001"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="198.314"
+                 data-color-index="3"
+                 id="rect520"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series137 entry"
+               transform="translate(582.64856,0)"
+               id="series137::entry">
+              <rect
+                 class="bar fill item0 positive 127.9"
+                 x="-1.5194106"
+                 y="65.739334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="195.26067"
+                 data-color-index="3"
+                 id="rect523"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series138 entry"
+               transform="translate(586.29944,0)"
+               id="series138::entry">
+              <rect
+                 class="bar fill item0 positive 127.3"
+                 x="-1.5194106"
+                 y="66.655334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="194.34467"
+                 data-color-index="3"
+                 id="rect526"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series139 entry"
+               transform="translate(590.07201,0)"
+               id="series139::entry">
+              <rect
+                 class="bar fill item0 positive 131.7"
+                 x="-1.5194106"
+                 y="59.938"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="201.062"
+                 data-color-index="3"
+                 id="rect529"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series140 entry"
+               transform="translate(593.84458,0)"
+               id="series140::entry">
+              <rect
+                 class="bar fill item0 positive 122.9"
+                 x="-1.5194106"
+                 y="73.372665"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="187.62733"
+                 data-color-index="3"
+                 id="rect532"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series141 entry"
+               transform="translate(597.49546,0)"
+               id="series141::entry">
+              <rect
+                 class="bar fill item0 positive 123.9"
+                 x="-1.5194106"
+                 y="71.846001"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="189.15401"
+                 data-color-index="3"
+                 id="rect535"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series142 entry"
+               transform="translate(601.2731,0)"
+               id="series142::entry">
+              <rect
+                 class="bar fill item0 positive 127.3"
+                 x="-1.5194106"
+                 y="66.655334"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="194.34467"
+                 data-color-index="3"
+                 id="rect538"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series143 entry"
+               transform="translate(604.92398,0)"
+               id="series143::entry">
+              <rect
+                 class="bar fill item0 positive 135.7"
+                 x="-1.5194106"
+                 y="53.831333"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="207.16867"
+                 data-color-index="3"
+                 id="rect541"
+                 style="fill:#abd9e9" />
+            </g>
+            <g
+               class="series144 entry"
+               transform="translate(608.69655,0)"
+               id="series144::entry">
+              <rect
+                 class="bar fill item0 positive 130.5"
+                 x="-1.5194106"
+                 y="61.77"
+                 ry="0"
+                 rx="0"
+                 width="3.0388212"
+                 height="199.23"
+                 data-color-index="3"
+                 id="rect544"
+                 style="fill:#abd9e9" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

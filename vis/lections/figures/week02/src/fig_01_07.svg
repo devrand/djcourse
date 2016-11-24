@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="marks"
+   width="557"
+   height="249"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fig_01_07.svg">
+  <metadata
+     id="metadata414">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs412" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1151"
+     id="namedview410"
+     showgrid="false"
+     inkscape:zoom="2.0870441"
+     inkscape:cx="280.87776"
+     inkscape:cy="124.5"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g14" />
+  <g
+     transform="translate(56,0)"
+     id="g4">
+    <g
+       class="mark-group"
+       id="g6">
+      <g
+         transform="translate(0,0)"
+         id="g8">
+        <rect
+           class="background"
+           width="1"
+           height="1"
+           style="fill: none;"
+           id="rect10" />
+        <g
+           class="mark-group root"
+           id="g12">
+          <g
+             transform="translate(0,0)"
+             id="g14">
+            <rect
+               style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               id="rect3391"
+               width="812.15344"
+               height="345.94382"
+               x="-211.72263"
+               y="-54.299774"
+               inkscape:export-filename="/home/dvrnd/tmp/djcourse/vis/lections/figures/week02/fig_01_07.png"
+               inkscape:export-xdpi="200"
+               inkscape:export-ydpi="200" />
+            <rect
+               class="background"
+               width="418"
+               height="216"
+               style="fill: none;"
+               id="rect16" />
+            <g
+               class="mark-group"
+               id="g18"
+               style="fill:#808080">
+              <g
+                 transform="translate(0,208)"
+                 id="g20"
+                 style="fill:#808080">
+                <rect
+                   class="background"
+                   width="0"
+                   height="0"
+                   style="pointer-events:none;fill:#808080"
+                   id="rect22" />
+                <g
+                   class="mark-rule"
+                   style="pointer-events:none;fill:#808080"
+                   id="g24" />
+                <g
+                   class="mark-rule"
+                   style="pointer-events:none;fill:#808080"
+                   id="g26">
+                  <line
+                     transform="translate(11.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line28" />
+                  <line
+                     transform="translate(33.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line30" />
+                  <line
+                     transform="translate(55.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line32" />
+                  <line
+                     transform="translate(77.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line34" />
+                  <line
+                     transform="translate(99.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line36" />
+                  <line
+                     transform="translate(121.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line38" />
+                  <line
+                     transform="translate(143.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line40" />
+                  <line
+                     transform="translate(165.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line42" />
+                  <line
+                     transform="translate(187.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line44" />
+                  <line
+                     transform="translate(209.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line46" />
+                  <line
+                     transform="translate(231.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line48" />
+                  <line
+                     transform="translate(253.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line50" />
+                  <line
+                     transform="translate(275.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line52" />
+                  <line
+                     transform="translate(297.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line54" />
+                  <line
+                     transform="translate(319.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line56" />
+                  <line
+                     transform="translate(341.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line58" />
+                  <line
+                     transform="translate(363.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line60" />
+                  <line
+                     transform="translate(385.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line62" />
+                  <line
+                     transform="translate(407.5,0)"
+                     x2="0"
+                     y2="0"
+                     style="fill:#808080;stroke:#000;stroke-width:1;opacity:1"
+                     id="line64" />
+                </g>
+                <g
+                   class="mark-rule"
+                   style="pointer-events:none;fill:#808080"
+                   id="g66" />
+                <g
+                   class="mark-text"
+                   id="g68"
+                   style="fill:#808080">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(11.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text70">0</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(33.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text72">5</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(55.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text74">10</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(77.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text76">15</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(99.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text78">20</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(121.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text80">25</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(143.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text82">30</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(165.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text84">35</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(187.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text86">40</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(209.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text88">45</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(231.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text90">50</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(253.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text92">55</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(275.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text94">60</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(297.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text96">65</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(319.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text98">70</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(341.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text100">75</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(363.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text102">80</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(385.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text104">85</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(407.5,13)"
+                     style="font:11px sans-serif;fill:#000000;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text106">90</text>
+                </g>
+                <g
+                   class="mark-path"
+                   style="pointer-events:none;fill:#808080"
+                   id="g108">
+                  <path
+                     transform="translate(0.5,0.5)"
+                     d="M0,0V0H418V0"
+                     style="fill:#808080;stroke:#000;stroke-width:1"
+                     id="path110" />
+                </g>
+                <g
+                   class="mark-text"
+                   id="g112"
+                   style="fill:#000000;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+                   transform="translate(224.24059,-20.124156)">
+                  <text
+                     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text114"
+                     x="199"
+                     y="33">Вік</text>
+                </g>
+              </g>
+            </g>
+            <g
+               class="mark-group y-axes"
+               id="g116">
+              <g
+                 transform="translate(0,8)"
+                 id="g118">
+                <rect
+                   class="background"
+                   width="418"
+                   height="200"
+                   style="fill: none;"
+                   id="rect120" />
+                <g
+                   class="mark-group"
+                   id="g122"
+                   style="fill:#808080">
+                  <g
+                     transform="translate(0,0)"
+                     id="g124"
+                     style="fill:#808080">
+                    <rect
+                       class="background"
+                       width="0"
+                       height="0"
+                       style="pointer-events:none;fill:#808080"
+                       id="rect126" />
+                    <g
+                       class="mark-rule"
+                       style="pointer-events:none;fill:#808080"
+                       id="g128" />
+                    <g
+                       class="mark-rule"
+                       style="pointer-events:none;fill:#808080"
+                       id="g158" />
+                    <g
+                       class="mark-text"
+                       id="g160"
+                       style="fill:#808080"
+                       transform="translate(6,0)">
+                      <text
+                         transform="translate(-9,203.5)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text162">0M</text>
+                      <text
+                         transform="translate(-9,186.5)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text164">1M</text>
+                      <text
+                         transform="translate(-9,170.5)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text166">2M</text>
+                      <text
+                         transform="translate(-9,153.5)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text168">3M</text>
+                      <text
+                         transform="translate(-9,136.5)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text170">4M</text>
+                      <text
+                         transform="translate(-9,120.5)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text172">5M</text>
+                      <text
+                         transform="translate(-9,103.5)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text174">6M</text>
+                      <text
+                         transform="translate(-9,86.5)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text176">7M</text>
+                      <text
+                         transform="translate(-9,70.5)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text178">8M</text>
+                      <text
+                         transform="translate(-9,53.5)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text180">9M</text>
+                      <text
+                         transform="translate(-9,36.5)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text182">10M</text>
+                      <text
+                         transform="translate(-9,20.5)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text184">11M</text>
+                      <text
+                         transform="translate(-9,3.5)"
+                         style="text-anchor:end;fill:#000000;-inkscape-font-specification:Roboto Light;font-family:Roboto;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+                         id="text186">12M</text>
+                    </g>
+                    <g
+                       class="mark-text"
+                       id="g192"
+                       style="fill:#808080"
+                       transform="translate(12,0)">
+                      <text
+                         transform="matrix(0,-1,1,0,-41,100)"
+                         style="text-anchor:end;fill:#000000;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                         id="text194">Населення</text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g
+               class="mark-group cell"
+               id="g196">
+              <g
+                 transform="translate(2,8)"
+                 id="g198">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect200" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g202">
+                  <rect
+                     transform="translate(11.5,38)"
+                     width="5"
+                     height="162"
+                     style="fill: #659CCA;"
+                     id="rect204" />
+                  <rect
+                     transform="translate(2.5,45)"
+                     width="5"
+                     height="155"
+                     style="fill: #EA98D2;"
+                     id="rect206" />
+                </g>
+              </g>
+              <g
+                 transform="translate(24,8)"
+                 id="g208">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect210" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g212">
+                  <rect
+                     transform="translate(11.5,24)"
+                     width="5"
+                     height="176"
+                     style="fill: #659CCA;"
+                     id="rect214" />
+                  <rect
+                     transform="translate(2.5,32)"
+                     width="5"
+                     height="168"
+                     style="fill: #EA98D2;"
+                     id="rect216" />
+                </g>
+              </g>
+              <g
+                 transform="translate(46,8)"
+                 id="g218">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect220" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g222">
+                  <rect
+                     transform="translate(11.5,24)"
+                     width="5"
+                     height="176"
+                     style="fill: #659CCA;"
+                     id="rect224" />
+                  <rect
+                     transform="translate(2.5,33)"
+                     width="5"
+                     height="167"
+                     style="fill: #EA98D2;"
+                     id="rect226" />
+                </g>
+              </g>
+              <g
+                 transform="translate(68,8)"
+                 id="g228">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect230" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g232">
+                  <rect
+                     transform="translate(11.5,29)"
+                     width="5"
+                     height="171"
+                     style="fill: #659CCA;"
+                     id="rect234" />
+                  <rect
+                     transform="translate(2.5,38)"
+                     width="5"
+                     height="162"
+                     style="fill: #EA98D2;"
+                     id="rect236" />
+                </g>
+              </g>
+              <g
+                 transform="translate(90,8)"
+                 id="g238">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect240" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g242">
+                  <rect
+                     transform="translate(11.5,38)"
+                     width="5"
+                     height="162"
+                     style="fill: #659CCA;"
+                     id="rect244" />
+                  <rect
+                     transform="translate(2.5,45)"
+                     width="5"
+                     height="155"
+                     style="fill: #EA98D2;"
+                     id="rect246" />
+                </g>
+              </g>
+              <g
+                 transform="translate(112,8)"
+                 id="g248">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect250" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g252">
+                  <rect
+                     transform="translate(11.5,39)"
+                     width="5"
+                     height="161"
+                     style="fill: #659CCA;"
+                     id="rect254" />
+                  <rect
+                     transform="translate(2.5,41)"
+                     width="5"
+                     height="159"
+                     style="fill: #EA98D2;"
+                     id="rect256" />
+                </g>
+              </g>
+              <g
+                 transform="translate(134,8)"
+                 id="g258">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect260" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g262">
+                  <rect
+                     transform="translate(11.5,30)"
+                     width="5"
+                     height="170"
+                     style="fill: #659CCA;"
+                     id="rect264" />
+                  <rect
+                     transform="translate(2.5,31)"
+                     width="5"
+                     height="169"
+                     style="fill: #EA98D2;"
+                     id="rect266" />
+                </g>
+              </g>
+              <g
+                 transform="translate(156,8)"
+                 id="g268">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect270" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g272">
+                  <rect
+                     transform="translate(11.5,9)"
+                     width="5"
+                     height="191"
+                     style="fill: #659CCA;"
+                     id="rect274" />
+                  <rect
+                     transform="translate(2.5,6)"
+                     width="5"
+                     height="194"
+                     style="fill: #EA98D2;"
+                     id="rect276" />
+                </g>
+              </g>
+              <g
+                 transform="translate(178,8)"
+                 id="g278">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect280" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g282">
+                  <rect
+                     transform="translate(11.5,11)"
+                     width="5"
+                     height="189"
+                     style="fill: #659CCA;"
+                     id="rect284" />
+                  <rect
+                     transform="translate(2.5,9)"
+                     width="5"
+                     height="191"
+                     style="fill: #EA98D2;"
+                     id="rect286" />
+                </g>
+              </g>
+              <g
+                 transform="translate(200,8)"
+                 id="g288">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect290" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g292">
+                  <rect
+                     transform="translate(11.5,35)"
+                     width="5"
+                     height="165"
+                     style="fill: #659CCA;"
+                     id="rect294" />
+                  <rect
+                     transform="translate(2.5,29)"
+                     width="5"
+                     height="171"
+                     style="fill: #EA98D2;"
+                     id="rect296" />
+                </g>
+              </g>
+              <g
+                 transform="translate(222,8)"
+                 id="g298">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect300" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g302">
+                  <rect
+                     transform="translate(11.5,58)"
+                     width="5"
+                     height="142"
+                     style="fill: #659CCA;"
+                     id="rect304" />
+                  <rect
+                     transform="translate(2.5,51)"
+                     width="5"
+                     height="149"
+                     style="fill: #EA98D2;"
+                     id="rect306" />
+                </g>
+              </g>
+              <g
+                 transform="translate(244,8)"
+                 id="g308">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect310" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g312">
+                  <rect
+                     transform="translate(11.5,92)"
+                     width="5"
+                     height="108"
+                     style="fill: #659CCA;"
+                     id="rect314" />
+                  <rect
+                     transform="translate(2.5,85)"
+                     width="5"
+                     height="115"
+                     style="fill: #EA98D2;"
+                     id="rect316" />
+                </g>
+              </g>
+              <g
+                 transform="translate(266,8)"
+                 id="g318">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect320" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g322">
+                  <rect
+                     transform="translate(11.5,115)"
+                     width="5"
+                     height="85"
+                     style="fill: #659CCA;"
+                     id="rect324" />
+                  <rect
+                     transform="translate(2.5,106)"
+                     width="5"
+                     height="94"
+                     style="fill: #EA98D2;"
+                     id="rect326" />
+                </g>
+              </g>
+              <g
+                 transform="translate(288,8)"
+                 id="g328">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect330" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g332">
+                  <rect
+                     transform="translate(11.5,126)"
+                     width="5"
+                     height="74"
+                     style="fill: #659CCA;"
+                     id="rect334" />
+                  <rect
+                     transform="translate(2.5,120)"
+                     width="5"
+                     height="80"
+                     style="fill: #EA98D2;"
+                     id="rect336" />
+                </g>
+              </g>
+              <g
+                 transform="translate(310,8)"
+                 id="g338">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect340" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g342">
+                  <rect
+                     transform="translate(11.5,137)"
+                     width="5"
+                     height="63"
+                     style="fill: #659CCA;"
+                     id="rect344" />
+                  <rect
+                     transform="translate(2.5,114)"
+                     width="5"
+                     height="86"
+                     style="fill: #EA98D2;"
+                     id="rect346" />
+                </g>
+              </g>
+              <g
+                 transform="translate(332,8)"
+                 id="g348">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect350" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g352">
+                  <rect
+                     transform="translate(11.5,151)"
+                     width="5"
+                     height="49"
+                     style="fill: #659CCA;"
+                     id="rect354" />
+                  <rect
+                     transform="translate(2.5,127)"
+                     width="5"
+                     height="73"
+                     style="fill: #EA98D2;"
+                     id="rect356" />
+                </g>
+              </g>
+              <g
+                 transform="translate(354,8)"
+                 id="g358">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect360" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g362">
+                  <rect
+                     transform="translate(11.5,168)"
+                     width="5"
+                     height="32"
+                     style="fill: #659CCA;"
+                     id="rect364" />
+                  <rect
+                     transform="translate(2.5,146)"
+                     width="5"
+                     height="54"
+                     style="fill: #EA98D2;"
+                     id="rect366" />
+                </g>
+              </g>
+              <g
+                 transform="translate(376,8)"
+                 id="g368">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect370" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g372">
+                  <rect
+                     transform="translate(11.5,184)"
+                     width="5"
+                     height="16"
+                     style="fill: #659CCA;"
+                     id="rect374" />
+                  <rect
+                     transform="translate(2.5,167)"
+                     width="5"
+                     height="33"
+                     style="fill: #EA98D2;"
+                     id="rect376" />
+                </g>
+              </g>
+              <g
+                 transform="translate(398,8)"
+                 id="g378">
+                <rect
+                   class="background"
+                   width="18"
+                   height="200"
+                   style="fill: none; stroke: #ccc; stroke-width: 0;"
+                   id="rect380" />
+                <g
+                   class="mark-rect child_marks"
+                   id="g382">
+                  <rect
+                     transform="translate(11.5,194)"
+                     width="5"
+                     height="6"
+                     style="fill: #659CCA;"
+                     id="rect384" />
+                  <rect
+                     transform="translate(2.5,182)"
+                     width="5"
+                     height="18"
+                     style="fill: #EA98D2;"
+                     id="rect386" />
+                </g>
+              </g>
+            </g>
+            <g
+               class="mark-group"
+               id="g388">
+              <g
+                 transform="translate(438.5,0.5)"
+                 id="g390">
+                <rect
+                   class="background"
+                   width="57"
+                   height="47"
+                   style="pointer-events: none; fill: none;"
+                   id="rect392" />
+                <g
+                   class="mark-symbol"
+                   id="g398"
+                   transform="translate(-96,6)">
+                  <path
+                     transform="translate(7.5,23)"
+                     d="M 0,3.9894228 A 3.9894228,3.9894228 0 1 1 0,-3.9894228 3.9894228,3.9894228 0 1 1 0,3.9894228 z"
+                     style="fill:#ea98d2;stroke:#888888;stroke-width:0"
+                     id="path400"
+                     inkscape:connector-curvature="0" />
+                  <path
+                     transform="translate(7.5,38)"
+                     d="M 0,3.9894228 A 3.9894228,3.9894228 0 1 1 0,-3.9894228 3.9894228,3.9894228 0 1 1 0,3.9894228 z"
+                     style="fill:#659cca;stroke:#888888;stroke-width:0"
+                     id="path402"
+                     inkscape:connector-curvature="0" />
+                </g>
+                <g
+                   class="mark-text"
+                   id="g404"
+                   transform="translate(-96,6)"
+                   style="fill:#808080">
+                  <text
+                     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text406"
+                     x="50"
+                     y="26">Жінки</text>
+                  <text
+                     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text408"
+                     x="68"
+                     y="41">Чоловіки</text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
