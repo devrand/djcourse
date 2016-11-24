@@ -109,4 +109,7 @@
 
 ***
 
-Для ілюстрацій використані роботи Washington Post, SCMP, Texty.org.ua, Майка Бостока та інших авторів
+1. Для ілюстрацій використані роботи Washington Post, SCMP, Texty.org.ua, Майка Бостока та інших авторів
+2. Існує багато каталогів графіків. Один із них від [FT](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf)
+
+
