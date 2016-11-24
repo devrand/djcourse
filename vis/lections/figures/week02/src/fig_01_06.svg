@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,8 +40,8 @@
      inkscape:window-height="1151"
      id="namedview122"
      showgrid="false"
-     inkscape:zoom="1.7992151"
-     inkscape:cx="303.14407"
+     inkscape:zoom="0.89960755"
+     inkscape:cx="271.41493"
      inkscape:cy="185.5"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -62,22 +62,20 @@
   <rect
      style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect3119"
-     width="935.96368"
-     height="431.29919"
-     x="-180.07852"
-     y="-20.281733"
+     width="1134.9393"
+     height="497.99493"
+     x="-277.89896"
+     y="-50.294819"
      inkscape:export-filename="/home/dvrnd/tmp/djcourse/vis/lections/figures/week02/fig_01_06.png"
      inkscape:export-xdpi="200"
      inkscape:export-ydpi="200" />
   <rect
-     x="0"
-     y="0"
-     width="600"
-     height="371"
-     stroke="none"
-     stroke-width="0"
-     fill="#ffffff"
-     id="rect8" />
+     x="75"
+     y="46.375"
+     width="450"
+     height="278.25"
+     id="rect8"
+     style="fill:#ffffff;stroke:none" />
   <g
      id="g20">
     <rect
@@ -85,11 +83,11 @@
        y="71"
        width="371"
        height="229"
-       stroke="none"
+       id="rect22"
        stroke-width="0"
+       stroke="none"
        fill-opacity="0"
-       fill="#ffffff"
-       id="rect22" />
+       fill="#ffffff" />
     <g
        clip-path="url(https://docs.google.com/spreadsheets/d/1VWeqebeB_E1uDRHE2CeAFjsKtKVSX5B7K0OjyQNPveE/edit#_ABSTRACT_RENDERER_ID_361)"
        id="g24">
@@ -167,46 +165,46 @@
            y="80"
            width="360"
            height="28"
-           stroke="none"
+           id="rect48"
            stroke-width="0"
-           fill="#a64d79"
-           id="rect48" />
+           stroke="none"
+           fill="#a64d79" />
         <rect
            x="99"
            y="126"
            width="283"
            height="28"
-           stroke="none"
+           id="rect50"
            stroke-width="0"
-           fill="#a64d79"
-           id="rect50" />
+           stroke="none"
+           fill="#a64d79" />
         <rect
            x="99"
            y="171"
            width="188"
            height="29"
-           stroke="none"
+           id="rect52"
            stroke-width="0"
-           fill="#a64d79"
-           id="rect52" />
+           stroke="none"
+           fill="#a64d79" />
         <rect
            x="99"
            y="217"
            width="85"
            height="28"
-           stroke="none"
+           id="rect54"
            stroke-width="0"
-           fill="#a64d79"
-           id="rect54" />
+           stroke="none"
+           fill="#a64d79" />
         <rect
            x="99"
            y="263"
            width="25"
            height="28"
-           stroke="none"
+           id="rect56"
            stroke-width="0"
-           fill="#a64d79"
-           id="rect56" />
+           stroke="none"
+           fill="#a64d79" />
       </g>
     </g>
     <g
