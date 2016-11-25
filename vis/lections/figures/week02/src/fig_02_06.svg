@@ -33,8 +33,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="328.18779"
+     inkscape:zoom="2.8"
+     inkscape:cx="330.2081"
      inkscape:cy="550.30458"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,6 +78,19 @@
            inkscape:export-filename="/home/dvrnd/tmp/djcourse/vis/lections/figures/week02/fig_02_06.png"
            inkscape:export-xdpi="200"
            inkscape:export-ydpi="200" />
+        <text
+           xml:space="preserve"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           x="9.0700092"
+           y="-116.07199"
+           id="text3057"
+           sodipodi:linespacing="125%"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan3059"
+             x="9.0700092"
+             y="-116.07199"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold;fill:#4d4d4d">Знайдіть червоне коло</tspan></text>
       </g>
       <g
          id="g16"
