@@ -15,7 +15,7 @@
    width="405"
    height="173.75"
    xml:space="preserve"
-   sodipodi:docname="fig5.13.pdf"><metadata
+   sodipodi:docname="fig_02_07.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -57,7 +57,10 @@
        height="220.33882"
        x="-64.940269"
        y="-181.31892"
-       transform="scale(1,-1)" /><path
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/dvrnd/tmp/djcourse/vis/lections/figures/week02/fig_02_07.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" /><path
        d="m 264.967,51.049 -16.693,0 0,52.377 16.693,0 0,-52.377 z"
        style="fill:#5599ff;fill-opacity:1;fill-rule:nonzero;stroke:none;color:#000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path12" /><path
