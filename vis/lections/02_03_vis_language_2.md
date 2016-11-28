@@ -102,7 +102,7 @@
 ***
 
 Посилання
-*[Класика - робота Клівленда та МакГіла](https://www.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/readings/cleveland.pdf)
-*[Colin Ware](http://ccom.unh.edu/vislab/colin_ware.html)
-*[Tamara Munzner](https://www.cs.ubc.ca/~tmm/)
-*[Огляд майже всіх фундаментальних досліджень по темі](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73#.k1hq362io)
+* [Класика - робота Клівленда та МакГіла](https://www.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/readings/cleveland.pdf)
+* [Colin Ware](http://ccom.unh.edu/vislab/colin_ware.html)
+* [Tamara Munzner](https://www.cs.ubc.ca/~tmm/)
+* [Огляд майже всіх фундаментальних досліджень по темі](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73#.k1hq362io)
