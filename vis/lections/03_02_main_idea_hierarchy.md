@@ -5,11 +5,11 @@
 Дані - Аналіз - Візуалізація - Дані
 
 
-- Перед тим, як щось малювати - у вас повинна в голові бути відповідь на питання: про що буде розказувати (або що буде показувати) моя візщуалізація?
+- Перед тим, як щось малювати - у вас повинна в голові бути відповідь на питання: про що буде розказувати (або що буде показувати) моя візуалізація?
 Корисно навіть записати на листок паперу, двома абзацами текст на тему "на яке головне питання буде відповідати моя візуалізація"?
 
-Приклад, смерті в Іраку
-Приклад, скайлайн Гонгконгу
+Приклад, смерті в Іраку (((fig_02_01)))
+Приклад, скайлайн Гонгконгу (((fig_02_02)))
 
 (((практика - знгенерувати якомога більше тем, маючи набір даних з відповідними колонками )))
 
@@ -20,45 +20,23 @@
 
 Як будувати ієрархію - у візуальний спосіб. Наприклад, розташуванням на листі (в якому порядку розгортається історія), розміром, кольором тощо. Скільки може бути рівнів? Бажано, до трьох. Паралель - журналістська стаття, правило піраміди: найбільш помітний загловок, середній підзаг - трохи більш детальний, і дрібний детальний опис. З часом і практикою, у вас з"явиться свій спросіб створювати архітектуру візуалізації. Щоб відштовхнутися, я розкажу одну з методик:
 
-![Жоржія Лупі, Акурат](https://d262ilb51hltx0.cloudfront.net/max/2000/1*MXSvw4G8z9qE0kPAxhSqhg.jpeg)
+![Жоржія Лупі, Акурат](https://d262ilb51hltx0.cloudfront.net/max/2000/1*MXSvw4G8z9qE0kPAxhSqhg.jpeg)(((fig_02_03)))
 
-1. Composing the main architecture of the visualization
-base through which the main story will be mapped and displayed, upon this, one will see the most relevant patterns emerging from the story: the essential “map” that conceptually identifies where we are
+1. Створити архітектуру візуалізації (каркас)
 
-2. Positioning singular elements within the main framework.
-the placement of elements reveals or confirms weaknesses and strengths, which may lead to modification of the main architecture.
+База, за допомогою якої буде показана головна історія. Тут глядач зможе побачити найбільш важливі схеми, які з"являються в історії. Це головна карта, що показує де ми знаходимося.
 
-3. Constructing shaped elements of dimensionality and form
-...  with quantitative and qualitative parameters and positioning these within the main architecture
+2. Розташування окремих елементів всередині головної схеми
+Розташування показує слабкі та сильні сторони схеми, і може призвести до зміни початкової архітектури 
 
-4. Elucidating internal relationships between elements (if any)
-These ... serve to give the story a comprehensive texture
+3. Використання міток та візуальних каналів для показу даних
 
-5. Labeling and identifying
-Through the addition of explanatory labels and short texts we provide requisite last mile clarity throughout the presentation.
+4. Підкреслити внутрішні зв"язки між окремими елементами. 
 
+5. Позначки та анотації
+За їх допомогою ми додаємо останні деталі нашої презентації
 До речі, це обов"язковий елемент - таке має бути завжди. Не розраховуйте, що ваша візуалізація буде в якомусь контексті, з якого читач отримає додаткову інформацію. Все повинно бути в одному місці - особливо в наші часи поширення по соц. мережам. Зрозумілий заголовок, дата, підписи під вісями, одиниці виміру, джерела даних (за необхідністю), ваш логотип
 
-
-- Supplementing the greater story through the addition of minor or tangential tales elements.
-- Providing small visual explanations such as a legend or key that assists readers and the general public who may not be familiar with norms of data visualization.
-- Fine-tuning and stylizing of elements’ shapes, colors, and weights to make hierarchies pop out
-
-The final fine-tuning of the piece is the necessary effort
-required to please readers’ eyes:
-a well-balanced image where negative space and light elements
-play their role aesthetically.
-
-### 5 кроків
-* Брейнсторм
-* 3 кроки Дизайну: The Content of the three design sheets should be similar. They should contain: 
-
-    the Layout of the design. This is the vision of what the final visualization would look like. Commonly this would appear as a sketched screen‐shot of the typical visualization application.
-    Focus. There may be a few key visualization techniques, or in particular, novel visualizations that are being created for this tool. These should be described in the Focus section.
-    Sketches and some brief descriptions of how the user operates the visualization, or controls the user interface should also be included.
-    A discussion of the advantages and disadvantages of this technique should be included somewhere on the design sheet.
-    Finally meta‐information should be included: including title, authors, date, sheet number and task.
-*  The differences with Sheet 5 and sheets 2,3,4 is that the Discussion is exchanged for some Detail.
 
 
 
