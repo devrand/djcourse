@@ -1,0 +1,10 @@
+fig_01_01, pixelation
+fig_01_02, ілюстрація тексту SVG
+fig_01_03, ілюстрація SVG
+
+Приклад, смерті в Іраку (((fig_02_01)))
+Приклад, скайлайн Гонгконгу (((fig_02_02)))
+Жоржія Лупі, Акурат](https://d262ilb51hltx0.cloudfront.net/max/2000/1*MXSvw4G8z9qE0kPAxhSqhg.jpeg)(((fig_02_03)))
+
+
+
