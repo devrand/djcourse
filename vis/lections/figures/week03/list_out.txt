@@ -1,0 +1,46 @@
+
+1. vis ? ? 
+лекція (про формати графічних файлів тощо) відсутня
+
+
+2. після неї:  скрінкаст про Inkscape
+
+
+3. vis 3 4
+   2:30  три картинки показати одна зо одною, секунд по 5
+   main_theme1_nyt.png,  
+   main_theme_2_enhanced-buzz.png, 
+   main_theme3_wsj.png
+
+
+4. vis 3 5 (три рази показуємо одну ілюстрацію)
+   1:00  accurat_arch.jpeg
+   2:26  accurat_arch.jpeg
+   6:00  accurat_arch.jpeg
+
+
+
+vis 2 5
+   2:26  fig_01_03.png
+   4:39  fig_02_01.png
+   6:20  fig_03_02.png
+   7:20  fig_01_05.jpg
+
+
+vis 2 6
+   0:30 iraqdeaths.jpg
+   0:55 ar09_04_mod.png
+   1:30 felton_grid.png
+   2:26 darkhorse.mp4
+   4:18 small_mult.png
+   4:53 bump_chart.png
+   5:30 ugly_pie.jpg
+   6:30 colorbrewer.png
+   7:34 - закінчити відео (як варіант, виключити голос, поставити ілюстрацію
+ar09_04.jpg)
+
+
+***
+3_1, vis 3_2, vis 3_3 - четвертий тиждень (color3)
+vis 3_6, 3_7, 3_8, 3_9 - ці лекції відносяться до четвертого тижня (design)
+
