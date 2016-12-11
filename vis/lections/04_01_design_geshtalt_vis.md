@@ -42,7 +42,7 @@
 
 
 #### Принципи гештальта, що грунтуються на групуванні.
-(список нижче написаний у порядку зменшення відчуття групи)
+(список нижче наведений у порядку зменшення сили групування)
 
 ##### Спільний регіон
 
@@ -83,62 +83,60 @@
     по іншому”
     
 
+#### Більш абстрактні, ніж групування, принципи створення патернів
 
-### Більш абстрактні, ніж групування, принципи створення патернів
-
-### Замкнення (see (2))
+##### Замкнення 
 У випадку, коли загальна картинка простіше, ніж частини, ми в першу чергу бачимо загальну картину
 
-![closure](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/02-closure.png)
+![closure](figures/week04/fig_gesht_08_closure.png)
+
+Як і в попередньому випадку, ми шукаємо простоти. Однак тут простіше добудувати (відомий нам) патерн, ніж розбиратися з окремими частинами.
 
 
-Як і в попередньому випадку, ми шукаємо простоти. Однак тут простіше добудувати патерн, ніж дивитися на частини
+##### Симетрія та порядок
+    “Якщо є хоч наменша можливість, ми сприймаємо об"єкти як симетричні форми, що утворюються навколо центру”
+Симетрія дає нам відчуття стабільності і порядку, які ми шукаємо. В нашій природі впроваджувати порядок в хаос (щоб зрозуміти). Здатність швидко знаходити симетрію та порядок варто використовувати щоб ефективно передавати інформацію
 
 
-### Симетрія та порядок
-    “People tend to perceive objects as symmetrical shapes that form around their center.”
-Симетрія дає нам відчуття стабільності і порядку, які ми шукаємо. В нашій природі впроваджувати порядок в хаос (щоб зрозуміти). Це принцип змушує нас прагнути балансу в композиції, хоча для цього вона не повинна бути ідеально симетричною, щоб бути збалансованою. Здатність швидко знаходити симетрію та порядок варто використовувати щоб ефективно передавати інформацію
+##### Фігура-Тло
 
-![симетрія - ми бачимо 3 пари симетричних дужок](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/03-symmetry.png)
+    “Елементи сприймаються або як фігури(першого плану), або як тло.”
 
-### Фігура-Тло (see (3) )
+Чим більш чітко ми можемо визначити, де фігура, а де тло - тим краще ми зможемо спрямувати читача на те, на що треба дивитися. На практиці, а. з двох об"єктів що перетинаються, більш як фігура сприймається той, що менше, незалежно від кольору. б. Також, випуклі форми сприймаються як фігури, і навпаки, увігуті всередину, пласкі форми сприймаються як тло. 
 
-    “Elements are perceived as either figure (the element in focus) or ground (the background on which the figure rests).”
+![](figures/week04/fig_gesht_09_figure_ground.png)
 
-![фігура](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/04-figure-ground.png)
+    
+##### Продовження
 
-The more stable the relationship, the better we can lead our audience to focus on what we want them to see. Two related principles can help us:
+    “Елементи, що розташовані на (уявній) лінії або кривій що плавно змінюється, сприймаються як більш пов"язані, ніж елементи не на лінії (кривій).”
+ 
+Якщо ви починаєте дивитися або рухатися взовж якогось напрямку, ви продовжуєте це робити, поки не станеться щось дуже суттєве, що змінить ваше сприйняття
 
-    * Area
-    The smaller of two overlapping objects is seen as figure. The larger is seen as ground. You can see this in the right image above. The smaller shape is the figure regardless of color.
-    * Convexity
-    Convex rather than concave patterns tend to be perceived as figures.
+![](figures/week04/fig_gesht_10_continuity.png)
 
-### Продовження
-
-    “Elements arranged on a line or curve are perceived as more related than elements not on the line or curve.”
-
-It’s instinct to follow a river, a path or a fence line. Once you look or move in a particular direction, you continue to look or move in that direction until you see something significant or you determine there’s nothing significant to see.
-
-![](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/08-continuation.png)
+Цікаве застосування для графіків:
+![](figures/week04/fig_gesht_10_continuity_2.png)
 
 
 
-### Focal Points Link
+##### Фокусна точка
 
-    “Elements with a point of interest, emphasis or difference will capture and hold the viewer’s attention.”
+    “Елементи що виділяються серед інших, захоплюють та утримують увагу читача.”
 
-This principle suggests that our attention will be drawn toward contrast, toward the element that is unlike the others in some way. 
-![](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/12-focal-point.png)
+Наша увага притягується до контрастних речей, до елементів що відрізняються (поп-аут ефект - частина цього принципу) 
+Фокусна точка не буде працювати, якщо немає групи схожих елементів для контрасту.
 
-The principles of similarity and focal points are connected, and focal points can’t be seen without the presence of similarity among other elements.
+### Підсумок
+Ще раз, яке б зображення ви не використовували, мозок намагаєтьс його спростити. 
 
-((( ... приклад візуалізація + гештальт (напр з книги дата ет ворк)
+Найчастіше в інформаційному дизайні гештальт-принципи використовуются для того, коли потрібно створити явні групи, зважаючи на відносну силу кожного такого групування. Їх можна розташувати у такому порядку, від найсильнішого до найслабшого (точної наукової оцінки мені не доводилося бачити):
 
-Whatever image you use, the brain works tirelessly to simplify it.
+* спільний регіон
+* зв"язки
+* близькість
+* схожість
 
-We should use the mechanisms of Gestalt sparingly in chart making—just enough to make explicit groupings, depending on the aggregation power of each law (Figure 2.30). For example, the law of segregation is stronger than the law of connectivity,7 and the law of connectivity is stronger than the law of proximity. Implicit groupings are sufficient to define a legend, making a frame unnecessary. In most cases, the chart itself does not need a frame because it’s easily perceived as a unit. In the line chart, on the contrary, the laws of proximity and similarity are insufficient, and that’s why a line connecting data points is needed.
+![відносна сила](figures/week04/fig_gesht_11_rating.png)
 
-![відносна сила](https://www.safaribooksonline.com/library/view/data-at-work/9780134268798/graphics/02fig30.jpg)
-)))
-
+* 
