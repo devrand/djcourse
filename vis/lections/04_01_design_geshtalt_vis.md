@@ -19,11 +19,10 @@
 
 ## Гештальт-принципи
 (Тут і далі використані приклади Хорхе Камоша з книги "Дані в роботі")
+Загально їх можна сформулювати наступним чином:  
 
-Most of the principles are relatively easy to understand. There’s a common theme running through many of them.
-
-    “All else being equal, elements that are related by X tend to be grouped perceptually into higher-order units.”
-    — Stephen Palmer (5)
+    “При всіх рівних умовах елементи, що пов"язані за принципом X, об"єднуються нашим мозком в об"єкт, з вищим рівнем ієрархії.”
+    — Stephen Palmer 
 
  OR Similarity Link (see (5))
 
