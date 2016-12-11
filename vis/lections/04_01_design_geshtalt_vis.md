@@ -21,12 +21,11 @@
 (Тут і далі використані приклади Хорхе Камоша з книги "Дані в роботі")
 Загально їх можна сформулювати наступним чином:  
 
-    “При всіх рівних умовах елементи, що пов"язані за принципом X, об"єднуються нашим мозком в об"єкт, з вищим рівнем ієрархії.”
+    “При всіх рівних умовах елементи, що мають спільну візуальну характеристику, 
+    сприймаються як більш споріднені ніж ті що не мають такої характеристики, 
+    та об"єднуються нашим мозком в об"єкт на наступному рівні ієрархії.”
     — Stephen Palmer 
 
- OR Similarity Link (see (5))
-
-    “Elements that share similar characteristics are perceived as more related than elements that don’t share those characteristics, and tend to be grouped perceptually into higher-order units”
 ![](https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/11-similarity.png)
 
 
