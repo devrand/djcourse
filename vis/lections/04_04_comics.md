@@ -1,4 +1,4 @@
-![](figures/week04/comix/front_page.png)
+![](figures/week04/comix/frontpage.png)
 ![](figures/week04/comix/page1.png)
 ![](figures/week04/comix/page2.png)
 ![](figures/week04/comix/page3.png)
