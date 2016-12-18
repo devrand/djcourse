@@ -23,6 +23,8 @@
 The Upshot (NYT), FiveThirtyEight, Bloomberg graphics, Fathom design, etc.
 [Список ресурсів](http://www.visualisingdata.com/resources/) у гарній візуалній формі також є на згаданому нижче сайті Енді Кірка
 
+[Розділ Текстів](http://texty.org.ua/pg/blog/infoviz), де зібрані наші проекти з візуалізації та журналістики даних
+
 [Мій твітер](https://twitter.com/dvrnd), в якому серед тих кого я зафоловив, можна пошукати і знайти чимало людей, що займаються візуалізацією даних.
 
 ## Ресурси. Люди
