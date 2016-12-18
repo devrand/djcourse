@@ -16,7 +16,7 @@
 
 ## Інструменти
 
-Список інструментів, які відібрані протягом 6 років нашої діяльності на сайті Тексти, можна знайти за (цим лінком)[https://docs.google.com/spreadsheets/d/1miN1dUvPMmnLdhunhZCil80LwlJ3xj8gRXrUNA-KrIE/edit#gid=0]
+Список інструментів, які відібрані протягом 6 років нашої діяльності на сайті Тексти, можна знайти за (https://docs.google.com/spreadsheets/d/1miN1dUvPMmnLdhunhZCil80LwlJ3xj8gRXrUNA-KrIE/edit#gid=0)[цим лінком]
 Їх близько сотні, однак я б хотів поговорити про декілька найбільш важливих:
 - Онлайн-інструменти для створення інфографіки:
 - - (Raw)[https://docs.google.com/spreadsheets/d/1miN1dUvPMmnLdhunhZCil80LwlJ3xj8gRXrUNA-KrIE/edit#gid=0] (дані - таблиця,
