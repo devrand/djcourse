@@ -47,3 +47,4 @@ QGIS дозволяє відкривати шейпфайли, редагува�
 - [Carto](http://carto.com)
 - [Mapbox studio](https://www.mapbox.com/mapbox-studio/)
 - [Tangram](https://mapzen.com/products/tangram/)
+- http://www.findlatitudeandlongitude.com/batch-geocode/
