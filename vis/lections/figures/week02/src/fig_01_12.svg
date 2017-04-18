@@ -1,0 +1,1792 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="280"
+   version="1.1"
+   style="height:280px;width:1000px;perspective-origin:500px 140px;transform-origin:500px 140px;"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fig_01_12.svg"
+   inkscape:export-filename="/home/dvrnd/tmp/djcourse/vis/lections/figures/week02/fig_01_12.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <metadata
+     id="metadata456">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs454" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1151"
+     id="namedview452"
+     showgrid="false"
+     inkscape:zoom="1.644"
+     inkscape:cx="504.86618"
+     inkscape:cy="140"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:block;overflow:visible;enable-background:accumulate"
+     id="rect3435"
+     width="1015.8151"
+     height="290.75427"
+     x="-8.5158148"
+     y="-5.8880782" />
+  <line
+     stroke="gray"
+     stroke-dasharray="1,2"
+     style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(128, 128, 128);stroke-dasharray:1px, 2px;"
+     id="line4" />
+  <g
+     class="x axis"
+     transform="translate(0,246)"
+     style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;"
+     id="g6">
+    <g
+       class="tick"
+       transform="translate(144.1272735595703, 0)"
+       style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;"
+       id="g8">
+      <line
+         x2="0"
+         y2="6"
+         style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;shape-rendering:crispEdges;stroke:rgb(170, 170, 170);"
+         id="line10" />
+      <text
+         x="0"
+         y="9"
+         dy=".71em"
+         style="background-color:rgba(0, 0, 0, 0);display:block;font-family:sans-serif;font-size:10px;height:11px;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:5.54688px;perspective-origin:2.76562px 5.5px;transform-origin:0px 0px;fill:rgb(47, 79, 79);text-anchor:middle;"
+         id="text12">5</text>
+    </g>
+    <g
+       class="tick"
+       transform="translate(248.6727294921875, 0)"
+       style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;"
+       id="g14">
+      <line
+         x2="0"
+         y2="6"
+         style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;shape-rendering:crispEdges;stroke:rgb(170, 170, 170);"
+         id="line16" />
+      <text
+         x="0"
+         y="9"
+         dy=".71em"
+         style="background-color:rgba(0, 0, 0, 0);display:block;font-family:sans-serif;font-size:10px;height:11px;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:11.1094px;perspective-origin:5.54688px 5.5px;transform-origin:0px 0px;fill:rgb(47, 79, 79);text-anchor:middle;"
+         id="text18">10</text>
+    </g>
+    <g
+       class="tick"
+       transform="translate(353.2181701660156, 0)"
+       style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;"
+       id="g20">
+      <line
+         x2="0"
+         y2="6"
+         style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;shape-rendering:crispEdges;stroke:rgb(170, 170, 170);"
+         id="line22" />
+      <text
+         x="0"
+         y="9"
+         dy=".71em"
+         style="background-color:rgba(0, 0, 0, 0);display:block;font-family:sans-serif;font-size:10px;height:11px;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:11.1094px;perspective-origin:5.54688px 5.5px;transform-origin:0px 0px;fill:rgb(47, 79, 79);text-anchor:middle;"
+         id="text24">15</text>
+    </g>
+    <g
+       class="tick"
+       transform="translate(457.7636413574219, 0)"
+       style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;"
+       id="g26">
+      <line
+         x2="0"
+         y2="6"
+         style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;shape-rendering:crispEdges;stroke:rgb(170, 170, 170);"
+         id="line28" />
+      <text
+         x="0"
+         y="9"
+         dy=".71em"
+         style="background-color:rgba(0, 0, 0, 0);display:block;font-family:sans-serif;font-size:10px;height:11px;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:11.1094px;perspective-origin:5.54688px 5.5px;transform-origin:0px 0px;fill:rgb(47, 79, 79);text-anchor:middle;"
+         id="text30">20</text>
+    </g>
+    <g
+       class="tick"
+       transform="translate(562.30908203125, 0)"
+       style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;"
+       id="g32">
+      <line
+         x2="0"
+         y2="6"
+         style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;shape-rendering:crispEdges;stroke:rgb(170, 170, 170);"
+         id="line34" />
+      <text
+         x="0"
+         y="9"
+         dy=".71em"
+         style="background-color:rgba(0, 0, 0, 0);display:block;font-family:sans-serif;font-size:10px;height:11px;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:11.1094px;perspective-origin:5.54688px 5.5px;transform-origin:0px 0px;fill:rgb(47, 79, 79);text-anchor:middle;"
+         id="text36">25</text>
+    </g>
+    <g
+       class="tick"
+       transform="translate(666.8545532226562, 0)"
+       style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;"
+       id="g38">
+      <line
+         x2="0"
+         y2="6"
+         style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;shape-rendering:crispEdges;stroke:rgb(170, 170, 170);"
+         id="line40" />
+      <text
+         x="0"
+         y="9"
+         dy=".71em"
+         style="background-color:rgba(0, 0, 0, 0);display:block;font-family:sans-serif;font-size:10px;height:11px;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:11.1094px;perspective-origin:5.54688px 5.5px;transform-origin:0px 0px;fill:rgb(47, 79, 79);text-anchor:middle;"
+         id="text42">30</text>
+    </g>
+    <g
+       class="tick"
+       transform="translate(771.4000244140625, 0)"
+       style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;"
+       id="g44">
+      <line
+         x2="0"
+         y2="6"
+         style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;shape-rendering:crispEdges;stroke:rgb(170, 170, 170);"
+         id="line46" />
+      <text
+         x="0"
+         y="9"
+         dy=".71em"
+         style="background-color:rgba(0, 0, 0, 0);display:block;font-family:sans-serif;font-size:10px;height:11px;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:11.1094px;perspective-origin:5.54688px 5.5px;transform-origin:0px 0px;fill:rgb(47, 79, 79);text-anchor:middle;"
+         id="text48">35</text>
+    </g>
+    <g
+       class="tick"
+       transform="translate(875.9454345703125, 0)"
+       style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;"
+       id="g50">
+      <line
+         x2="0"
+         y2="6"
+         style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;shape-rendering:crispEdges;stroke:rgb(170, 170, 170);"
+         id="line52" />
+      <text
+         x="0"
+         y="9"
+         dy=".71em"
+         style="background-color:rgba(0, 0, 0, 0);display:block;font-family:sans-serif;font-size:10px;height:11px;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:11.1094px;perspective-origin:5.54688px 5.5px;transform-origin:0px 0px;fill:rgb(47, 79, 79);text-anchor:middle;"
+         id="text54">40</text>
+    </g>
+    <path
+       class="domain"
+       d="M40,0V0H960V0"
+       style="background-color:rgba(0, 0, 0, 0);height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;shape-rendering:crispEdges;stroke:rgb(170, 170, 170);d:path('M 40 0 V 0 H 960 V 0');"
+       id="path56" />
+  </g>
+  <text
+     x="840.02435"
+     y="237.07056"
+     font-size="12"
+     class="legend"
+     style="font-size:12px;font-weight:300;text-anchor:middle;fill:#000000;fill-opacity:1;display:block;font-family:PT Sans;-inkscape-font-specification:Roboto Light"
+     id="text58">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#000000;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+       id="tspan3433">Викиди на душу населення, метричні тони</tspan>
+  </text>
+  <circle
+     class="countries"
+     cx="539.7272727272725"
+     cy="122.99807382526595"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:539.72699999999997544px;cy:122.99800000000000466px;r:3px"
+     id="circle60" />
+  <circle
+     class="countries"
+     cx="160.3525201375679"
+     cy="122.46077410391001"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:160.35300000000000864px;cy:122.46099999999999852px;r:3px"
+     id="circle62" />
+  <circle
+     class="countries"
+     cx="55.269970642238704"
+     cy="130.13705222064584"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:55.27000000000000313px;cy:130.13700000000000045px;r:3px"
+     id="circle64" />
+  <circle
+     class="countries"
+     cx="70.00773302514699"
+     cy="143.35282234195893"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:70.00769999999999982px;cy:143.35300000000000864px;r:3px"
+     id="circle66" />
+  <circle
+     class="countries"
+     cx="73.38233779445466"
+     cy="87.98106883132552"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:73.38230000000000075px;cy:87.98109999999998365px;r:3px"
+     id="circle68" />
+  <circle
+     class="countries"
+     cx="466.9496905879684"
+     cy="127.7592421611762"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:466.94999999999998863px;cy:127.75900000000000034px;r:3px"
+     id="circle70" />
+  <circle
+     class="countries"
+     cx="131.7048021999533"
+     cy="115.35105185580147"
+     r="3"
+     fill="#ff7f00"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:131.70500000000001251px;cy:115.35100000000002751px;r:3px"
+     id="circle72" />
+  <circle
+     class="countries"
+     cx="76.31998540043104"
+     cy="95.31425125473896"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:76.31999999999999318px;cy:95.31430000000000291px;r:3px"
+     id="circle74" />
+  <circle
+     class="countries"
+     cx="161.19108585739522"
+     cy="106.6777826210338"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:161.19100000000000250px;cy:106.67799999999999727px;r:3px"
+     id="circle76" />
+  <circle
+     class="countries"
+     cx="384.9999999999999"
+     cy="122.9779360318969"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:385px;cy:122.97799999999999443px;r:3px"
+     id="circle78" />
+  <circle
+     class="countries"
+     cx="202.35654493842029"
+     cy="115.70859614162399"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:202.35699999999999932px;cy:115.70900000000000318px;r:3px"
+     id="circle80" />
+  <circle
+     class="countries"
+     cx="112.59913816023985"
+     cy="132.64474654120812"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:112.59900000000000375px;cy:132.64500000000001023px;r:3px"
+     id="circle82" />
+  <circle
+     class="countries"
+     cx="34.51855822888642"
+     cy="141.9060673266095"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:34.51859999999999928px;cy:141.90600000000000591px;r:3px"
+     id="circle84" />
+  <circle
+     class="countries"
+     cx="224.4149878197864"
+     cy="127.25294162527838"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:224.41499999999999204px;cy:127.25300000000000011px;r:3px"
+     id="circle86" />
+  <circle
+     class="countries"
+     cx="41.08525981063783"
+     cy="153.5364704590841"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:41.08529999999999660px;cy:153.53600000000000136px;r:3px"
+     id="circle88" />
+  <circle
+     class="countries"
+     cx="36.72647015215207"
+     cy="100.26059353338752"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:36.72650000000000148px;cy:100.26099999999999568px;r:3px"
+     id="circle90" />
+  <circle
+     class="countries"
+     cx="55.06505643093173"
+     cy="154.00793587045638"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:55.06510000000000105px;cy:154.00800000000000978px;r:3px"
+     id="circle92" />
+  <circle
+     class="countries"
+     cx="179.7025423419588"
+     cy="100.48285706572035"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:179.70300000000000296px;cy:100.48300000000000409px;r:3px"
+     id="circle94" />
+  <circle
+     class="countries"
+     cx="414.79826113395234"
+     cy="128.80903139522616"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:414.79800000000000182px;cy:128.80899999999999750px;r:3px"
+     id="circle96" />
+  <circle
+     class="countries"
+     cx="148.47922874973077"
+     cy="112.34211290713147"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:148.47900000000001342px;cy:112.34199999999999875px;r:3px"
+     id="circle98" />
+  <circle
+     class="countries"
+     cx="172.49828172565455"
+     cy="132.91819145424083"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:172.49799999999999045px;cy:132.91800000000000637px;r:3px"
+     id="circle100" />
+  <circle
+     class="countries"
+     cx="180.13802899703575"
+     cy="130.05017361500475"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:180.13800000000000523px;cy:130.05000000000001137px;r:3px"
+     id="circle102" />
+  <circle
+     class="countries"
+     cx="78.61203408353794"
+     cy="115.57635097796512"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:78.61199999999999477px;cy:115.57599999999999341px;r:3px"
+     id="circle104" />
+  <circle
+     class="countries"
+     cx="166.41797819555384"
+     cy="127.67593718530264"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:166.41800000000000637px;cy:127.67600000000000193px;r:3px"
+     id="circle106" />
+  <circle
+     class="countries"
+     cx="72.25433596061697"
+     cy="165.07747413719713"
+     r="3"
+     fill="#ff7f00"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:72.25430000000000064px;cy:165.07699999999999818px;r:3px"
+     id="circle108" />
+  <circle
+     class="countries"
+     cx="87.07001621645453"
+     cy="128.7767934138282"
+     r="3"
+     fill="#ff7f00"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:87.06999999999999318px;cy:128.77699999999998681px;r:3px"
+     id="circle110" />
+  <circle
+     class="countries"
+     cx="152.8166268130274"
+     cy="125.08156603634556"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:152.81700000000000728px;cy:125.08199999999999363px;r:3px"
+     id="circle112" />
+  <circle
+     class="countries"
+     cx="549.5545454545452"
+     cy="123.00300529574905"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:549.55499999999994998px;cy:123.00300000000000011px;r:3px"
+     id="circle114" />
+  <circle
+     class="countries"
+     cx="51.71201516195878"
+     cy="104.6050341712849"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:51.71200000000000330px;cy:104.60500000000000398px;r:3px"
+     id="circle116" />
+  <circle
+     class="countries"
+     cx="82.87700141209739"
+     cy="155.883483391695"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:82.87699999999999534px;cy:155.88300000000000978px;r:3px"
+     id="circle118" />
+  <circle
+     class="countries"
+     cx="34.55761086259649"
+     cy="134.26639621716424"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:34.55760000000000076px;cy:134.26599999999999113px;r:3px"
+     id="circle120" />
+  <circle
+     class="countries"
+     cx="335.3126618316272"
+     cy="128.95436173978473"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:335.31299999999998818px;cy:128.95400000000000773px;r:3px"
+     id="circle122" />
+  <circle
+     class="countries"
+     cx="137.7333500259131"
+     cy="109.92636699957387"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:137.73300000000000409px;cy:109.92600000000000193px;r:3px"
+     id="circle124" />
+  <circle
+     class="countries"
+     cx="133.78851447617063"
+     cy="143.07332599701274"
+     r="3"
+     fill="#ff7f00"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:133.78899999999998727px;cy:143.07300000000000750px;r:3px"
+     id="circle126" />
+  <circle
+     class="countries"
+     cx="179.7542418845842"
+     cy="145.90455081385375"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:179.75399999999999068px;cy:145.90500000000000114px;r:3px"
+     id="circle128" />
+  <circle
+     class="countries"
+     cx="55.29341698280577"
+     cy="146.07250661452764"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:55.29339999999999833px;cy:146.07300000000000750px;r:3px"
+     id="circle130" />
+  <circle
+     class="countries"
+     cx="55.417763774067225"
+     cy="138.11168529568366"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:55.41779999999999973px;cy:138.11199999999999477px;r:3px"
+     id="circle132" />
+  <circle
+     class="countries"
+     cx="47.77684103582227"
+     cy="157.63375297086543"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:47.77680000000000149px;cy:157.63399999999998613px;r:3px"
+     id="circle134" />
+  <circle
+     class="countries"
+     cx="74.29285502809869"
+     cy="122.04814470798838"
+     r="3"
+     fill="#ff7f00"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:74.29290000000000305px;cy:122.04800000000000182px;r:3px"
+     id="circle136" />
+  <circle
+     class="countries"
+     cx="48.581917394541456"
+     cy="142.0033284770705"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:48.58189999999999742px;cy:142.00299999999998590px;r:3px"
+     id="circle138" />
+  <circle
+     class="countries"
+     cx="63.662733310045496"
+     cy="100.96927150360926"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:63.66270000000000095px;cy:100.96899999999999409px;r:3px"
+     id="circle140" />
+  <circle
+     class="countries"
+     cx="74.58999585761731"
+     cy="157.55048127171065"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:74.59000000000000341px;cy:157.55000000000001137px;r:3px"
+     id="circle142" />
+  <circle
+     class="countries"
+     cx="101.52586596443068"
+     cy="115.69477335343942"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:101.52599999999999625px;cy:115.69499999999999318px;r:3px"
+     id="circle144" />
+  <circle
+     class="countries"
+     cx="255.18600360617327"
+     cy="133.9771471795633"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:255.18600000000000705px;cy:133.97700000000000387px;r:3px"
+     id="circle146" />
+  <circle
+     class="countries"
+     cx="180.61702337581357"
+     cy="138.0022480805904"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:180.61699999999999022px;cy:138.00200000000000955px;r:3px"
+     id="circle148" />
+  <circle
+     class="countries"
+     cx="257.76138942676414"
+     cy="121.09434229360129"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:257.76100000000002410px;cy:121.09399999999999409px;r:3px"
+     id="circle150" />
+  <circle
+     class="countries"
+     cx="225.65248147226177"
+     cy="119.37611245869847"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:225.65199999999998681px;cy:119.37600000000000477px;r:3px"
+     id="circle152" />
+  <circle
+     class="countries"
+     cx="47.15483849278053"
+     cy="165.6090413811097"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:47.15480000000000160px;cy:165.60900000000000887px;r:3px"
+     id="circle154" />
+  <circle
+     class="countries"
+     cx="79.60471129503972"
+     cy="102.47616419726019"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:79.60469999999999402px;cy:102.47600000000002751px;r:3px"
+     id="circle156" />
+  <circle
+     class="countries"
+     cx="191.23715807620445"
+     cy="134.51658214696474"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:191.23699999999999477px;cy:134.51699999999999591px;r:3px"
+     id="circle158" />
+  <circle
+     class="countries"
+     cx="83.34611646278857"
+     cy="121.77334503706818"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:83.34610000000000696px;cy:121.77299999999999613px;r:3px"
+     id="circle160" />
+  <circle
+     class="countries"
+     cx="109.55144401513667"
+     cy="115.03506902228865"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:109.55100000000000193px;cy:115.03499999999999659px;r:3px"
+     id="circle162" />
+  <circle
+     class="countries"
+     cx="88.04371244316076"
+     cy="149.89353738985585"
+     r="3"
+     fill="#ff7f00"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:88.04370000000000118px;cy:149.89400000000000546px;r:3px"
+     id="circle164" />
+  <circle
+     class="countries"
+     cx="95.03273528963274"
+     cy="129.01592845147877"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:95.03270000000000550px;cy:129.01599999999999113px;r:3px"
+     id="circle166" />
+  <circle
+     class="countries"
+     cx="47.55047078566673"
+     cy="110.76879248685677"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:47.55049999999999955px;cy:110.76900000000000546px;r:3px"
+     id="circle168" />
+  <circle
+     class="countries"
+     cx="158.8519130607914"
+     cy="130.31116175099274"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:158.85200000000000387px;cy:130.31100000000000705px;r:3px"
+     id="circle170" />
+  <circle
+     class="countries"
+     cx="333.33165599596646"
+     cy="121.20515999223372"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:333.33199999999999363px;cy:121.20499999999999829px;r:3px"
+     id="circle172" />
+  <circle
+     class="countries"
+     cx="34.45286679365535"
+     cy="126.61561952766337"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:34.45289999999999964px;cy:126.61599999999999966px;r:3px"
+     id="circle174" />
+  <circle
+     class="countries"
+     cx="252.0055908825631"
+     cy="126.65498106077833"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:252.00600000000000023px;cy:126.65500000000000114px;r:3px"
+     id="circle176" />
+  <circle
+     class="countries"
+     cx="66.86790721500427"
+     cy="135.93906496132863"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:66.86790000000000589px;cy:135.93899999999999295px;r:3px"
+     id="circle178" />
+  <circle
+     class="countries"
+     cx="147.77569089877323"
+     cy="131.28223935082917"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:147.77600000000001046px;cy:131.28200000000001069px;r:3px"
+     id="circle180" />
+  <circle
+     class="countries"
+     cx="284.534624770316"
+     cy="128.8117463360603"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:284.53500000000002501px;cy:128.81200000000001182px;r:3px"
+     id="circle182" />
+  <circle
+     class="countries"
+     cx="71.62829005314194"
+     cy="101.6433090355524"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:71.62829999999999586px;cy:101.64300000000000068px;r:3px"
+     id="circle184" />
+  <circle
+     class="countries"
+     cx="70.51227827763314"
+     cy="128.77119711783865"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:70.51229999999999620px;cy:128.77099999999998658px;r:3px"
+     id="circle186" />
+  <circle
+     class="countries"
+     cx="189.17111928303456"
+     cy="119.1148184183672"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:189.17099999999999227px;cy:119.11499999999999488px;r:3px"
+     id="circle188" />
+  <circle
+     class="countries"
+     cx="77.39756007755513"
+     cy="150.1864855666756"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:77.39759999999998286px;cy:150.18600000000000705px;r:3px"
+     id="circle190" />
+  <circle
+     class="countries"
+     cx="52.647470378166226"
+     cy="67.65981680493393"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:52.64750000000000085px;cy:67.65980000000000416px;r:3px"
+     id="circle192" />
+  <circle
+     class="countries"
+     cx="48.57703856539492"
+     cy="134.18942171587327"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:48.57699999999999818px;cy:134.18899999999999295px;r:3px"
+     id="circle194" />
+  <circle
+     class="countries"
+     cx="44.75815856152109"
+     cy="100.89094535792523"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:44.75820000000000221px;cy:100.89100000000000534px;r:3px"
+     id="circle196" />
+  <circle
+     class="countries"
+     cx="41.45907561348967"
+     cy="145.77809388496377"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:41.45909999999999940px;cy:145.77799999999999159px;r:3px"
+     id="circle198" />
+  <circle
+     class="countries"
+     cx="226.0054258514444"
+     cy="135.08233661626085"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:226.00499999999999545px;cy:135.08199999999999363px;r:3px"
+     id="circle200" />
+  <circle
+     class="countries"
+     cx="197.3456512063235"
+     cy="129.37851174317944"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:197.34600000000000364px;cy:129.37899999999999068px;r:3px"
+     id="circle202" />
+  <circle
+     class="countries"
+     cx="93.7267368491957"
+     cy="143.28863797411458"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:93.72669999999999391px;cy:143.28899999999998727px;r:3px"
+     id="circle204" />
+  <circle
+     class="countries"
+     cx="299.8225765264673"
+     cy="122.73591473440669"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:299.82299999999997908px;cy:122.73600000000000421px;r:3px"
+     id="circle206" />
+  <circle
+     class="countries"
+     cx="56.24419653875684"
+     cy="98.29373198874015"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:56.24419999999999931px;cy:98.29370000000000118px;r:3px"
+     id="circle208" />
+  <circle
+     class="countries"
+     cx="91.34049621752243"
+     cy="122.0016305345846"
+     r="3"
+     fill="#ff7f00"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:91.34050000000000580px;cy:122.00199999999999534px;r:3px"
+     id="circle210" />
+  <circle
+     class="countries"
+     cx="65.43755333535874"
+     cy="78.01220208172953"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:65.43760000000000332px;cy:78.01220000000000709px;r:3px"
+     id="circle212" />
+  <circle
+     class="countries"
+     cx="139.21598077123613"
+     cy="117.70761958000459"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:139.21600000000000819px;cy:117.70799999999999841px;r:3px"
+     id="circle214" />
+  <circle
+     class="countries"
+     cx="41.22768707755689"
+     cy="122.65694590686485"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:41.22769999999999868px;cy:122.65699999999999648px;r:3px"
+     id="circle216" />
+  <circle
+     class="countries"
+     cx="141.4679225729619"
+     cy="145.52099702903593"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:141.46799999999998931px;cy:145.52099999999998658px;r:3px"
+     id="circle218" />
+  <circle
+     class="countries"
+     cx="90.60161390262613"
+     cy="135.93203840340155"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:90.60160000000000480px;cy:135.93199999999998795px;r:3px"
+     id="circle220" />
+  <circle
+     class="countries"
+     cx="74.88152285998206"
+     cy="108.72491898665157"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:74.88150000000000261px;cy:108.72499999999999432px;r:3px"
+     id="circle222" />
+  <circle
+     class="countries"
+     cx="204.26159449441369"
+     cy="139.40902351775716"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:204.26200000000000045px;cy:139.40899999999999181px;r:3px"
+     id="circle224" />
+  <circle
+     class="countries"
+     cx="204.43483390558472"
+     cy="123.52273949687759"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:204.43500000000000227px;cy:123.52299999999999613px;r:3px"
+     id="circle226" />
+  <circle
+     class="countries"
+     cx="124.14182646248855"
+     cy="112.89310663167828"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:124.14199999999999591px;cy:112.89300000000000068px;r:3px"
+     id="circle228" />
+  <circle
+     class="countries"
+     cx="161.90147765541573"
+     cy="114.60998444070083"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:161.90100000000001046px;cy:114.60999999999999943px;r:3px"
+     id="circle230" />
+  <circle
+     class="countries"
+     cx="225.8389173198031"
+     cy="110.31483354492225"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:225.83899999999999864px;cy:110.31499999999999773px;r:3px"
+     id="circle232" />
+  <circle
+     class="countries"
+     cx="175.43755194972582"
+     cy="117.27957350271637"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:175.43799999999998818px;cy:117.28000000000000114px;r:3px"
+     id="circle234" />
+  <circle
+     class="countries"
+     cx="101.60413065997943"
+     cy="143.72149877444045"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:101.60399999999999920px;cy:143.72100000000000364px;r:3px"
+     id="circle236" />
+  <circle
+     class="countries"
+     cx="113.98896264212257"
+     cy="143.75031890140824"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:113.98900000000000432px;cy:143.75000000000000000px;r:3px"
+     id="circle238" />
+  <circle
+     class="countries"
+     cx="233.85999689640846"
+     cy="130.88250574859015"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:233.86000000000001364px;cy:130.88300000000000978px;r:3px"
+     id="circle240" />
+  <circle
+     class="countries"
+     cx="370.15454545454537"
+     cy="122.9968796368212"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:370.15499999999997272px;cy:122.99699999999999989px;r:3px"
+     id="circle242" />
+  <circle
+     class="countries"
+     cx="50.83501406461728"
+     cy="81.00305846534145"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:50.83500000000000085px;cy:81.00310000000000343px;r:3px"
+     id="circle244" />
+  <circle
+     class="countries"
+     cx="67.03280054425775"
+     cy="108.10100222903269"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:67.03279999999999461px;cy:108.10100000000002751px;r:3px"
+     id="circle246" />
+  <circle
+     class="countries"
+     cx="48.29127192403496"
+     cy="149.87304536942224"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:48.29129999999999967px;cy:149.87299999999999045px;r:3px"
+     id="circle248" />
+  <circle
+     class="countries"
+     cx="45.9236284106604"
+     cy="87.30656403096597"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:45.92360000000000042px;cy:87.30660000000000309px;r:3px"
+     id="circle250" />
+  <circle
+     class="countries"
+     cx="146.7331618322726"
+     cy="120.11014068868705"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:146.73300000000000409px;cy:120.10999999999999943px;r:3px"
+     id="circle252" />
+  <circle
+     class="countries"
+     cx="287.17597620526874"
+     cy="121.26205941868103"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:287.17599999999998772px;cy:121.26200000000000045px;r:3px"
+     id="circle254" />
+  <circle
+     class="countries"
+     cx="627.1272727272726"
+     cy="123.0035774939735"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:627.12699999999995271px;cy:123.00400000000000489px;r:3px"
+     id="circle256" />
+  <circle
+     class="countries"
+     cx="44.706972179205984"
+     cy="66.40705403340755"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:44.70700000000000074px;cy:66.40709999999999980px;r:3px"
+     id="circle258" />
+  <circle
+     class="countries"
+     cx="141.28924224880228"
+     cy="125.85930002717737"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:141.28899999999998727px;cy:125.85899999999999466px;r:3px"
+     id="circle260" />
+  <circle
+     class="countries"
+     cx="47.76527423436669"
+     cy="73.7366569786526"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:47.76530000000000342px;cy:73.73669999999999902px;r:3px"
+     id="circle262" />
+  <circle
+     class="countries"
+     cx="167.87100611455702"
+     cy="119.84387122281386"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:167.87100000000000932px;cy:119.84399999999999409px;r:3px"
+     id="circle264" />
+  <circle
+     class="countries"
+     cx="85.72295037887268"
+     cy="163.39682224088298"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:85.72299999999999898px;cy:163.39699999999999136px;r:3px"
+     id="circle266" />
+  <circle
+     class="countries"
+     cx="70.48316274204763"
+     cy="115.21626714904662"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:70.48319999999999652px;cy:115.21599999999999397px;r:3px"
+     id="circle268" />
+  <circle
+     class="countries"
+     cx="60.908339056958255"
+     cy="166.24565243887463"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:60.90829999999999700px;cy:166.24600000000000932px;r:3px"
+     id="circle270" />
+  <circle
+     class="countries"
+     cx="62.839235877347306"
+     cy="129.0791013401782"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:62.83919999999999817px;cy:129.07900000000000773px;r:3px"
+     id="circle272" />
+  <circle
+     class="countries"
+     cx="134.67608875521185"
+     cy="150.99829735993336"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:134.67599999999998772px;cy:150.99799999999999045px;r:3px"
+     id="circle274" />
+  <circle
+     class="countries"
+     cx="476.581818181818"
+     cy="122.9913731024282"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:476.58199999999999363px;cy:122.99099999999999966px;r:3px"
+     id="circle276" />
+  <circle
+     class="countries"
+     cx="118.96696971308225"
+     cy="137.53780249011692"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:118.96699999999999875px;cy:137.53800000000001091px;r:3px"
+     id="circle278" />
+  <circle
+     class="countries"
+     cx="74.73590353259306"
+     cy="135.22112779567777"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:74.73590000000000089px;cy:135.22100000000000364px;r:3px"
+     id="circle280" />
+  <circle
+     class="countries"
+     cx="68.40249088359565"
+     cy="94.37476423586459"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:68.40250000000000341px;cy:94.37479999999999336px;r:3px"
+     id="circle282" />
+  <circle
+     class="countries"
+     cx="33.8814464226311"
+     cy="157.39456565391362"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:33.88139999999999930px;cy:157.39500000000001023px;r:3px"
+     id="circle284" />
+  <circle
+     class="countries"
+     cx="107.72337071368628"
+     cy="138.80893455697668"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:107.72299999999999898px;cy:138.80899999999999750px;r:3px"
+     id="circle286" />
+  <circle
+     class="countries"
+     cx="119.93071378730893"
+     cy="129.6388214704497"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:119.93099999999999739px;cy:129.63900000000001000px;r:3px"
+     id="circle288" />
+  <circle
+     class="countries"
+     cx="78.96460189976764"
+     cy="128.3814884610789"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:78.96460000000000434px;cy:128.38100000000000023px;r:3px"
+     id="circle290" />
+  <circle
+     class="countries"
+     cx="133.69170902727802"
+     cy="123.40241324387058"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:133.69200000000000728px;cy:123.40200000000000102px;r:3px"
+     id="circle292" />
+  <circle
+     class="countries"
+     cx="41.59219380295934"
+     cy="138.09388861517158"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:41.59219999999999828px;cy:138.09399999999999409px;r:3px"
+     id="circle294" />
+  <circle
+     class="countries"
+     cx="165.76636259506898"
+     cy="143.43096088173002"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:165.76599999999999113px;cy:143.43100000000001160px;r:3px"
+     id="circle296" />
+  <circle
+     class="countries"
+     cx="38.017839760352985"
+     cy="86.48723907871236"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:38.01780000000000115px;cy:86.48720000000000141px;r:3px"
+     id="circle298" />
+  <circle
+     class="countries"
+     cx="126.12424232157704"
+     cy="120.96870856780652"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:126.12399999999999523px;cy:120.96899999999999409px;r:3px"
+     id="circle300" />
+  <circle
+     class="countries"
+     cx="184.80813440971622"
+     cy="106.59769524072452"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:184.80799999999999272px;cy:106.59799999999999898px;r:3px"
+     id="circle302" />
+  <circle
+     class="countries"
+     cx="39.806445655120804"
+     cy="72.70114963826173"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:39.80639999999999645px;cy:72.70109999999999673px;r:3px"
+     id="circle304" />
+  <circle
+     class="countries"
+     cx="54.723593657505546"
+     cy="114.19665386074823"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:54.72359999999999758px;cy:114.19700000000000273px;r:3px"
+     id="circle306" />
+  <circle
+     class="countries"
+     cx="104.9723622587003"
+     cy="108.47411861045427"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:104.97199999999999420px;cy:108.47400000000000375px;r:3px"
+     id="circle308" />
+  <circle
+     class="countries"
+     cx="33.666446752755974"
+     cy="111.14524648975231"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:33.66640000000000299px;cy:111.14499999999999602px;r:3px"
+     id="circle310" />
+  <circle
+     class="countries"
+     cx="205.06731258859136"
+     cy="131.48023719431418"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:205.06700000000000728px;cy:131.47999999999998977px;r:3px"
+     id="circle312" />
+  <circle
+     class="countries"
+     cx="69.67719757153766"
+     cy="151.36192710087883"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:69.67719999999999914px;cy:151.36199999999999477px;r:3px"
+     id="circle314" />
+  <circle
+     class="countries"
+     cx="356.7727272727272"
+     cy="122.99046329614222"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:356.77300000000002456px;cy:122.98999999999999488px;r:3px"
+     id="circle316" />
+  <circle
+     class="countries"
+     cx="39.90168063109713"
+     cy="169.17494735894695"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:39.90169999999999817px;cy:169.17500000000001137px;r:3px"
+     id="circle318" />
+  <circle
+     class="countries"
+     cx="53.15370594021053"
+     cy="177.95093388094367"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:53.15370000000000061px;cy:177.95099999999999341px;r:3px"
+     id="circle320" />
+  <circle
+     class="countries"
+     cx="62.061719594623824"
+     cy="150.23331503225788"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:62.06170000000000186px;cy:150.23300000000000409px;r:3px"
+     id="circle322" />
+  <circle
+     class="countries"
+     cx="249.87071968553215"
+     cy="118.9488860988269"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:249.87100000000000932px;cy:118.94899999999999807px;r:3px"
+     id="circle324" />
+  <circle
+     class="countries"
+     cx="232.33404985944816"
+     cy="114.97043390957774"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:232.33400000000000318px;cy:114.96999999999999886px;r:3px"
+     id="circle326" />
+  <circle
+     class="countries"
+     cx="40.622381016838546"
+     cy="161.37554281619177"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:40.62239999999999895px;cy:161.37600000000000477px;r:3px"
+     id="circle328" />
+  <circle
+     class="countries"
+     cx="188.36996538982675"
+     cy="127.06419340400655"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:188.37000000000000455px;cy:127.06399999999999295px;r:3px"
+     id="circle330" />
+  <circle
+     class="countries"
+     cx="461.8869110054277"
+     cy="121.56708948644307"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:461.88700000000000045px;cy:121.56699999999999307px;r:3px"
+     id="circle332" />
+  <circle
+     class="countries"
+     cx="61.772014995247865"
+     cy="158.28349522829413"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:61.77199999999999847px;cy:158.28299999999998704px;r:3px"
+     id="circle334" />
+  <circle
+     class="countries"
+     cx="95.97280979857476"
+     cy="150.96291616875465"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:95.97280000000000655px;cy:150.96299999999999386px;r:3px"
+     id="circle336" />
+  <circle
+     class="countries"
+     cx="77.96881268712414"
+     cy="142.3740559365555"
+     r="3"
+     fill="#ff7f00"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:77.96880000000000166px;cy:142.37399999999999523px;r:3px"
+     id="circle338" />
+  <circle
+     class="countries"
+     cx="60.69278162909068"
+     cy="68.67658102093962"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:60.69279999999999831px;cy:68.67659999999999343px;r:3px"
+     id="circle340" />
+  <circle
+     class="countries"
+     cx="266.6545454545453"
+     cy="123.00388852426461"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:266.65499999999997272px;cy:123.00400000000000489px;r:3px"
+     id="circle342" />
+  <circle
+     class="countries"
+     cx="55.9030863577318"
+     cy="74.86307072443154"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:55.90310000000000201px;cy:74.86310000000000286px;r:3px"
+     id="circle344" />
+  <circle
+     class="countries"
+     cx="213.9636363636363"
+     cy="122.99703760989773"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:213.96399999999999864px;cy:122.99699999999999989px;r:3px"
+     id="circle346" />
+  <circle
+     class="countries"
+     cx="102.9948659441542"
+     cy="129.5658430733472"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:102.99500000000000455px;cy:129.56600000000000250px;r:3px"
+     id="circle348" />
+  <circle
+     class="countries"
+     cx="139.7561633027143"
+     cy="137.77353878568985"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:139.75600000000000023px;cy:137.77400000000000091px;r:3px"
+     id="circle350" />
+  <circle
+     class="countries"
+     cx="58.75681370006473"
+     cy="82.19856712473556"
+     r="3"
+     fill="#ff7f00"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:58.75679999999999836px;cy:82.19859999999999900px;r:3px"
+     id="circle352" />
+  <circle
+     class="countries"
+     cx="65.80598051681989"
+     cy="85.90532604056808"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:65.80599999999999739px;cy:85.90529999999998267px;r:3px"
+     id="circle354" />
+  <circle
+     class="countries"
+     cx="106.1152886158102"
+     cy="122.23394436884698"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:106.11499999999999488px;cy:122.23399999999999466px;r:3px"
+     id="circle356" />
+  <circle
+     class="countries"
+     cx="959.9999999999997"
+     cy="122.99389315270192"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:960px;cy:122.99399999999999977px;r:3px"
+     id="circle358" />
+  <circle
+     class="countries"
+     cx="127.77267068691312"
+     cy="128.72375034083302"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:127.77299999999999613px;cy:128.72399999999998954px;r:3px"
+     id="circle360" />
+  <circle
+     class="countries"
+     cx="304.3182951968452"
+     cy="116.12738954009654"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:304.31799999999998363px;cy:116.12699999999999534px;r:3px"
+     id="circle362" />
+  <circle
+     class="countries"
+     cx="40.41032728770401"
+     cy="107.19186703615478"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:40.41029999999999944px;cy:107.19199999999999307px;r:3px"
+     id="circle364" />
+  <circle
+     class="countries"
+     cx="417.4396125689051"
+     cy="121.25934447784687"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:417.43999999999999773px;cy:121.25900000000000034px;r:3px"
+     id="circle366" />
+  <circle
+     class="countries"
+     cx="46.569290935701076"
+     cy="173.57289371961565"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:46.56929999999999836px;cy:173.57300000000000750px;r:3px"
+     id="circle368" />
+  <circle
+     class="countries"
+     cx="53.898640041882274"
+     cy="88.28394228820532"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:53.89860000000000184px;cy:88.28390000000000271px;r:3px"
+     id="circle370" />
+  <circle
+     class="countries"
+     cx="129.29351598004882"
+     cy="136.5296271355241"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:129.29400000000001114px;cy:136.53000000000000114px;r:3px"
+     id="circle372" />
+  <circle
+     class="countries"
+     cx="48.362835013607494"
+     cy="126.32319247709304"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:48.36280000000000001px;cy:126.32299999999999329px;r:3px"
+     id="circle374" />
+  <circle
+     class="countries"
+     cx="40.925693773836024"
+     cy="114.88788129442496"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:40.92569999999999908px;cy:114.88800000000000523px;r:3px"
+     id="circle376" />
+  <circle
+     class="countries"
+     cx="62.58773683988369"
+     cy="114.70455726824747"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:62.58769999999999811px;cy:114.70499999999999829px;r:3px"
+     id="circle378" />
+  <circle
+     class="countries"
+     cx="34.27392038721518"
+     cy="149.62136491495738"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:34.27389999999999759px;cy:149.62100000000000932px;r:3px"
+     id="circle380" />
+  <circle
+     class="countries"
+     cx="181.79199925953318"
+     cy="122.23589082183119"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:181.79200000000000159px;cy:122.23600000000000421px;r:3px"
+     id="circle382" />
+  <circle
+     class="countries"
+     cx="54.34853541185115"
+     cy="162.01710143404793"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:54.34850000000000136px;cy:162.01699999999999591px;r:3px"
+     id="circle384" />
+  <circle
+     class="countries"
+     cx="113.61864584010591"
+     cy="124.75118762022596"
+     r="3"
+     fill="#ff7f00"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:113.61899999999999977px;cy:124.75100000000000477px;r:3px"
+     id="circle386" />
+  <circle
+     class="countries"
+     cx="173.10597741782644"
+     cy="104.92490933757426"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:173.10599999999999454px;cy:104.92499999999999716px;r:3px"
+     id="circle388" />
+  <circle
+     class="countries"
+     cx="196.77537233862017"
+     cy="121.41494690470209"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:196.77500000000000568px;cy:121.41500000000000625px;r:3px"
+     id="circle390" />
+  <circle
+     class="countries"
+     cx="154.55243131559448"
+     cy="137.04067740280377"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:154.55199999999999250px;cy:137.04099999999999682px;r:3px"
+     id="circle392" />
+  <circle
+     class="countries"
+     cx="59.12477287683372"
+     cy="107.51912039035844"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:59.12480000000000047px;cy:107.51900000000000546px;r:3px"
+     id="circle394" />
+  <circle
+     class="countries"
+     cx="182.82354509366476"
+     cy="114.29766136812569"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:182.82400000000001228px;cy:114.29800000000000182px;r:3px"
+     id="circle396" />
+  <circle
+     class="countries"
+     cx="98.57901523715192"
+     cy="136.21009649539755"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:98.57899999999999352px;cy:136.21000000000000796px;r:3px"
+     id="circle398" />
+  <circle
+     class="countries"
+     cx="164.92568191958378"
+     cy="135.51697081498864"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:164.92599999999998772px;cy:135.51699999999999591px;r:3px"
+     id="circle400" />
+  <circle
+     class="countries"
+     cx="34.08229574114745"
+     cy="118.8964765616976"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:34.08229999999999649px;cy:118.89600000000000080px;r:3px"
+     id="circle402" />
+  <circle
+     class="countries"
+     cx="48.0706266686709"
+     cy="118.53057932888316"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:48.07059999999999889px;cy:118.53100000000000591px;r:3px"
+     id="circle404" />
+  <circle
+     class="countries"
+     cx="135.32722321674723"
+     cy="131.21925785070457"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:135.32699999999999818px;cy:131.21899999999999409px;r:3px"
+     id="circle406" />
+  <circle
+     class="countries"
+     cx="49.328378118533536"
+     cy="94.51247307567232"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:49.32840000000000202px;cy:94.51250000000000284px;r:3px"
+     id="circle408" />
+  <circle
+     class="countries"
+     cx="293.9741683905238"
+     cy="128.18481058235517"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:293.97399999999998954px;cy:128.18500000000000227px;r:3px"
+     id="circle410" />
+  <circle
+     class="countries"
+     cx="41.50993705659186"
+     cy="130.39297629077802"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:41.50990000000000180px;cy:130.39300000000000068px;r:3px"
+     id="circle412" />
+  <circle
+     class="countries"
+     cx="60.89262630221422"
+     cy="91.9834856686864"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:60.89260000000000161px;cy:91.98350000000000648px;r:3px"
+     id="circle414" />
+  <circle
+     class="countries"
+     cx="816.1454545454543"
+     cy="123.00299381249721"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:816.14499999999998181px;cy:123.00300000000000011px;r:3px"
+     id="circle416" />
+  <circle
+     class="countries"
+     cx="90.85002616703733"
+     cy="157.32988811027374"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:90.84999999999999432px;cy:157.33000000000001251px;r:3px"
+     id="circle418" />
+  <circle
+     class="countries"
+     cx="130.1113935626885"
+     cy="107.50494930645904"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:130.11099999999999000px;cy:107.50499999999999545px;r:3px"
+     id="circle420" />
+  <circle
+     class="countries"
+     cx="42.76271973452027"
+     cy="80.00405963592085"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:42.76270000000000238px;cy:80.00409999999999400px;r:3px"
+     id="circle422" />
+  <circle
+     class="countries"
+     cx="33.42412130924881"
+     cy="93.00038735976774"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:33.42410000000000281px;cy:93.00040000000002749px;r:3px"
+     id="circle424" />
+  <circle
+     class="countries"
+     cx="169.44810898333398"
+     cy="112.00409192396033"
+     r="3"
+     fill="#984ea3"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:169.44800000000000750px;cy:112.00400000000000489px;r:3px"
+     id="circle426" />
+  <circle
+     class="countries"
+     cx="87.55168086353726"
+     cy="114.96102759466262"
+     r="3"
+     fill="#ff7f00"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:87.55169999999999675px;cy:114.96099999999999852px;r:3px"
+     id="circle428" />
+  <circle
+     class="countries"
+     cx="395.4545454545455"
+     cy="123.00316733803437"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:395.45499999999998408px;cy:123.00300000000000011px;r:3px"
+     id="circle430" />
+  <circle
+     class="countries"
+     cx="118.52321687234728"
+     cy="118.56634451366351"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:118.52299999999999613px;cy:118.56600000000000250px;r:3px"
+     id="circle432" />
+  <circle
+     class="countries"
+     cx="85.90564117366682"
+     cy="142.40543414941695"
+     r="3"
+     fill="#4daf4a"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:85.90560000000000684px;cy:142.40500000000000114px;r:3px"
+     id="circle434" />
+  <circle
+     class="countries"
+     cx="173.93406766320444"
+     cy="125.07197500094821"
+     r="3"
+     fill="#ff7f00"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:173.93399999999999750px;cy:125.07200000000000273px;r:3px"
+     id="circle436" />
+  <circle
+     class="countries"
+     cx="82.6654889694267"
+     cy="135.3526946393569"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:82.66549999999999443px;cy:135.35300000000000864px;r:3px"
+     id="circle438" />
+  <circle
+     class="countries"
+     cx="53.796957971027126"
+     cy="170.02850592387134"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:53.79699999999999704px;cy:170.02899999999999636px;r:3px"
+     id="circle440" />
+  <circle
+     class="countries"
+     cx="66.09763224109236"
+     cy="121.8463053115818"
+     r="3"
+     fill="#ffff33"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:66.09759999999999991px;cy:121.84600000000000364px;r:3px"
+     id="circle442" />
+  <circle
+     class="countries"
+     cx="62.2412843556989"
+     cy="142.28033053149545"
+     r="3"
+     fill="#e41a1c"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:62.24130000000000251px;cy:142.28000000000000114px;r:3px"
+     id="circle444" />
+  <circle
+     class="countries"
+     cx="233.20276983712722"
+     cy="122.91628789792549"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:233.20300000000000296px;cy:122.91599999999999682px;r:3px"
+     id="circle446" />
+  <circle
+     class="countries"
+     cx="41.301473794308514"
+     cy="93.73495262857146"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#00ccff;cx:41.30149999999999721px;cy:93.73500000000001364px;r:3px"
+     id="circle448" />
+  <circle
+     class="countries"
+     cx="55.2007499966545"
+     cy="122.16380729767799"
+     r="3"
+     fill="#377eb8"
+     style="background-color:rgba;height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:#ff2a2a;cx:55.20069999999999766px;cy:122.16400000000000148px;r:3px"
+     id="circle450" />
+</svg>

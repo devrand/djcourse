@@ -1,0 +1,22 @@
+# Ефективні типи
+
+Ефективні види графіків, які рідко використовуються: 
+
+- графік розсіяння, http://www.nytimes.com/interactive/2016/04/29/upshot/money-race-and-success-how-your-school-district-compares.html
+- slope chart, 
+- dot chart, http://texty.org.ua/d/uz/
+- small multiples, http://texty.org.ua/action/file/download?file_guid=55933
+- гістограма http://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html
+- horyson charts  http://www.nytimes.com/interactive/2014/upshot/mapping-the-spread-of-drought-across-the-us.html
+
+приклади візуального аналізу даних - діаманти
+
+
+
+Стратегії - як зменшити складність візуалізацій. (5хв) 
+- Похідні дані, а не початкові (не дохід і розхід, а баланс - різниця). ОДнак так, щшоб показати усі дані
+- Маніпуляція (зміна, вибір, навігація)
+- Кути даних (розбивка, розділ, накладення)
+- зведення до простого (фільтрація, агрегація, вставка)
+
+

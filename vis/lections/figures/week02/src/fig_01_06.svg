@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="371"
+   style="overflow: hidden;"
+   aria-label="A chart."
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fig_01_06.svg">
+  <metadata
+     id="metadata124">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1151"
+     id="namedview122"
+     showgrid="false"
+     inkscape:zoom="1.7992151"
+     inkscape:cx="220.22686"
+     inkscape:cy="180.25843"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs">
+    <clipPath
+       id="_ABSTRACT_RENDERER_ID_361">
+      <rect
+         x="115"
+         y="71"
+         width="371"
+         height="229"
+         id="rect6" />
+    </clipPath>
+  </defs>
+  <rect
+     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect3119"
+     width="768.66846"
+     height="382.38898"
+     x="-164.74809"
+     y="-4.7193899"
+     inkscape:export-filename="/home/dvrnd/tmp/djcourse/vis/lections/figures/week02/fig_01_06.png"
+     inkscape:export-xdpi="200"
+     inkscape:export-ydpi="200" />
+  <rect
+     x="75"
+     y="46.375"
+     width="450"
+     height="278.25"
+     id="rect8"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0;stroke:none"
+     id="rect22"
+     height="229"
+     width="371"
+     y="71"
+     x="115" />
+  <g
+     id="g58" />
+  <g
+     id="g3266"
+     transform="translate(38,0)">
+    <g
+       transform="translate(-67.234098,-62.527265)"
+       id="g66">
+      <text
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="text68"
+         font-size="12"
+         y="317.20001"
+         x="184.3372">10%</text>
+    </g>
+    <g
+       id="g74"
+       transform="translate(-119.2341,-62.527265)">
+      <text
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="text76"
+         font-size="12"
+         y="317.20001"
+         x="270.38373">20%</text>
+    </g>
+    <g
+       id="g82"
+       transform="translate(-171.2341,-62.527265)">
+      <text
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="text84"
+         font-size="12"
+         y="317.20001"
+         x="356.43024">30%</text>
+    </g>
+    <g
+       id="g90"
+       transform="translate(-225.2341,-62.527265)">
+      <text
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="text92"
+         font-size="12"
+         y="317.20001"
+         x="442.47675">40%</text>
+    </g>
+    <g
+       id="g94"
+       transform="translate(-233.2341,-62.527265)">
+      <text
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="text96"
+         font-size="12"
+         y="317.20001"
+         x="485.5">50%</text>
+    </g>
+    <text
+       x="85"
+       y="116.5"
+       font-size="12"
+       id="text100"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-anchor:end;fill:#222222;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light">Е-мейл</text>
+    <g
+       transform="translate(-28,0.55579791)"
+       id="g102">
+      <text
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-anchor:end;fill:#222222;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="text104"
+         font-size="12"
+         y="144.10001"
+         x="113">Прямі відвідування</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         id="rect106"
+         height="12"
+         width="111"
+         y="133.89999"
+         x="2" />
+    </g>
+    <g
+       transform="translate(-28,-16)"
+       id="g108">
+      <text
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-anchor:end;fill:#222222;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="text110"
+         font-size="12"
+         y="189.7"
+         x="113">Пошук</text>
+    </g>
+    <g
+       transform="translate(-28,-32.555798)"
+       id="g112">
+      <text
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-anchor:end;fill:#222222;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="text114"
+         font-size="12"
+         y="235.3"
+         x="113">Соцмережі</text>
+    </g>
+    <g
+       transform="matrix(0.57150332,0,0,1,42.421171,0)"
+       id="g3238">
+      <g
+         id="g26"
+         transform="matrix(0.6854787,0,0,0.62565659,31.137609,54.222143)">
+        <rect
+           x="141"
+           y="71"
+           width="1"
+           height="229"
+           id="rect28"
+           style="fill:#cccccc;stroke:none" />
+        <rect
+           x="184"
+           y="71"
+           width="1"
+           height="229"
+           id="rect30"
+           style="fill:#cccccc;stroke:none" />
+        <rect
+           x="227"
+           y="71"
+           width="1"
+           height="229"
+           id="rect32"
+           style="fill:#cccccc;stroke:none" />
+        <rect
+           x="270"
+           y="71"
+           width="1"
+           height="229"
+           id="rect34"
+           style="fill:#cccccc;stroke:none" />
+        <rect
+           x="313"
+           y="71"
+           width="1"
+           height="229"
+           id="rect36"
+           style="fill:#cccccc;stroke:none" />
+        <rect
+           x="356"
+           y="71"
+           width="1"
+           height="229"
+           id="rect38"
+           style="fill:#cccccc;stroke:none" />
+        <rect
+           x="399"
+           y="71"
+           width="1"
+           height="229"
+           id="rect40"
+           style="fill:#cccccc;stroke:none" />
+        <rect
+           x="442"
+           y="71"
+           width="1"
+           height="229"
+           id="rect42"
+           style="fill:#cccccc;stroke:none" />
+        <rect
+           x="485"
+           y="71"
+           width="1"
+           height="229"
+           id="rect44"
+           style="fill:#cccccc;stroke:none" />
+        <rect
+           x="529.42999"
+           y="69.717598"
+           width="1"
+           height="229"
+           id="rect44-91"
+           style="fill:#cccccc;stroke:none;overflow:hidden" />
+      </g>
+      <rect
+         style="fill:#a64d79;stroke:none"
+         id="rect52"
+         height="29"
+         width="128.87"
+         y="155"
+         x="99" />
+      <rect
+         style="fill:#a64d79;stroke:none"
+         id="rect48"
+         height="28"
+         width="246.77234"
+         y="98"
+         x="99" />
+      <rect
+         style="fill:#a64d79;stroke:none"
+         id="rect50"
+         height="28"
+         width="193.99048"
+         y="126.5558"
+         x="99" />
+      <rect
+         style="fill:#a64d79;stroke:none"
+         id="rect54"
+         height="28"
+         width="58.26569"
+         y="184.4442"
+         x="99" />
+      <rect
+         style="fill:#a64d79;stroke:none"
+         id="rect56"
+         height="28"
+         width="17.136967"
+         y="213"
+         x="99" />
+    </g>
+    <g
+       transform="translate(-28,-50)"
+       id="g116">
+      <text
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-anchor:end;fill:#222222;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="text118"
+         font-size="12"
+         y="280.89999"
+         x="113">Реклама</text>
+    </g>
+  </g>
+  <g
+     id="g120" />
+</svg>

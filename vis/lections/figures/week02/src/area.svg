@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="marks"
+   width="371"
+   height="254"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="area.svg">
+  <metadata
+     id="metadata160">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs158" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1151"
+     id="namedview156"
+     showgrid="false"
+     inkscape:zoom="2.6279874"
+     inkscape:cx="114.40257"
+     inkscape:cy="127"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g152" />
+  <g
+     transform="translate(53,12)"
+     id="g4">
+    <g
+       class="mark-group"
+       id="g6">
+      <g
+         transform="translate(0,0)"
+         id="g8">
+        <rect
+           class="background"
+           width="1"
+           height="1"
+           style="fill: none;"
+           id="rect10" />
+        <g
+           class="mark-group root"
+           id="g12">
+          <g
+             transform="translate(0,0)"
+             id="g14">
+            <rect
+               class="background"
+               width="300"
+               height="200"
+               style="fill: none;"
+               id="rect16" />
+            <g
+               class="mark-group"
+               id="g18">
+              <g
+                 transform="translate(0,200)"
+                 id="g20">
+                <rect
+                   class="background"
+                   width="0"
+                   height="0"
+                   style="pointer-events: none; fill: none;"
+                   id="rect22" />
+                <g
+                   class="mark-rule"
+                   style="pointer-events: none;"
+                   id="g24">
+                  <line
+                     transform="translate(0.5,-200)"
+                     x2="0"
+                     y2="200"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line26" />
+                  <line
+                     transform="translate(60.5,-200)"
+                     x2="0"
+                     y2="200"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line28" />
+                  <line
+                     transform="translate(119.5,-200)"
+                     x2="0"
+                     y2="200"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line30" />
+                  <line
+                     transform="translate(179.5,-200)"
+                     x2="0"
+                     y2="200"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line32" />
+                  <line
+                     transform="translate(238.5,-200)"
+                     x2="0"
+                     y2="200"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line34" />
+                  <line
+                     transform="translate(297.5,-200)"
+                     x2="0"
+                     y2="200"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line36" />
+                </g>
+                <g
+                   class="mark-rule"
+                   style="pointer-events: none;"
+                   id="g52" />
+                <g
+                   class="mark-text"
+                   id="g54"
+                   style="fill:#808080">
+                  <text
+                     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text56"
+                     x="14.5"
+                     y="19">2000</text>
+                  <text
+                     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text58"
+                     x="74.5"
+                     y="19">2002</text>
+                  <text
+                     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text60"
+                     x="133.5"
+                     y="19">2004</text>
+                  <text
+                     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text62"
+                     x="193.5"
+                     y="19">2006</text>
+                  <text
+                     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text64"
+                     x="252.5"
+                     y="19">2008</text>
+                  <text
+                     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text66"
+                     x="313.5"
+                     y="19">2010</text>
+                </g>
+              </g>
+            </g>
+            <g
+               class="mark-group"
+               id="g76">
+              <g
+                 transform="translate(0,0)"
+                 id="g78">
+                <rect
+                   class="background"
+                   width="0"
+                   height="0"
+                   style="pointer-events: none; fill: none;"
+                   id="rect80" />
+                <g
+                   class="mark-rule"
+                   style="pointer-events: none;"
+                   id="g82">
+                  <line
+                     transform="translate(0,200.5)"
+                     x2="300"
+                     y2="0"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line84" />
+                  <line
+                     transform="translate(0,175.5)"
+                     x2="300"
+                     y2="0"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line86" />
+                  <line
+                     transform="translate(0,150.5)"
+                     x2="300"
+                     y2="0"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line88" />
+                  <line
+                     transform="translate(0,125.5)"
+                     x2="300"
+                     y2="0"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line90" />
+                  <line
+                     transform="translate(0,100.5)"
+                     x2="300"
+                     y2="0"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line92" />
+                  <line
+                     transform="translate(0,75.5)"
+                     x2="300"
+                     y2="0"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line94" />
+                  <line
+                     transform="translate(0,50.5)"
+                     x2="300"
+                     y2="0"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line96" />
+                  <line
+                     transform="translate(0,25.5)"
+                     x2="300"
+                     y2="0"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line98" />
+                  <line
+                     transform="translate(0,0.5)"
+                     x2="300"
+                     y2="0"
+                     style="fill: none; stroke: #000; stroke-opacity: 0.15; opacity: 1;"
+                     id="line100" />
+                </g>
+                <g
+                   class="mark-rule"
+                   style="pointer-events: none;"
+                   id="g122" />
+                <g
+                   class="mark-text"
+                   id="g124"
+                   style="fill:#808080">
+                  <text
+                     text-anchor="end"
+                     transform="translate(-9,203.5)"
+                     style="font:11px sans-serif;fill:#333333;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text126">0k</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-9,178.5)"
+                     style="font:11px sans-serif;fill:#333333;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text128">2k</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-9,153.5)"
+                     style="font:11px sans-serif;fill:#333333;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text130">4k</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-9,128.5)"
+                     style="font:11px sans-serif;fill:#333333;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text132">6k</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-9,103.5)"
+                     style="font:11px sans-serif;fill:#333333;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text134">8k</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-9,78.5)"
+                     style="font:11px sans-serif;fill:#333333;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text136">10k</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-9,53.5)"
+                     style="font:11px sans-serif;fill:#333333;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text138">12k</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-9,28.5)"
+                     style="font:11px sans-serif;fill:#333333;opacity:1;font-size:medium;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+                     id="text140">14k</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-9,3.5)"
+                     style="font:11px sans-serif;fill:#333333;opacity:1;-inkscape-font-specification:Roboto Light;font-family:Roboto;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+                     id="text142">16k</text>
+                </g>
+              </g>
+            </g>
+            <g
+               class="mark-area marks"
+               id="g152"
+               style="fill:#ffb380">
+              <path
+                 d="M300,13L297,11L295,29L293,35L290,31L288,32L285,30L282,27L280,29L278,37L275,44L273,36L270,39L268,46L265,71L263,83L260,91L258,95L255,93L253,96L250,103L248,109L245,116L243,107L240,107L238,105L235,115L233,121L230,124L228,121L225,119L223,116L221,120L218,126L216,125L213,120L211,114L208,111L206,125L203,125L201,128L198,125L196,120L193,116L191,120L188,123L186,121L183,116L181,111L179,112L176,119L174,117L171,120L169,116L166,117L164,113L161,114L159,118L156,117L154,108L151,101L149,101L146,112L144,112L141,114L139,114L136,110L134,106L131,104L129,111L126,109L124,97L121,97L119,93L116,107L114,104L111,105L109,103L107,98L104,95L102,92L99,101L97,101L94,94L92,90L89,89L87,103L84,105L82,108L79,109L77,105L74,101L72,101L69,107L67,103L64,96L62,95L60,92L57,108L55,111L52,116L50,121L47,119L45,122L42,124L40,132L37,130L35,123L32,123L30,122L27,139L25,138L22,140L20,138L17,133L15,132L12,134L10,137L7,139L5,129L3,126L0,125L0,200L3,200L5,200L7,200L10,200L12,200L15,200L17,200L20,200L22,200L25,200L27,200L30,200L32,200L35,200L37,200L40,200L42,200L45,200L47,200L50,200L52,200L55,200L57,200L60,200L62,200L64,200L67,200L69,200L72,200L74,200L77,200L79,200L82,200L84,200L87,200L89,200L92,200L94,200L97,200L99,200L102,200L104,200L107,200L109,200L111,200L114,200L116,200L119,200L121,200L124,200L126,200L129,200L131,200L134,200L136,200L139,200L141,200L144,200L146,200L149,200L151,200L154,200L156,200L159,200L161,200L164,200L166,200L169,200L171,200L174,200L176,200L179,200L181,200L183,200L186,200L188,200L191,200L193,200L196,200L198,200L201,200L203,200L206,200L208,200L211,200L213,200L216,200L218,200L221,200L223,200L225,200L228,200L230,200L233,200L235,200L238,200L240,200L243,200L245,200L248,200L250,200L253,200L255,200L258,200L260,200L263,200L265,200L268,200L270,200L273,200L275,200L278,200L280,200L282,200L285,200L288,200L290,200L293,200L295,200L297,200L300,200Z"
+                 style="fill:#5fd3bc;opacity:0.69999999999999996;fill-opacity:1"
+                 id="path154" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
