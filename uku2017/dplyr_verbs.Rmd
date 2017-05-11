@@ -1,0 +1,150 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+dplyr  &  ggplot2
+
+```{r}
+require(dplyr)
+require(ggplot2)
+#OR
+require(tidyverse)
+install.packages("nycflights13")
+
+```
+### Дієслова для роботи з даними
+
+filter
+arrange
+select / rename
+mutate / transmute
+summarise
+
+
+
+```{r}
+library(nycflights13)
+flights
+```
+How to filter and sort: 
+The filter() and arrange() verbs
+```{r}
+# filter(flights, month == 12, day == 13, carrier == "UA")  
+
+flights %>%
+  filter( month == 12, day == 13, carrier == "UA")  %>%
+  arrange(dep_delay, arr_delay)
+```
+How to sort in reverse order (descending)
+With desc() function inside of arrange()
+```{r}
+flights %>%
+  filter( month == 12, day == 13, carrier == "UA")  %>%
+  arrange(desc(dep_delay) ) %>%
+  View()
+```
+
+select
+```{r}
+flights %>%
+  select(year:dep_delay)  # each column from "year" to "dep_delay"
+
+flights %>%
+  select(-(year:dep_delay) )  # each except sequence from year to "dep_delay"
+
+flights %>% 
+  rename(year_new = year)
+```
+### Mutate - helps us create new columns
+```{r}
+flights %>%
+  mutate(gain = arr_delay - dep_delay) %>%
+  arrange(desc(gain) )
+
+flights %>%
+  mutate(
+    gain = arr_delay - dep_delay,
+    speed = distance / air_time * 60
+    ) %>%
+  arrange( desc(speed) )
+  
+# transmute - drops all columns except newly created
+flights %>%
+  transmute(
+    gain = arr_delay - dep_delay,
+    speed = distance / air_time * 60
+    ) %>%
+  arrange( desc(speed) )
+
+
+```
+How to change an order for columns? with select
+```{r}
+flights %>%
+  mutate(
+    gain = arr_delay - dep_delay,
+    speed = distance / air_time * 60
+    ) %>%
+  select(gain, speed, year:time_hour )
+```
+
+
+### Summarise - агреговані дані
+
+```{r}
+flights %>%
+  summarise(
+    mean_delay = mean(arr_delay, na.rm = TRUE)
+  )
+
+mean(flights$arr_delay, na.rm = TRUE)
+
+flights %>%
+  filter( !is.na(arr_delay) )
+```
+
+Дієслова для групування: group_by()
+```{r}
+flights %>%
+  group_by(carrier)  %>%
+  summarise(carrier_delay = mean(arr_delay, na.rm = TRUE), 
+            extrem_delay = max(arr_delay, na.rm = TRUE),
+            median_delay = median(arr_delay, na.rm = TRUE), 
+            sd = sd(arr_delay, na.rm = TRUE),
+            count = n() ) %>%
+  arrange(desc(median_delay))
+```
+
+```{r}
+flights %>%
+  group_by(dest)  %>%
+  summarise(
+    planes = n_distinct(tailnum), 
+    flight_amount = n() 
+  ) %>%
+  arrange(flight_amount)
+```
+
+```{r}
+require(ggplot2)
+flights %>%
+  mutate(air_delay = arr_delay - dep_delay) %>%
+  filter(!is.na(air_delay)) %>%
+  ggplot(aes(x = distance, y = air_delay)) + geom_point(alpha = 0.05) 
+```
+
+```{r}
+require(ggplot2)
+flights %>%
+  group_by(dest) %>%
+  summarise(
+    air_delay = mean(arr_delay, na.rm = T),
+    distance = mean(distance),
+    count = n()
+    ) %>% 
+    filter(count > 50) %>%
+    ggplot(aes(x = distance, y = air_delay)) + geom_point(alpha = 0.5) + geom_smooth()
+
+```
+
