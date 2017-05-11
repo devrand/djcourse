@@ -1,17 +1,15 @@
 ---
-title: "R Notebook"
+title: "Data manipulation grammar: basic dplyr verbs"
 output: html_notebook
 ---
 
-dplyr  &  ggplot2
+### Two main packages/tools: dplyr  &  ggplot2
 
 ```{r}
 require(dplyr)
 require(ggplot2)
 #OR
 require(tidyverse)
-install.packages("nycflights13")
-
 ```
 ### Дієслова для роботи з даними
 
@@ -20,32 +18,32 @@ arrange
 select / rename
 mutate / transmute
 summarise
-
+group_by
 
 
 ```{r}
 library(nycflights13)
 flights
 ```
-How to filter and sort: 
+### How to filter and sort: 
 The filter() and arrange() verbs
 ```{r}
-# filter(flights, month == 12, day == 13, carrier == "UA")  
-
 flights %>%
   filter( month == 12, day == 13, carrier == "UA")  %>%
   arrange(dep_delay, arr_delay)
 ```
+
 How to sort in reverse order (descending)
 With desc() function inside of arrange()
+
 ```{r}
 flights %>%
   filter( month == 12, day == 13, carrier == "UA")  %>%
   arrange(desc(dep_delay) ) %>%
-  View()
+  View() # так можна подивитися результат
 ```
 
-select
+### Select specific columns
 ```{r}
 flights %>%
   select(year:dep_delay)  # each column from "year" to "dep_delay"
@@ -56,6 +54,7 @@ flights %>%
 flights %>% 
   rename(year_new = year)
 ```
+
 ### Mutate - helps us create new columns
 ```{r}
 flights %>%
@@ -79,7 +78,8 @@ flights %>%
 
 
 ```
-How to change an order for columns? with select
+
+### How to change an order for columns? with select
 ```{r}
 flights %>%
   mutate(
@@ -90,24 +90,30 @@ flights %>%
 ```
 
 
-### Summarise - агреговані дані
-
+### Summarise - агреговані дані (як pivot table в елктронних таблицях)
+summarise зводить всю таблицю до одної строки
 ```{r}
 flights %>%
   summarise(
-    mean_delay = mean(arr_delay, na.rm = TRUE)
+    # якщо в строках нашої таблиці присутні NA замість чисел, це призводить до некоректного результату
+    # "na.rm = TRUE" - потрібно щоб викинути "NA" в таких функціях, як mean()
+    mean_delay = mean(arr_delay, na.rm = TRUE) 
   )
 
 mean(flights$arr_delay, na.rm = TRUE)
 
+# Інший спосіб відфільтрувати NA. 
+# Нагадаю що NA в мові R, це спеціальний об"єкт який означає "значення відсутнє"
 flights %>%
   filter( !is.na(arr_delay) )
 ```
 
-Дієслова для групування: group_by()
+### Дієслово для групування: group_by() - створює підгрупи
 ```{r}
 flights %>%
-  group_by(carrier)  %>%
+  # групує всі строки для конкретного carrier, кількість таких груп -
+  # дорівнює кількості різних значень в колонці carrier:
+  group_by(carrier)  %>%  
   summarise(carrier_delay = mean(arr_delay, na.rm = TRUE), 
             extrem_delay = max(arr_delay, na.rm = TRUE),
             median_delay = median(arr_delay, na.rm = TRUE), 
@@ -118,24 +124,29 @@ flights %>%
 
 ```{r}
 flights %>%
+  # групує всі строки з польотами у різні аеропорти (dest)
   group_by(dest)  %>%
   summarise(
-    planes = n_distinct(tailnum), 
-    flight_amount = n() 
+    planes = n_distinct(tailnum),  # скільки різних літаків було на цьому напрямку? 
+    flight_amount = n()            # скільки польотів вони зробили?
   ) %>%
   arrange(flight_amount)
 ```
 
+### Починаємо аналіз даних за допомогою візуалізації
+
 ```{r}
-require(ggplot2)
+require(ggplot2) # для графіків
 flights %>%
+  # створимо колонку щоб підрахувати якою стала затримка під час польоту
   mutate(air_delay = arr_delay - dep_delay) %>%
   filter(!is.na(air_delay)) %>%
+  # графік залежності затримки від дистанції перельоту
   ggplot(aes(x = distance, y = air_delay)) + geom_point(alpha = 0.05) 
 ```
 
 ```{r}
-require(ggplot2)
+# Те ж саме що вище, але агрегуємо і знаходим середнє для кожного аеропорту (dest)
 flights %>%
   group_by(dest) %>%
   summarise(
