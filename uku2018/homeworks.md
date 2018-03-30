@@ -46,7 +46,9 @@
 
 Підказка:
 
+```{r}
 library(nycflights13)
 data(package = "nycflights13")
+```
 
 
