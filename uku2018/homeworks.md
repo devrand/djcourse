@@ -51,4 +51,5 @@ library(nycflights13)
 data(package = "nycflights13")
 ```
 
-
+Підказка №2:
+https://github.com/justmarkham/dplyr-tutorial/blob/master/dplyr-tutorial.Rmd
