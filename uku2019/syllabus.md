@@ -31,8 +31,9 @@
 - Питання, які ви ставите до даних, і питання які вони  ставлять до вас 
 - Особливості візуального сприйняття: Око і мозок, когнітивні особливості – звідки беруться принципи ефективної подачі - інформації. Як правильно кодувати інформацію у візуальну форму.
 - Пам'ять проти погляду. Salience. Pop-ups
-- Мнемонічні правила інфодизайну. Далі - самі (див курс на Прометеус) 
+- Мнемонічні правила інфодизайну. Далі - самі (див [курс на Прометеус](https://courses.prometheus.org.ua/courses/IRF/DV101/2016_T3/about) ) 
 - Архітектура візуалізації (найважливіше - показуй найголовніше -> [ієрархія](https://www.canva.com/learn/typeface-fonts/) ) [відео](https://vimeo.com/13418563)
+- Ще раз про важливість ієрархії: [приклад 1](https://www.ics.com/blog/and-winner-isthe-miss-universe-bad-design), [приклад 2](https://thehustle.co/steve-harvey-was-set-up-to-fail-in-miss-universe)
 - [Шрифтовий дизайн](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography) - з нього все починається, він - основа. [Книжка](https://practicaltypography.com/index.html)
 - [Відео, графік, Darkhorse](https://www.youtube.com/watch?v=bDbJBWvonVI). Яке ДЗ на цей блок: 1. Знайти і передивитися всі відео від Darkhorse? (((???)))
 
