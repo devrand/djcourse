@@ -51,19 +51,6 @@
 
 *****  другий день ****
 
-### Огляд інструментів для роботи з даними та візуалізацій
-    - MOAL: http://bit.ly/12uokPm  
-    - Raw (https://rawgraphs.io/)
-    - Datawrapper (https://www.datawrapper.de/)
-    
-    - Vega / Vega Lite (https://vega.github.io/vega-lite/)
-    - Idyll (http://idyll-lang.org/)
-    - Floorish (https://flourish.studio/)
-    
-    - Observable (https://beta.observablehq.com/)
-    - R/Python notebooks
-
-    - Tableau (https://www.tableau.com/)  
     
 ### Джерела даних: Інформаційні запити, Відкриті API, створюємо дані самі (приклади)
     - Веб-Скрейпінг: Практичний воркшоп 
@@ -126,6 +113,23 @@
     - що шукаємо?
     - case 1, diamonds
     - case 2, літаки + самостійна робота
+    
+  
+ ### Огляд інструментів для роботи з даними та візуалізацій
+    - MOAL: http://bit.ly/12uokPm  
+    - Raw (https://rawgraphs.io/)
+    - Datawrapper (https://www.datawrapper.de/)
+    
+    - Vega / Vega Lite (https://vega.github.io/vega-lite/)
+    - Idyll (http://idyll-lang.org/)
+    - Floorish (https://flourish.studio/)
+    
+    - Observable (https://beta.observablehq.com/)
+    - R/Python notebooks
+
+    - Tableau (https://www.tableau.com/)  
+
+    
 
 ### Перший великий проект. 
     - Вибір теми при наявному наборі даних( пробуємо використати "Як будувати роботу і вибирати тему")
