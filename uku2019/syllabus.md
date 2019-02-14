@@ -35,8 +35,7 @@
     Пам'ять проти погляду. Salience. Pop-ups
     - Мнемонічні правила інфодизайну. Далі - самі (див курс на Прометеус) 
     - Архітектура візуалізації (найважливіше - показуй найголовніше -> ієрархія)
-    - [Шрифтовий дизайн](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography) - з нього все починається, він - основа
-    - 
+   [Шрифтовий дизайн](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography) - з нього все починається, він - основа
    
 
 ### Перший інструмент: ChartBuilder. 
