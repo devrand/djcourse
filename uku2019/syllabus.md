@@ -126,9 +126,10 @@
 -- 5 день
 
 ### Приклади дослідження даних 
-    - що шукаємо?
-    - case 1, diamonds
-    - case 2, літаки + самостійна робота
+   - що шукаємо?
+   - [Протоколи торгів](https://github.com/devrand/slides/blob/master/tapas100517/eda_presentation.Rmd) 
+   - case 2, [diamonds](https://github.com/devrand/slides/blob/master/pdf26092017/diamonds_are_forever.Rmd)
+   - case 3, ... літаки + самостійна робота
     
   
  ### Огляд інструментів для роботи з даними та візуалізацій
