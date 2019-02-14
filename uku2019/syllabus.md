@@ -33,7 +33,9 @@
 - Пам'ять проти погляду. Salience. Pop-ups
 - Мнемонічні правила інфодизайну. Далі - самі (див курс на Прометеус) 
 - Архітектура візуалізації (найважливіше - показуй найголовніше -> [ієрархія](https://www.canva.com/learn/typeface-fonts/) ) [відео](https://vimeo.com/13418563)
-- [Шрифтовий дизайн](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography) - з нього все починається, він - основа. [Книжка]()
+- [Шрифтовий дизайн](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography) - з нього все починається, він - основа. [Книжка](https://practicaltypography.com/index.html)
+- [Відео, графік, Darkhorse](https://www.youtube.com/watch?v=bDbJBWvonVI). Яке ДЗ на цей блок: 1. Знайти і передивитися всі відео від Darkhorse? (((???)))
+
    
 
 ### Перший інструмент: ChartBuilder. 
