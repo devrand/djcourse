@@ -1,0 +1,58 @@
+---
+title: "Scraper Example"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+#install.packages('rvest')
+library(rvest)
+```
+
+### web-scaraper for news site
+Довідкова інформація
+css-selectors: https://www.w3schools.com/cssref/css_selectors.asp
+
+Нагадую! Конструкція у формі
+
+data %>% function1() %>% function2() 
+
+це конвейер, 1. який бере дані (об'єкт що розташований ліворуч),  2. трансформує їх за допомогою першої функції, 3. і результат передає в другу функцію (function2), яка їх знов таки трансформує у щось нове - так ми отримуємо кінцевий результат. У подібних конвеєрах кількість функцій, що перетворюють(трансформують дані) може бути довільною.
+
+```{r get}
+url <- "http://news.liga.net/all/"
+content <- read_html(url)
+
+
+### Title
+# 1st attempt (we'll try and fail)
+content %>% html_nodes('li div.title a') %>% html_text()
+
+# 2st attempt, slightly better 
+content %>% html_nodes('li div.title a:first-child') %>% html_text()
+
+# success!
+title <- content %>% html_nodes('div.articles-list li div.title a:first-child') %>% html_text()
+
+### Link to article
+# g! rvest href attribute (how to find function we need to extract attribute of a tag)
+link <- content %>% html_nodes('div.articles-list li div.title a:first-child') %>% html_attr('href')
+
+
+
+### Time
+content %>% html_nodes('li div.date a:first-child') %>% html_text() #nothing
+content %>% html_nodes('li div.date') %>% html_text() # almost
+content %>% html_nodes('div.articles-list li div.date') %>% html_text() # yep!
+
+time <- content %>% html_nodes('div.articles-list li div.date') %>% html_text() 
+```
+
+
+#### TODO: create dataframe from results and save it to csv file
+
+
+
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
