@@ -18,6 +18,7 @@
 ## День 1,2
 
 ### Вступний блок
+11:40-13:00, 13:30-14:50, 15:00-16:20
 
 - Про що цей курс. [Іл. 1](../vis/lections/figures/week01/fig_01.1.png) vs [Іл. 2](../vis/lections/figures/week01/fig_01.2.png) 
 - Що відбувається у світі? (Texty. [The Pudding](https://pudding.cool/)). Як слідкувати за найкращим? Список конкурсів([1](https://www.informationisbeautifulawards.com/news/323-information-is-beautiful-awards-2018-the-winners), [2](http://www.malofiejgraphics.com/awards-list/), [3](https://datajournalismawards.org/2019/02/07/5-years-of-winning-data-journalism/), [4](https://www.snd.org/2019/02/2019-best-of-digital-medal-winners/) )  + твітер ([1](https://twitter.com/arnicas), [2](https://twitter.com/visualisingdata))
