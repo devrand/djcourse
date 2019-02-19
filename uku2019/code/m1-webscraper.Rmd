@@ -20,39 +20,35 @@ data %>% function1() %>% function2()
 це конвейер, 1. який бере дані (об'єкт що розташований ліворуч),  2. трансформує їх за допомогою першої функції, 3. і результат передає в другу функцію (function2), яка їх знов таки трансформує у щось нове - так ми отримуємо кінцевий результат. У подібних конвеєрах кількість функцій, що перетворюють(трансформують дані) може бути довільною.
 
 ```{r get}
-url <- "http://news.liga.net/all/"
+url <- "https://ua-news.liga.net/"
 content <- read_html(url)
 
 
 ### Title
-# 1st attempt (we'll try and fail)
-content %>% html_nodes('li div.title a') %>% html_text()
+title <- content %>% html_nodes('div.news-nth-title a') %>% html_text()
 
-# 2st attempt, slightly better 
-content %>% html_nodes('li div.title a:first-child') %>% html_text()
-
-# success!
-title <- content %>% html_nodes('div.articles-list li div.title a:first-child') %>% html_text()
 
 ### Link to article
 # g! rvest href attribute (how to find function we need to extract attribute of a tag)
-link <- content %>% html_nodes('div.articles-list li div.title a:first-child') %>% html_attr('href')
+link <- content %>% html_nodes('div.news-nth-title a') %>% html_attr('href')
 
 
 
 ### Time
-content %>% html_nodes('li div.date a:first-child') %>% html_text() #nothing
-content %>% html_nodes('li div.date') %>% html_text() # almost
-content %>% html_nodes('div.articles-list li div.date') %>% html_text() # yep!
+datetime <- content %>% html_nodes('div.news-nth-time') %>% html_attr('data-date') #nothing
 
-time <- content %>% html_nodes('div.articles-list li div.date') %>% html_text() 
+
 ```
 
 
 #### TODO: create dataframe from results and save it to csv file
 
+```{r}
+df <- data.frame(headline = title, url = link, date_time = datetime  )
+
+write.csv(df, 'liga_net_news.csv')
+```
 
 
 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
