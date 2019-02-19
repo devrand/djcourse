@@ -36,7 +36,7 @@
 - Архітектура візуалізації (найважливіше - показуй найголовніше -> [ієрархія](https://www.canva.com/learn/typeface-fonts/) ) [відео](https://vimeo.com/13418563)
 - Ще раз про важливість ієрархії: [приклад 1](https://www.ics.com/blog/and-winner-isthe-miss-universe-bad-design), [приклад 2](https://thehustle.co/steve-harvey-was-set-up-to-fail-in-miss-universe)
 - [Шрифтовий дизайн](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography) - з нього все починається, він - основа. [Книжка](https://practicaltypography.com/index.html)
-- [Відео, графік, Darkhorse](https://www.youtube.com/watch?v=bDbJBWvonVI). Яке ДЗ на цей блок: 1. Знайти і передивитися всі відео від Darkhorse? (((???)))
+- [Відео, графік, Darkhorse](https://www.youtube.com/watch?v=bDbJBWvonVI). Яке ДЗ на цей блок: 1. Знайти і передивитися всі відео від Darkhorse: [мапа](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition), [таблиця](https://www.darkhorseanalytics.com/blog/clear-off-the-table), [стовпчики](https://www.darkhorseanalytics.com/blog/data-looks-better-naked), [млинець](https://www.darkhorseanalytics.com/blog/salvaging-the-pie)
 
    
 
@@ -49,7 +49,7 @@
     - Заводимо персональний github, робимо перший сайт на github.io
 
 
-ДЗ: інсталяція R та RStudio, подивитися на зміст [книги](https://serialmentor.com/dataviz/)  
+ДЗ: інсталяція [R](https://www.r-project.org/) та [RStudio](https://www.rstudio.com/products/rstudio/download/), подивитися на зміст [книги](https://serialmentor.com/dataviz/)  
 
 
 
