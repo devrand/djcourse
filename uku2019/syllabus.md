@@ -38,6 +38,7 @@
 - [Шрифтовий дизайн](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography) - з нього все починається, він - основа. [Книжка](https://practicaltypography.com/index.html)
 - [Відео, графік, Darkhorse](https://www.youtube.com/watch?v=bDbJBWvonVI). Яке ДЗ на цей блок: 1. Знайти і передивитися всі відео від Darkhorse: [мапа](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition), [таблиця](https://www.darkhorseanalytics.com/blog/clear-off-the-table), [стовпчики](https://www.darkhorseanalytics.com/blog/data-looks-better-naked), [млинець](https://www.darkhorseanalytics.com/blog/salvaging-the-pie)
 
+ДЗ: інсталяція [R](https://www.r-project.org/) та [RStudio](https://www.rstudio.com/products/rstudio/download/)
    
 ### Другий день 
 
@@ -48,7 +49,7 @@
    - Заводимо персональний github, робимо перший сайт на github.io
 
 
-ДЗ: інсталяція [R](https://www.r-project.org/) та [RStudio](https://www.rstudio.com/products/rstudio/download/), подивитися на зміст [книги](https://serialmentor.com/dataviz/)  
+ДЗ: подивитися на книгу [книги](https://serialmentor.com/dataviz/)  
 
 
 
