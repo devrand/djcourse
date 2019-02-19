@@ -24,9 +24,9 @@
 - Що відбувається у світі? (Texty. [The Pudding](https://pudding.cool/)). Як слідкувати за найкращим? Список конкурсів([1](https://www.informationisbeautifulawards.com/news/323-information-is-beautiful-awards-2018-the-winners), [2](http://www.malofiejgraphics.com/awards-list/), [3](https://datajournalismawards.org/2019/02/07/5-years-of-winning-data-journalism/), [4](https://www.snd.org/2019/02/2019-best-of-digital-medal-winners/) )  + твітер ([1](https://twitter.com/arnicas), [2](https://twitter.com/visualisingdata))
 - Настрій цього курсу (морозиво і машина (ДЗ: чи це правда?) - пошук таємниць і відкриттів == розуміння світу)
 - Для чого візуалізація? Приклади: [WSJ-вакцини](./img/vaccines.png), номери машин
-- Історії, які ми шукаємо у даних ([Вонегут](https://www.youtube.com/watch?v=oP3c1h8v2ZQ), [презентація на LMF2017](https://docs.google.com/presentation/d/1_qLXvQYmdcdRsAq8wAFLxIvwnIrk5OrveEgACKQr0jo/edit#slide=id.g2255d7c6ec_1_110)) (найкращі - синтетичні проекти, подружіться з CompSci з УКУ!)
-- Ефективна робота з інформацією, все зводиться до неї: [пошук](https://ahrefs.com/blog/google-advanced-search-operators/) + shortcuts, дві найкраші речі, про які ви тут дізнаєтесь   
+- Історії, які ми шукаємо у даних ([Вонегут](https://www.youtube.com/watch?v=oP3c1h8v2ZQ), [презентація на LMF2017](https://docs.google.com/presentation/d/1_qLXvQYmdcdRsAq8wAFLxIvwnIrk5OrveEgACKQr0jo/edit#slide=id.g2255d7c6ec_1_110)) (найкращі - синтетичні проекти, подружіться з CompSci з УКУ!) 
 - Великий цикл перероджень: дані-обробка-аналіз-візуалізація-дані-обробка-...
+- Ефективна робота з інформацією, все зводиться до неї: [пошук](https://ahrefs.com/blog/google-advanced-search-operators/) + shortcuts, дві найкраші речі, про які ви тут дізнаєтесь  
 - Як будувати роботу і вибирати тему
 - Головна ідея візуалізації, наратив, історія. Що будем показувати? 
 - Питання, які ви ставите до даних, і питання які вони  ставлять до вас 
