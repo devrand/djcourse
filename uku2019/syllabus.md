@@ -45,13 +45,13 @@
 ### День 2
 
 ### Перший інструмент: ChartBuilder. 
-   - Табличні дані. Типи і формати даних ([csv](https://github.com/texty/president_polls/blob/master/data/chart_data_points.csv), [json - API](http://www.json.org/example.html), shp). [Широкий і довгий формат](https://docs.google.com/spreadsheets/d/1SCzjlPovSCJiJDlLgvM_EycM5BtN9LdQqnPWDPPyBog/edit#gid=0), який для чого використовується?
+   - Табличні дані. Типи і формати даних ([csv](https://github.com/texty/president_polls/blob/master/data/chart_data_points.csv), [json - API](http://www.json.org/example.html), shp). [Широкий і довгий формат](https://docs.google.com/spreadsheets/d/1SCzjlPovSCJiJDlLgvM_EycM5BtN9LdQqnPWDPPyBog/edit#gid=0), який і для чого використовується?
    - Хором [робимо графіки](https://quartz.github.io/Chartbuilder/) 
    - Проблеми, які зустрічаються одразу (форматування, локалі, неправильна форма даних, ... - приклади.
    - Заводимо персональний github, робимо перший сайт на github.io
 
 
-ДЗ: подивитися на книгу [книги](https://serialmentor.com/dataviz/)  
+ДЗ: подивитися на [книгу](https://serialmentor.com/dataviz/)  
 
 
 
