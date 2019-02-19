@@ -1,3 +1,5 @@
 *.dbf
 .Rproj.user
 *.Rproj
+*.csv
+*.html
