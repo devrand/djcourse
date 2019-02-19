@@ -15,17 +15,18 @@
 
 
 
-## День 1,2
+### День 1
 
 ### Вступний блок
+11:40-13:00, 13:30-14:50, 15:00-16:20
 
-- Про що цей курс
+- Про що цей курс. [Іл. 1](../vis/lections/figures/week01/fig_01.1.png) vs [Іл. 2](../vis/lections/figures/week01/fig_01.2.png) 
 - Що відбувається у світі? (Texty. [The Pudding](https://pudding.cool/)). Як слідкувати за найкращим? Список конкурсів([1](https://www.informationisbeautifulawards.com/news/323-information-is-beautiful-awards-2018-the-winners), [2](http://www.malofiejgraphics.com/awards-list/), [3](https://datajournalismawards.org/2019/02/07/5-years-of-winning-data-journalism/), [4](https://www.snd.org/2019/02/2019-best-of-digital-medal-winners/) )  + твітер ([1](https://twitter.com/arnicas), [2](https://twitter.com/visualisingdata))
 - Настрій цього курсу (морозиво і машина (ДЗ: чи це правда?) - пошук таємниць і відкриттів == розуміння світу)
-- Для чого візуалізація? Приклади: WSJ - вакцини, номери машин
-- Історії, які ми шукаємо у даних ([Вонегут](https://www.youtube.com/watch?v=oP3c1h8v2ZQ), [презентація на LMF2017](https://docs.google.com/presentation/d/1_qLXvQYmdcdRsAq8wAFLxIvwnIrk5OrveEgACKQr0jo/edit#slide=id.g2255d7c6ec_1_110)) (найкращі - синтетичні проекти, подружіться з CompSci з УКУ!)
-- Ефективна робота з інформацією, все зводиться до неї: [пошук](https://ahrefs.com/blog/google-advanced-search-operators/) + shortcuts, дві найкраші речі, про які ви тут дізнаєтесь   
+- Для чого візуалізація? Приклади: [WSJ-вакцини](./img/vaccines.png), номери машин
+- Історії, які ми шукаємо у даних ([Вонегут](https://www.youtube.com/watch?v=oP3c1h8v2ZQ), [презентація на LMF2017](https://docs.google.com/presentation/d/1_qLXvQYmdcdRsAq8wAFLxIvwnIrk5OrveEgACKQr0jo/edit#slide=id.g2255d7c6ec_1_110)) (найкращі - синтетичні проекти, подружіться з CompSci з УКУ!) 
 - Великий цикл перероджень: дані-обробка-аналіз-візуалізація-дані-обробка-...
+- Ефективна робота з інформацією, все зводиться до неї: [пошук](https://ahrefs.com/blog/google-advanced-search-operators/) + shortcuts, дві найкраші речі, про які ви тут дізнаєтесь  
 - Як будувати роботу і вибирати тему
 - Головна ідея візуалізації, наратив, історія. Що будем показувати? 
 - Питання, які ви ставите до даних, і питання які вони  ставлять до вас 
@@ -35,21 +36,24 @@
 - Архітектура візуалізації (найважливіше - показуй найголовніше -> [ієрархія](https://www.canva.com/learn/typeface-fonts/) ) [відео](https://vimeo.com/13418563)
 - Ще раз про важливість ієрархії: [приклад 1](https://www.ics.com/blog/and-winner-isthe-miss-universe-bad-design), [приклад 2](https://thehustle.co/steve-harvey-was-set-up-to-fail-in-miss-universe)
 - [Шрифтовий дизайн](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography) - з нього все починається, він - основа. [Книжка](https://practicaltypography.com/index.html)
-- [Відео, графік, Darkhorse](https://www.youtube.com/watch?v=bDbJBWvonVI). Яке ДЗ на цей блок: 1. Знайти і передивитися всі відео від Darkhorse? (((???)))
+- [Відео, графік, Darkhorse](https://www.youtube.com/watch?v=bDbJBWvonVI). Яке ДЗ на цей блок: 1. Знайти і передивитися всі відео від Darkhorse: [мапа](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition), [таблиця](https://www.darkhorseanalytics.com/blog/clear-off-the-table), [стовпчики](https://www.darkhorseanalytics.com/blog/data-looks-better-naked), [млинець](https://www.darkhorseanalytics.com/blog/salvaging-the-pie)
 
+ДЗ: інсталяція [R](https://www.r-project.org/) та [RStudio](https://www.rstudio.com/products/rstudio/download/)
    
+   
+   
+### День 2
 
 ### Перший інструмент: ChartBuilder. 
-    - Табличні дані. Типи і формати даних (csv, jason, shp). Широкий і довгий формат, який для чого використовується?
-    - Хором [робимо графіки](https://quartz.github.io/Chartbuilder/) 
-    - Проблеми, які зустрічаються одразу (форматування, локалі, неправильна форма даних, ... - приклади.
-    - Заводимо персональний github, робимо перший сайт на github.io
+   - Табличні дані. Типи і формати даних ([csv](https://github.com/texty/president_polls/blob/master/data/chart_data_points.csv), [json - API](http://www.json.org/example.html), shp). [Широкий і довгий формат](https://docs.google.com/spreadsheets/d/1SCzjlPovSCJiJDlLgvM_EycM5BtN9LdQqnPWDPPyBog/edit#gid=0), який для чого використовується?
+   - Хором [робимо графіки](https://quartz.github.io/Chartbuilder/) 
+   - Проблеми, які зустрічаються одразу (форматування, локалі, неправильна форма даних, ... - приклади.
+   - Заводимо персональний github, робимо перший сайт на github.io
 
 
-ДЗ: інсталяція R та RStudio, подивитися на зміст [книги](https://serialmentor.com/dataviz/)  
+ДЗ: подивитися на книгу [книги](https://serialmentor.com/dataviz/)  
 
 
-*****  другий день ****
 
     
 ### Джерела даних: Інформаційні запити, Відкриті API, створюємо дані власноруч (приклади)
