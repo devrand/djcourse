@@ -62,7 +62,7 @@
 2. OSINT, [Bellingcat's Digital Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit)
 3. Веб-Скрейпінг: Практичний воркшоп 
         - Як влаштована сторінка HTML (хором редагуємо сайт) 
-        - Що таке теги, дерево елементів DOM, css, css-selectors?
+        - Що таке теги, дерево елементів DOM, css, [css-selectors](https://www.w3.org/TR/css-2010/#selectors)
         - Знайомство з інструментами розробника
         - Перша програма на R (rvest)
    
