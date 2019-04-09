@@ -1,0 +1,54 @@
+---
+title: "scraper"
+output: html_document
+---
+
+
+```{r}
+install.packages('rvest')
+```
+
+
+
+```{r setup, include=FALSE}
+#install.packages('rvest')
+library(rvest)
+```
+
+### web-scaraper for news site
+Довідкова інформація
+css-selectors: https://www.w3schools.com/cssref/css_selectors.asp
+
+Нагадую! Конструкція у формі
+
+data %>% function1() %>% function2() 
+
+це конвейер, 1. який бере дані (об'єкт що розташований ліворуч),  2. трансформує їх за допомогою першої функції, 3. і результат передає в другу функцію (function2), яка їх знов таки трансформує у щось нове - так ми отримуємо кінцевий результат. У подібних конвеєрах кількість функцій, що перетворюють(трансформують дані) може бути довільною.
+
+```{r get}
+url <- "https://ua-news.liga.net/"
+content <- read_html(url)
+
+
+### Title
+title <- content %>% html_nodes('div.news-nth-title a') %>% html_text()
+
+
+
+
+### Link to article
+# g! rvest href attribute (how to find function we need to extract attribute of a tag)
+link <- content %>% html_nodes('div.news-nth-title a') %>%     html_attr('href')
+### Time
+datetime <- content %>% html_nodes('div.news-nth-time') %>% html_attr('data-date') #nothing
+```
+
+
+#### TODO: create dataframe from results and save it to csv file
+
+```{r}
+df <- data.frame(headline = title, url = link, date_time = datetime  )
+write.csv(df, 'liga_net_news.csv')
+```
+
+".photovideo-a  div  "
