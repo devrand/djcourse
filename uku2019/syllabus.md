@@ -45,13 +45,13 @@
 ### День 2
 
 ### Перший інструмент: ChartBuilder. 
-   - Табличні дані. Типи і формати даних ([csv](https://github.com/texty/president_polls/blob/master/data/chart_data_points.csv), [json - API](http://www.json.org/example.html), shp). [Широкий і довгий формат](https://docs.google.com/spreadsheets/d/1SCzjlPovSCJiJDlLgvM_EycM5BtN9LdQqnPWDPPyBog/edit#gid=0), який для чого використовується?
+   - Табличні дані. Типи і формати даних ([csv](https://github.com/texty/president_polls/blob/master/data/chart_data_points.csv), [json - API](http://www.json.org/example.html), shp). [Широкий і довгий формат](https://docs.google.com/spreadsheets/d/1SCzjlPovSCJiJDlLgvM_EycM5BtN9LdQqnPWDPPyBog/edit#gid=0), який і для чого використовується?
    - Хором [робимо графіки](https://quartz.github.io/Chartbuilder/) 
    - Проблеми, які зустрічаються одразу (форматування, локалі, неправильна форма даних, ... - приклади.
    - Заводимо персональний github, робимо перший сайт на github.io
 
 
-ДЗ: подивитися на книгу [книги](https://serialmentor.com/dataviz/)  
+ДЗ: подивитися на [книгу](https://serialmentor.com/dataviz/)  
 
 
 
@@ -62,7 +62,7 @@
 2. OSINT, [Bellingcat's Digital Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit)
 3. Веб-Скрейпінг: Практичний воркшоп 
         - Як влаштована сторінка HTML (хором редагуємо сайт) 
-        - Що таке теги, дерево елементів DOM, css, css-selectors?
+        - Що таке теги, дерево елементів DOM, css, [css-selectors](https://www.w3.org/TR/css-2010/#selectors)
         - Знайомство з інструментами розробника
         - Перша програма на R (rvest)
    
@@ -72,11 +72,11 @@
 
 
 
+------------ перші два дні насправді закінчили ся тут --------------------
+
 ДЗ: завести API key для twitter  
 
-
-
-### Дослідницький аналіз даних (Excel). 
+### Дослідницький аналіз даних ([електронні таблиці](https://docs.google.com/spreadsheets/d/1yyMQ9BawYo-eR0kybB6-joeKE9SB8y2FL-OYoAP4kJU/edit?usp=sharing)). 
    - Сортування, фільтрація. Умовне форматування.
    - Робота з строковими функціями. 
    - Обчислення нових змінних(Трансформація значень у колонках). 
@@ -85,10 +85,10 @@
    - Регулярні вирази - знайомство. Синтаксис. Застосування в електронних таблицях. TODO: notebook по регвиразам ((Бонус???))
    - РОбота з API через таблицю (((Бонус???)))
 
+------------ перші два дні мали закінчитися тут --------------------
 
------------- перші два дні закінчуються тут --------------------
 
-## День 3, 4
+### День 3
 
 -- 3 день
 
@@ -107,7 +107,8 @@
    - Ще раз, чому програмувати в R? [Excel vs R](https://www.jessesadler.com/post/excel-vs-r/) 
 
 
--- 4 день
+### День 4
+
 
 ### На рівень вище: Граматика даних
    - Добре структуровані дані
@@ -118,7 +119,7 @@
 
 
 ### Граматика графіки (практичний workshop)
-   - анатомія ggplot та побудова графіків, [Книжка](http://socviz.co/) 
+   - анатомія ggplot та побудова графіків, 
    - Функції візуалізації даних. Які типи графіків використовувати у різних ситуаціях з різними типами даних. Ефективні види графіків, які нечасто використовуються: графік розсіяння, slope chart, dot chart, small multiples, гістограма
 
         -- Пропорції (співвідношення) 
@@ -126,6 +127,8 @@
         -- Зв"язок
         -- Розподіл (+ пара необхідних термінів із статистики)
     - Екзотичні способи, [ксенографікс](https://xeno.graphics/)
+
+ДЗ: [Книжка](http://socviz.co/) 
 
 ## День 5
 -- 5 день
