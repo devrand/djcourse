@@ -142,7 +142,7 @@
 
 ### Приклади дослідження даних 
    - що шукаємо?
-   - case 1 [євробляхи](http://texty.org.ua/d/auto_euro/) 
+   - case 1 [євробляхи](http://texty.org.ua/d/auto_euro/) (TODO: reproducible)
    - case 2, [diamonds](https://github.com/devrand/slides/blob/master/pdf26092017/diamonds_are_forever.Rmd)
    - case 3, ... літаки + самостійна робота
     
