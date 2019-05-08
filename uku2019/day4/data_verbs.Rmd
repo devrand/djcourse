@@ -11,6 +11,7 @@ output: html_document
 3. filter()  --- створити фільтер
 4. mutate() --- використати формулу і наявні дані, для того щоб підрахувати значення для нової колонки 
 5. group_by() + summarize() --- аналог pivot table в Excel
+6. join - об'єднання таблиць
 
 
 ```{r}
@@ -84,18 +85,53 @@ df4 <- df %>%
 ```
 
 
-### Домашнє завдання, №2
-
-
-Знайдіть наступне у наших даних
-1. сумарну площу всього житла для кожного рядка (створіть нову колонку)
-2. сумарний дохід родини та персони (створіть нову колонку)
-3. відфільтруйте всіх, у кого сумарна площа менше 100 м2 та сумарний дохід > 1 млн гривень
-4. відсортуйте по зменшенню сумарного доходу
-5. виберіть з початкової таблиці лише все, що пов'язане з іменем та підрахованими даними
-6. скомбінуйте пункти 1,2,3,4,5 в один вираз за допомогою операторів %>%, призначте цю нову таблицю змінній з назвою df_new, та зберіжіть її у файлі
 
 
 
+### Mutate
+Щоб створити нову колонку в таблиці з даними, на основі тих, що вже існують 
 
+```{r}
+df_new <- df %>% 
+  mutate(income_usd = income / 29, total_income = income + income_family)
+
+df_new
+```
+
+
+### Зв'язка Group_by + Summarize (аналог Pivot table)
+
+```{r}
+
+df_new1 <- df %>%
+  group_by(office) %>%
+  summarise(number_of_ppl = n(), mean_income = mean(income), sd_income=sd(income) )
+ 
+
+df_new1 <- df %>%
+  group_by(name) %>%
+  summarise(count=n(), maximum = max(income) ) 
+ 
+df_new1 <- df %>%
+  group_by(office, name) %>%
+  summarise(count=n(), maximum = mean(income) ) 
+
+
+```
+
+### Join - об'єднання таблиць за допомогою значень в колонках
+
+```{r}
+install.packages("nycflights13")
+library(nycflights13)
+View(flights)
+
+View(airlines)  
+
+```
+
+```{r}
+df_flights <- flights %>%
+  inner_join(airlines, by = 'carrier' )
+```
 
