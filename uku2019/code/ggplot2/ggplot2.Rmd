@@ -24,6 +24,16 @@ date: '`r Sys.Date()`'
 - coordinates
 - themes
 
+
+ggplot(data = <DATA>) + 
+  <GEOM_FUNCTION>(
+     mapping = aes(<MAPPINGS>),
+     stat = <STAT>, 
+     position = <POSITION>
+  ) +
+  <COORDINATE_FUNCTION> +
+  <FACET_FUNCTION>
+
 ## Принади ggplot2
 
 - Хороші дефолтні налаштування
