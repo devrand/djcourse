@@ -128,7 +128,7 @@
         -- Розподіл (+ пара необхідних термінів із статистики)
     - Екзотичні способи, [ксенографікс](https://xeno.graphics/)
 
-ДЗ: [Книжка](http://socviz.co/) 
+ДЗ: [Книжка](http://socviz.co/), [інша книжка: R for data sciense](https://r4ds.had.co.nz/index.html) - Прочитати дві глави, Data transformation та Data visualization
 
 ## День 5
 -- 5 день
