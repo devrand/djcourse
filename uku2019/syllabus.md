@@ -142,7 +142,7 @@
 
 ### Приклади дослідження даних 
    - що шукаємо?
-   - [Протоколи торгів](https://github.com/devrand/slides/blob/master/tapas100517/eda_presentation.Rmd) 
+   - case 1 [євробляхи](http://texty.org.ua/d/auto_euro/) 
    - case 2, [diamonds](https://github.com/devrand/slides/blob/master/pdf26092017/diamonds_are_forever.Rmd)
    - case 3, ... літаки + самостійна робота
     
