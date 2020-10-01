@@ -160,6 +160,7 @@
     - R/Python notebooks
 
     - Tableau (https://www.tableau.com/)  
+    - Трохи застарілий, але корисний великий [список інструментів та джерел даних](https://docs.google.com/spreadsheets/d/1miN1dUvPMmnLdhunhZCil80LwlJ3xj8gRXrUNA-KrIE/edit#gid=0)
 
 ### Робота з кольором
 - [гайд по інструментам](https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/)
